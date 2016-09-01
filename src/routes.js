@@ -1,16 +1,18 @@
 import React from 'react';
 import { Route, IndexRoute } from 'react-router';
-import Body from './Body.js';
+import Container from './Container.js';
 import App from './App.js';
+
+// The container component should grab the param from its props (from router) and send it to the body, to be displayed
 
 const routes = (
     <Route path="/" component={App}>
-      <IndexRoute component={Body} />
-      <Route path="/all" component={Body}></Route>
-      <Route path="/sports" component={Body}></Route>
-      <Route path="/tech" component={Body}></Route>
-      <Route path="/politics" component={Body}></Route>
-      <Route path="/arts" component={Body}></Route>
+      <IndexRoute component={Container} />
+      <Route path="/all" component={Container}></Route>
+      <Route path="/sports" component={Container}></Route>
+      <Route path="/tech" component={Container}></Route>
+      <Route path="/politics" component={Container}></Route>
+      <Route path="/arts" component={Container}></Route>
     </Route>
 );
 
