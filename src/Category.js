@@ -4,7 +4,7 @@ import { Link, IndexLink } from 'react-router';
 class Category extends React.Component {
   render() {
     return (
-      <div className="categories">
+      <ul className="categories center hide-on-med-and-down">
         <li>
           <IndexLink to="/" activeClassName="active">All</IndexLink>
         </li>
@@ -20,7 +20,7 @@ class Category extends React.Component {
         <li>
           <Link to="/arts" activeClassName="active">Arts</Link>
         </li>
-      </div>
+      </ul>
     );
   }
 }

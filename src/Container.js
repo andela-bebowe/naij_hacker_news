@@ -1,5 +1,6 @@
 import React from 'react';
 import Body from './Body.js';
+import newsData from './data.json'
 
 class Container extends React.Component {
   constructor(props) { 
@@ -7,10 +8,17 @@ class Container extends React.Component {
     this.state = {};
   }
   render() {
-    return (<Body data={this.state[this.props.location.pathname]} />);
+    return (<Body pathData={this.state[this.props.location.pathname]} newsData={newsData} />);
   }
   componentDidMount() {
-    this.setState({ "/": "The sethome page", "/arts": "The setarts page", "/sports": "The setsports page", "/politics": "The setpolitics page", "/tech": "The settech page"})
+    this.setState({
+      "/": "The home page",
+      "/arts": "The arts page",
+      "/sports": "The sports page",
+      "/politics": "The politics page",
+      "/tech": "The tech page",
+      "newsData": newsData
+    })
   }
 }
 

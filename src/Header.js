@@ -5,20 +5,25 @@ import Category from './Category.js'
 class Header extends React.Component {
   render() {
     return (
-      <div className="header">
-        <header>
-          <nav>
+      <div>
+        <nav>
+          <div className="nav-wrapper">
+            <a href="#" data-activates="mobile-demo" className="button-collapse"><i className="material-icons">menu</i></a>
             <ul>
-              <li>
-                <Link to="/" activeClassName="active"><img src="img/logo.svg" width="10px" height="10px" alt="logo" /></Link>
-              </li>
-              <Category />
-              <li>
-                <input type="text" placeholder="Search" />
+              <li className="left">
+                <Link to="/"><span>Naija Hacker News </span><i className="fa fa-hacker-news" aria-hidden="true"></i></Link>
               </li>
             </ul>
-          </nav>
-        </header>
+            <Category />
+            <form className="right">
+              <div className="input-field">
+                <input ref="search" type="search" id="search" required />
+                <label htmlFor="search"><i className="material-icons">search</i></label>
+                <i className="material-icons">close</i>
+              </div>
+            </form>
+          </div>
+        </nav>
       </div>
     );
   }

@@ -1,5 +1,8 @@
-body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
+@media only screen and (max-width: 410px) {
+  html {
+    font-size: 12px;
+  }
+}
+i.material-icons {
+  font-size: 1.5rem !important;
 }
