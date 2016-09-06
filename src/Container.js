@@ -1,6 +1,10 @@
 import React from 'react';
 import Body from './Body.js';
-import newsData from './data.json'
+import data from './data/data.json'
+import sportsData from './data/sportsData.json'
+import artsData from './data/artsData.json'
+import politicsData from './data/politicsData.json'
+import techData from './data/techData.json'
 
 class Container extends React.Component {
   constructor(props) { 
@@ -8,7 +12,9 @@ class Container extends React.Component {
     this.state = {};
   }
   render() {
-    return (<Body pathData={this.state[this.props.location.pathname]} newsData={newsData} />);
+    let newsData = {"/": data, "/arts": artsData, "/sports": sportsData, "/politics": politicsData, "/tech": techData }
+
+    return (<Body pathData={this.state[this.props.location.pathname]} newsData={newsData[this.props.location.pathname]} />);
   }
   componentDidMount() {
     this.setState({
@@ -16,8 +22,7 @@ class Container extends React.Component {
       "/arts": "The arts page",
       "/sports": "The sports page",
       "/politics": "The politics page",
-      "/tech": "The tech page",
-      "newsData": newsData
+      "/tech": "The tech page"
     })
   }
 }

@@ -1,0 +1,874 @@
+{
+	"hits": [{
+		"created_at": "2012-04-13T07:13:02.000Z",
+		"title": "Daily Post - Nigeria Online Newspaper",
+		"url": "http://digg.com/newsbar/topnews/nigerian_online_newspapers",
+		"author": "petercarroll768",
+		"points": 1,
+		"story_text": "Get the latest Nigerian News and Features at Daily Post - Politics, Showbiz, Babes, Celebrities, Sports, Columnists, Blogs with Moderated Comments.",
+		"comment_text": null,
+		"num_comments": 0,
+		"story_id": null,
+		"story_title": null,
+		"story_url": null,
+		"parent_id": null,
+		"created_at_i": 1334301182,
+		"_tags": ["story", "author_petercarroll768", "story_3835737"],
+		"objectID": "3835737",
+		"_highlightResult": {
+			"title": {
+				"value": "Daily Post - \u003Cem\u003ENigeria\u003C/em\u003E Online Newspaper",
+				"matchLevel": "partial",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria"]
+			},
+			"url": {
+				"value": "http://digg.com/newsbar/topnews/nigerian_online_newspapers",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"author": {
+				"value": "petercarroll768",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"story_text": {
+				"value": "Get the latest Nigerian News and Features at Daily Post - Politics, Showbiz, Babes, Celebrities, \u003Cem\u003ESports\u003C/em\u003E, Columnists, Blogs with Moderated Comments.",
+				"matchLevel": "partial",
+				"fullyHighlighted": false,
+				"matchedWords": ["sports"]
+			}
+		}
+	}, {
+		"created_at": "2011-12-16T04:26:34.000Z",
+		"title": "Daily Post - Nigeria Online Newspaper",
+		"url": "http://www.stumbleupon.com/url/www.dailypost.com.ng/",
+		"author": "eileenmartin39",
+		"points": 1,
+		"story_text": "Get the latest Nigerian News and Features at Daily Post -Politics, Showbiz, Babes, Celebrities, Sports, Columnists, Blogs with Moderated Comments.",
+		"comment_text": null,
+		"num_comments": 0,
+		"story_id": null,
+		"story_title": null,
+		"story_url": null,
+		"parent_id": null,
+		"created_at_i": 1324009594,
+		"_tags": ["story", "author_eileenmartin39", "story_3359415"],
+		"objectID": "3359415",
+		"_highlightResult": {
+			"title": {
+				"value": "Daily Post - \u003Cem\u003ENigeria\u003C/em\u003E Online Newspaper",
+				"matchLevel": "partial",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria"]
+			},
+			"url": {
+				"value": "http://www.stumbleupon.com/url/www.dailypost.com.ng/",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"author": {
+				"value": "eileenmartin39",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"story_text": {
+				"value": "Get the latest Nigerian News and Features at Daily Post -Politics, Showbiz, Babes, Celebrities, \u003Cem\u003ESports\u003C/em\u003E, Columnists, Blogs with Moderated Comments.",
+				"matchLevel": "partial",
+				"fullyHighlighted": false,
+				"matchedWords": ["sports"]
+			}
+		}
+	}, {
+		"created_at": "2011-11-29T12:16:44.000Z",
+		"title": "Daily Post - Nigeria Online Newspaper",
+		"url": "http://dailypost.com.ng/",
+		"author": "toddsullivan46",
+		"points": 1,
+		"story_text": "Get the latest Nigerian News and Features at Daily Post - Politics, Showbiz, Babes, Celebrities, Sports, Columnists, Blogs with Moderated Comments.",
+		"comment_text": null,
+		"num_comments": 0,
+		"story_id": null,
+		"story_title": null,
+		"story_url": null,
+		"parent_id": null,
+		"created_at_i": 1322569004,
+		"_tags": ["story", "author_toddsullivan46", "story_3290011"],
+		"objectID": "3290011",
+		"_highlightResult": {
+			"title": {
+				"value": "Daily Post - \u003Cem\u003ENigeria\u003C/em\u003E Online Newspaper",
+				"matchLevel": "partial",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria"]
+			},
+			"url": {
+				"value": "http://dailypost.com.ng/",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"author": {
+				"value": "toddsullivan46",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"story_text": {
+				"value": "Get the latest Nigerian News and Features at Daily Post - Politics, Showbiz, Babes, Celebrities, \u003Cem\u003ESports\u003C/em\u003E, Columnists, Blogs with Moderated Comments.",
+				"matchLevel": "partial",
+				"fullyHighlighted": false,
+				"matchedWords": ["sports"]
+			}
+		}
+	}, {
+		"created_at": "2011-06-26T10:46:49.000Z",
+		"title": "LIVE MAX SPORTS: FIFA Women's World Cup 2011 (Nigeria vs. France)",
+		"url": "http://livemaxsports.blogspot.com/2011/06/fifa-womens-world-cup-2011-nigeria-vs.html",
+		"author": "ssubrata89",
+		"points": 1,
+		"story_text": "",
+		"comment_text": null,
+		"num_comments": 0,
+		"story_id": null,
+		"story_title": null,
+		"story_url": null,
+		"parent_id": null,
+		"created_at_i": 1309085209,
+		"_tags": ["story", "author_ssubrata89", "story_2697799"],
+		"objectID": "2697799",
+		"_highlightResult": {
+			"title": {
+				"value": "LIVE MAX \u003Cem\u003ESPORTS\u003C/em\u003E: FIFA Women's World Cup 2011 (\u003Cem\u003ENigeria\u003C/em\u003E vs. France)",
+				"matchLevel": "full",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria", "sports"]
+			},
+			"url": {
+				"value": "http://livemaxsports.blogspot.com/2011/06/fifa-womens-world-cup-2011-\u003Cem\u003Enigeria\u003C/em\u003E-vs.html",
+				"matchLevel": "partial",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria"]
+			},
+			"author": {
+				"value": "ssubrata89",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"story_text": {
+				"value": "",
+				"matchLevel": "none",
+				"matchedWords": []
+			}
+		}
+	}, {
+		"created_at": "2012-10-04T15:19:54.000Z",
+		"title": "",
+		"url": "",
+		"author": "jiggy2011",
+		"points": 14,
+		"story_text": null,
+		"comment_text": "These people are from poor countries like India , Pakistan , Nigeria etc.\u003Cp\u003EThey probably imagine you as some affluent white guy with servants and sports cars who wouldn't miss a few K from his bank account.",
+		"num_comments": null,
+		"story_id": 4612022,
+		"story_title": "I am calling you from Windows: A tech support scammer ",
+		"story_url": "http://arstechnica.com/tech-policy/2012/10/i-am-calling-you-from-windows-a-tech-support-scammer-dials-ars-technica/",
+		"parent_id": 4612609,
+		"created_at_i": 1349363994,
+		"_tags": ["comment", "author_jiggy2011", "story_4612022"],
+		"objectID": "4612712",
+		"_highlightResult": {
+			"title": {
+				"value": "",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"url": {
+				"value": "",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"author": {
+				"value": "jiggy2011",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"comment_text": {
+				"value": "These people are from poor countries like India , Pakistan , \u003Cem\u003ENigeria\u003C/em\u003E etc.\u003Cp\u003EThey probably imagine you as some affluent white guy with servants and \u003Cem\u003Esports\u003C/em\u003E cars who wouldn't miss a few K from his bank account.",
+				"matchLevel": "full",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria", "sports"]
+			},
+			"story_title": {
+				"value": "I am calling you from Windows: A tech support scammer ",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"story_url": {
+				"value": "http://arstechnica.com/tech-policy/2012/10/i-am-calling-you-from-windows-a-tech-support-scammer-dials-ars-technica/",
+				"matchLevel": "none",
+				"matchedWords": []
+			}
+		}
+	}, {
+		"created_at": "2011-05-26T08:34:32.000Z",
+		"title": "",
+		"url": "",
+		"author": "OoTheNigerian",
+		"points": 10,
+		"story_text": null,
+		"comment_text": "I think you guys are being unnecessarily hard on Kutcher. It is a flawed assumption that being a celebrity (sportsman, musician) means you have no additional value.\u003Cp\u003EThere are medical doctors than when on to play football (the real one); Nigeria has a Cornell Physics PhD candidate that does rap. etc.\u003Cp\u003EWhy do you guys (critics) believe you can add better value to AirBnB than Aston.\u003Cp\u003EI believe celebrities need to do a little bit extra to show they are more than what is seen on TV.\u003Cp\u003ESo take a moment to stop beefing and say\u003Cp\u003ECongrats AirBnB for a nice coup.",
+		"num_comments": null,
+		"story_id": 2586652,
+		"story_title": "Ashton Kutcher Joins the Airbnb Team ",
+		"story_url": "http://blog.airbnb.com/no-were-not-punking-you-ashton-joins-airbnb-t",
+		"parent_id": 2586652,
+		"created_at_i": 1306398872,
+		"_tags": ["comment", "author_OoTheNigerian", "story_2586652"],
+		"objectID": "2587049",
+		"_highlightResult": {
+			"title": {
+				"value": "",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"url": {
+				"value": "",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"author": {
+				"value": "OoTheNigerian",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"comment_text": {
+				"value": "I think you guys are being unnecessarily hard on Kutcher. It is a flawed assumption that being a celebrity (\u003Cem\u003Esports\u003C/em\u003Eman, musician) means you have no additional value.\u003Cp\u003EThere are medical doctors than when on to play football (the real one); \u003Cem\u003ENigeria\u003C/em\u003E has a Cornell Physics PhD candidate that does rap. etc.\u003Cp\u003EWhy do you guys (critics) believe you can add better value to AirBnB than Aston.\u003Cp\u003EI believe celebrities need to do a little bit extra to show they are more than what is seen on TV.\u003Cp\u003ESo take a moment to stop beefing and say\u003Cp\u003ECongrats AirBnB for a nice coup.",
+				"matchLevel": "full",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria", "sports"]
+			},
+			"story_title": {
+				"value": "Ashton Kutcher Joins the Airbnb Team ",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"story_url": {
+				"value": "http://blog.airbnb.com/no-were-not-punking-you-ashton-joins-airbnb-t",
+				"matchLevel": "none",
+				"matchedWords": []
+			}
+		}
+	}, {
+		"created_at": "2014-05-03T23:21:22.000Z",
+		"title": null,
+		"url": null,
+		"author": "smtddr",
+		"points": 3,
+		"story_text": null,
+		"comment_text": " I would just like to point out that earlier[1] there was a discussion around science not showing any evidence of GMO harm. We don\u0026#x27;t have a complete understanding of nutrition and the human body; and there\u0026#x27;s a lot of money to be made making everyone believe one thing or another. Anyone who thinks they have it \u003Ci\u003E\u0026quot;all figured out\u0026quot;\u003C/i\u003E is setting themselves up for a surprise.\u003Cp\u003EEven I admit that my chasing of labels such as Non-GMO and USDA Organic could also be a big marketing scam and they could very well be selling me the same pesticide-soaked, GMO-glued-together, sweetener-laced, antibiotic+steroids pumped food that everyone else is buying while charging me a 40% markup for a lie. But since I\u0026#x27;m confident we\u0026#x27;re all just rolling dice here, I choose to gamble on chasing food that\u0026#x27;s supposedly very similar to what my family has been getting it for generations in Nigeria with no particularly notable health issues except 2 instances of diabetes. One of them came to America, started eating all the common fast foods, drinking, smoking, etc for over a decade. The other is related to depression and change of eating habits while still in Nigeria.\u003Cp\u003EIf I\u0026#x27;m wrong... I\u0026#x27;m wrong. But I hope this lets people know that our current science\u003Ci\u003E(and social\u0026#x2F;economical incentives around it)\u003C/i\u003E is not good enough to use as a debate-closer of health \u0026amp; fitness discussions. There are contradictions[2][3] out there. I suspect that at the end of the day, what\u0026#x27;s good for one person can be poison for another and all our attempts at generalizing health \u0026amp; fitness guidelines for everyone will ultimate end in failure. We\u0026#x27;ll all have to go into the hospital, get a DNA sample and get customized health \u0026amp; fitness advice - and that\u0026#x27;s assuming we can remove the economic incentives for hospitals\u0026#x2F;doctors to just tell us whatever it takes to sell some expensive \u0026quot;solution\u0026quot;.\u003Cp\u003E1. \u003Ca href=\"https://news.ycombinator.com/item?id=7671699\" rel=\"nofollow\"\u003Ehttps:\u0026#x2F;\u0026#x2F;news.ycombinator.com\u0026#x2F;item?id=7671699\u003C/a\u003E\u003Cp\u003E2. \u003Ci\u003E\u0026quot;Many of the bacteria are species that the researchers had never seen before. And even familiar microbes were present in unusual levels in the Hadza belly. “The Hadza not only lack the ‘healthy bacteria,’ and they don’t suffer from the diseases we suffer from, but they also have high levels of bacteria that are associated with disease,” Crittenden said.\u0026quot;\u003C/i\u003E ---- \u003Ca href=\"http://www.wired.com/2014/04/hadza-hunter-gatherer-gut-microbiome/\" rel=\"nofollow\"\u003Ehttp:\u0026#x2F;\u0026#x2F;www.wired.com\u0026#x2F;2014\u0026#x2F;04\u0026#x2F;hadza-hunter-gatherer-gut-micro...\u003C/a\u003E\u003Cp\u003E3. \u003Ci\u003E\u0026quot;\\nUnlike their Western counterparts, the Tarahumara don\u0026#x27;t replenish their bodies with electrolyte-rich sports drinks. They don\u0026#x27;t rebuild between workouts with protein bars; in fact, they barely eat any protein at all, living on little more than ground corn spiced up by their favourite delicacy, barbecued mouse.\u003C/i\u003E ---- \u003Ca href=\"http://www.dailymail.co.uk/home/moslive/article-1170253/The-painful-truth-trainers-Are-expensive-running-shoes-waste-money.html\" rel=\"nofollow\"\u003Ehttp:\u0026#x2F;\u0026#x2F;www.dailymail.co.uk\u0026#x2F;home\u0026#x2F;moslive\u0026#x2F;article-1170253\u0026#x2F;The-...\u003C/a\u003E",
+		"num_comments": null,
+		"story_id": 7692330,
+		"story_title": "The Questionable Link Between Saturated Fat and Heart Disease",
+		"story_url": "http://on.wsj.com/1mmGdca",
+		"parent_id": 7692330,
+		"created_at_i": 1399159282,
+		"_tags": ["comment", "author_smtddr", "story_7692330"],
+		"objectID": "7692696",
+		"_highlightResult": {
+			"author": {
+				"value": "smtddr",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"comment_text": {
+				"value": " I would just like to point out that earlier[1] there was a discussion around science not showing any evidence of GMO harm. We don't have a complete understanding of nutrition and the human body; and there's a lot of money to be made making everyone believe one thing or another. Anyone who thinks they have it \u003Ci\u003E\u0026quot;all figured out\u0026quot;\u003C/i\u003E is setting themselves up for a surprise.\u003Cp\u003EEven I admit that my chasing of labels such as Non-GMO and USDA Organic could also be a big marketing scam and they could very well be selling me the same pesticide-soaked, GMO-glued-together, sweetener-laced, antibiotic+steroids pumped food that everyone else is buying while charging me a 40% markup for a lie. But since I'm confident we're all just rolling dice here, I choose to gamble on chasing food that's supposedly very similar to what my family has been getting it for generations in \u003Cem\u003ENigeria\u003C/em\u003E with no particularly notable health issues except 2 instances of diabetes. One of them came to America, started eating all the common fast foods, drinking, smoking, etc for over a decade. The other is related to depression and change of eating habits while still in \u003Cem\u003ENigeria.\u003C/em\u003E\u003Cp\u003EIf I'm wrong... I'm wrong. But I hope this lets people know that our current science\u003Ci\u003E(and social/economical incentives around it)\u003C/i\u003E is not good enough to use as a debate-closer of health \u0026amp; fitness discussions. There are contradictions[2][3] out there. I suspect that at the end of the day, what's good for one person can be poison for another and all our attempts at generalizing health \u0026amp; fitness guidelines for everyone will ultimate end in failure. We'll all have to go into the hospital, get a DNA sample and get customized health \u0026amp; fitness advice - and that's assuming we can remove the economic incentives for hospitals/doctors to just tell us whatever it takes to sell some expensive \u0026quot;solution\u0026quot;.\u003Cp\u003E1. \u003Ca href=\"https://news.ycombinator.com/item?id=7671699\" rel=\"nofollow\"\u003Ehttps://news.ycombinator.com/item?id=7671699\u003C/a\u003E\u003Cp\u003E2. \u003Ci\u003E\u0026quot;Many of the bacteria are species that the researchers had never seen before. And even familiar microbes were present in unusual levels in the Hadza belly. “The Hadza not only lack the ‘healthy bacteria,’ and they don’t suffer from the diseases we suffer from, but they also have high levels of bacteria that are associated with disease,” Crittenden said.\u0026quot;\u003C/i\u003E ---- \u003Ca href=\"http://www.wired.com/2014/04/hadza-hunter-gatherer-gut-microbiome/\" rel=\"nofollow\"\u003Ehttp://www.wired.com/2014/04/hadza-hunter-gatherer-gut-micro...\u003C/a\u003E\u003Cp\u003E3. \u003Ci\u003E\u0026quot;\\nUnlike their Western counterparts, the Tarahumara don't replenish their bodies with electrolyte-rich \u003Cem\u003Esports\u003C/em\u003E drinks. They don't rebuild between workouts with protein bars; in fact, they barely eat any protein at all, living on little more than ground corn spiced up by their favourite delicacy, barbecued mouse.\u003C/i\u003E ---- \u003Ca href=\"http://www.dailymail.co.uk/home/moslive/article-1170253/The-painful-truth-trainers-Are-expensive-running-shoes-waste-money.html\" rel=\"nofollow\"\u003Ehttp://www.dailymail.co.uk/home/moslive/article-1170253/The-...\u003C/a\u003E",
+				"matchLevel": "full",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria", "sports"]
+			},
+			"story_title": {
+				"value": "The Questionable Link Between Saturated Fat and Heart Disease",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"story_url": {
+				"value": "http://on.wsj.com/1mmGdca",
+				"matchLevel": "none",
+				"matchedWords": []
+			}
+		}
+	}, {
+		"created_at": "2013-10-09T10:31:36.000Z",
+		"title": "",
+		"url": "",
+		"author": "BlobbleBlab",
+		"points": 3,
+		"story_text": null,
+		"comment_text": "I can absolutely guarantee that this is not the case in France. Try comparing le-de-France and similarly sized Limousin for example.\u003Cp\u003EI spend a lot of time both in the EU and the US, and find the US remarkably culturally homogeneous compared to Europe. In a country the size of a continent, from coast to coast, you find the same dominant language, traditions, politics, religion, holidays, sports, restaurant chains and stores.\u003Cp\u003EWhat is the case I imagine, is that one is trained from birth to differentiate the tiny differences within one\u0026#x27;s own culture and values those so highly, that they look like remarkable diversity, while one doesn\u0026#x27;t recognize the differences between strangers, and automatically doesn\u0026#x27;t value them very highly. Can you tell a significant difference between a Slovene and a Hungarian, for example?\u003Cp\u003EThis is how \u0026#x27;latin americans\u0026#x27; seem like one uniform group, or even \u0026#x27;sub saharan africans\u0026#x27; or \u0026#x27;asians\u0026#x27;, while objectively Amhara from Ethiopia, Hausa from Nigeria and San from South Africa differ far more from each other than say Americans, Italians and Danes differ from each other.",
+		"num_comments": null,
+		"story_id": 6519626,
+		"story_title": "US adults score below average on worldwide test",
+		"story_url": "http://news.yahoo.com/us-adults-score-below-average-worldwide-test-090114407.html",
+		"parent_id": 6520288,
+		"created_at_i": 1381314696,
+		"_tags": ["comment", "author_BlobbleBlab", "story_6519626"],
+		"objectID": "6520404",
+		"_highlightResult": {
+			"title": {
+				"value": "",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"url": {
+				"value": "",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"author": {
+				"value": "BlobbleBlab",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"comment_text": {
+				"value": "I can absolutely guarantee that this is not the case in France. Try comparing le-de-France and similarly sized Limousin for example.\u003Cp\u003EI spend a lot of time both in the EU and the US, and find the US remarkably culturally homogeneous compared to Europe. In a country the size of a continent, from coast to coast, you find the same dominant language, traditions, politics, religion, holidays, \u003Cem\u003Esports\u003C/em\u003E, restaurant chains and stores.\u003Cp\u003EWhat is the case I imagine, is that one is trained from birth to differentiate the tiny differences within one's own culture and values those so highly, that they look like remarkable diversity, while one doesn't recognize the differences between strangers, and automatically doesn't value them very highly. Can you tell a significant difference between a Slovene and a Hungarian, for example?\u003Cp\u003EThis is how 'latin americans' seem like one uniform group, or even 'sub saharan africans' or 'asians', while objectively Amhara from Ethiopia, Hausa from \u003Cem\u003ENigeria\u003C/em\u003E and San from South Africa differ far more from each other than say Americans, Italians and Danes differ from each other.",
+				"matchLevel": "full",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria", "sports"]
+			},
+			"story_title": {
+				"value": "US adults score below average on worldwide test",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"story_url": {
+				"value": "http://news.yahoo.com/us-adults-score-below-average-worldwide-test-090114407.html",
+				"matchLevel": "none",
+				"matchedWords": []
+			}
+		}
+	}, {
+		"created_at": "2013-07-18T23:03:21.000Z",
+		"title": "",
+		"url": "",
+		"author": "scythe",
+		"points": 3,
+		"story_text": null,
+		"comment_text": "\u0026gt;\u003Ci\u003EUnlike lightning, risk of harm from vaccines is preventable.\u003C/i\u003E\u003Cp\u003EYou can\u0026#x27;t be serious. Like, really, \u003Ci\u003Eyou cannot be serious\u003C/i\u003E. I provide three examples. You ignore the two [bathtubs, aspirin] that don\u0026#x27;t fit the pattern you want to make up (one for three isn\u0026#x27;t very good), where said pattern is \u0026quot;vaccines preventable, accidents not\u0026quot;, and you further ignore that being struck by lightning is obviously preventable by, e.g., staying indoors, and while this isn\u0026#x27;t \u003Ci\u003Eperfect\u003C/i\u003E the vast majority of lightning strikes do in fact occur outside. So your use of lightning is wrong, and it is yet insufficient to support the greater point you are making, which is also wrong.\u003Cp\u003E\u0026gt;\u003Ci\u003EMost people take various levels of precaution against those risks, yet many will just let anyone in a lab coat jab them without hesitation. Fine for them, fine for you, but don\u0026#x27;t expect me to fall in line without more information.\u003C/i\u003E\u003Cp\u003EYeah, but wearing a helmet while riding a bicycle but not while riding a motorcycle is a clear sign of insanity, is it not? The level of concern ought to be at least somewhat proportionate to the risk, yet the degree to which certain people attend to the risks of vaccines is anything but commensurate with the level of attention given to the risks of poor diet, lifestyle, driving, sports, over-the-counter drugs, alcohol etc.\u003Cp\u003E\u0026gt;\u003Ci\u003EWhat do you think of the Japanese, who are relative \u0026quot;vaccine deniers\u0026quot;[2] yet somehow miraculously have the longest life expectancy anywhere on the planet?[3]\u003C/i\u003E\u003Cp\u003EThe Japanese do not vaccinate for diseases which do not exist in Japan. They do, however, vaccinate for Japanese encephalitis, whereas the US does not -- guess why. Vaccine schedules in most countries are designed to attack the most prevalent diseases in that country; nowhere are they designed to provide lots of spurious vaccinations for profit.\u003Cp\u003E\u0026gt;\u003Ci\u003EWhat is absurd and damaging to society is the persistent obfuscation and non-disclosure of clinical trial data, and the failure to conduct proper non-rigged trials.\u003C/i\u003E\u003Cp\u003EYour allegations that trials are \u0026quot;rigged\u0026quot; is without basis. As I\u0026#x27;ve explained below, your claims that the trials were \u0026quot;rigged\u0026quot; is a result of your failure to understand the effect size in question, that being the incidence of VAE linked to LYMErix. However, saying that clinical trials are \u0026quot;rigged\u0026quot; without any evidence therefor \u003Ci\u003Eis\u003C/i\u003E absurd.\u003Cp\u003E\u0026gt;\u003Ci\u003EThere is widespread doubt (among people who pay attention) about the system that is supposed to ensure peoples\u0026#x27; safety.\u003C/i\u003E\u003Cp\u003E\u003Ca href=\"http://en.wikipedia.org/wiki/Weasel_words\" rel=\"nofollow\"\u003Ehttp:\u0026#x2F;\u0026#x2F;en.wikipedia.org\u0026#x2F;wiki\u0026#x2F;Weasel_words\u003C/a\u003E\u003Cp\u003E\u0026gt;\u003Ci\u003EVaccine court doesn\u0026#x27;t protect companies when they knowingly or maliciously harm people, my mistake.\u003C/i\u003E\u003Cp\u003EYour \u0026quot;mistake\u0026quot; was posting this godawful response. You \u003Ci\u003Eexplicitly claimed\u003C/i\u003E that it does. I \u003Ci\u003Eexplicitly showed\u003C/i\u003E that it does not. Furthermore, you allege things which you have not shown -- \u0026quot;knowingly or maliciously harm people\u0026quot; -- there is no evidence of malice here on the part of GSK, and by the time HLA-DR4+ was properly identified, the vaccine was being withdrawn from the market.\u003Cp\u003EIt is indeed a good thing that these people are able to recover compensation from the government. It would be wrong to leave them out in the cold. It is a silly criticism that the rewards are paid by the government rather than the company, as the goal is to provide adequate care to people adversely affected by public health efforts, not to discourage the development of vaccines by private industry.\u003Cp\u003E\u0026gt;\u003Ci\u003EFact is, you don\u0026#x27;t know if that is true or not. You don\u0026#x27;t have any proof of it. You merely want it to be true that anyone who claims injury by a vaccine is a fraud, and a litigious cheat. [Citation needed, indeed.]\u003C/i\u003E\u003Cp\u003E...okay. I \u003Ci\u003Edo\u003C/i\u003E know that it\u0026#x27;s true. Unfortunately, it\u0026#x27;s difficult to find aggregated statistics on \u003Ci\u003Eidiopathic\u003C/i\u003E autoimmune disorders.\u003Cp\u003E\u003Ca href=\"http://www.sciencedirect.com/science/article/pii/S0090122997944123\" rel=\"nofollow\"\u003Ehttp:\u0026#x2F;\u0026#x2F;www.sciencedirect.com\u0026#x2F;science\u0026#x2F;article\u0026#x2F;pii\u0026#x2F;S0090122997...\u003C/a\u003E\u003Cp\u003E\u0026gt;\u003Ci\u003EFrom the incidence data we estimate that 237,203 Americans will develop an autoimmune disease in 1996 and that approximately 1,186,015 new cases of these autoimmune diseases occur in the United States every 5 years.\u003C/i\u003E\u003Cp\u003ENot everyone is at equal risk, of course. Diabetes, for example, is linked to obesity. But the incidence of these disorders is already 1 in 1300 annually. Let\u0026#x27;s... let\u0026#x27;s be liberal. Let\u0026#x27;s assume that for an ordinary person, it\u0026#x27;s five times lower -- 1 in 6500.\u003Cp\u003EOh, by the way. Women are predisposed to this danger arising from \u0026quot;nothing\u0026quot;. I suggest a class-action lawsuit against the producers of nothing on behalf of women.\u003Cp\u003E\u0026gt;\u003Ci\u003EIf that were really true for the LYMErix vaccine, the trials would have revealed the large fraction of people[1] who were predisposed to adverse reaction. There are serious problems with drugs qualification testing in the US and EU. Why don\u0026#x27;t you go read Bad Pharma by Ben Goldacre. here is a preview. \u003Ca href=\"https://www.youtube.com/watch?v=RKmxL8VYy0M*\" rel=\"nofollow\"\u003Ehttps:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=RKmxL8VYy0M*\u003C/a\u003E\u003Cp\u003EBecause I don\u0026#x27;t need any more of a headache than you\u0026#x27;ve already given me. \u0026quot;Predisposed\u0026quot; in your post comes with some \u003C/i\u003Ebig* scare quotes: if we assume that \u003Ci\u003Eall\u003C/i\u003E adverse events occur in HLA-DR4... well, let\u0026#x27;s look at the data.\u003Cp\u003E\u003Ca href=\"http://www.sciencedirect.com/science/article/pii/S0264410X0100500X\" rel=\"nofollow\"\u003Ehttp:\u0026#x2F;\u0026#x2F;www.sciencedirect.com\u0026#x2F;science\u0026#x2F;article\u0026#x2F;pii\u0026#x2F;S0264410X01...\u003C/a\u003E\u003Cp\u003E66 serious events for 1,400,000 vaccinations, or a 1:21000 chance of serious adverse events. If all of those cases happen to the 1\u0026#x2F;3 of people who are \u0026quot;predisposed\u0026quot; to Lyme arthritis, their risk is really 1:7000, slightly lower than their 1:6500 risk caused by... nothing. And that\u0026#x27;s only for disorders arising in the same year as the vaccination.\u003Cp\u003EAnd this very low incidence rate is exactly what we expect to see after a vaccine has passed a properly formulated clinical trial.\u003Cp\u003EYes, I\u0026#x27;m fudging the numbers. But I\u0026#x27;m fudging them \u003Ci\u003Ein your favor\u003C/i\u003E. The conclusion is obvious: down with nothing.\u003Cp\u003E\u0026gt;\u003Ci\u003EThe statistics have to be credible. \u003Ca href=\"http://www.amazon.com/How-Lie-Statistics-Darrell-Huff/dp/039...*\" rel=\"nofollow\"\u003Ehttp:\u0026#x2F;\u0026#x2F;www.amazon.com\u0026#x2F;How-Lie-Statistics-Darrell-Huff\u0026#x2F;dp\u0026#x2F;039...\u003C/a\u003E\u003Cp\u003EIf your argument consists of denying the conclusions of scientific studies outright without any further analysis, you\u0026#x27;re effectively making things up out of thin air. The study was correctly performed, as confirmed by the follow-up.\u003Cp\u003E\u0026gt;\u003C/i\u003E\u003Ca href=\"http://lmgtfy.com/?q=CDC+Vaccine+Adverse+Event*\" rel=\"nofollow\"\u003Ehttp:\u0026#x2F;\u0026#x2F;lmgtfy.com\u0026#x2F;?q=CDC+Vaccine+Adverse+Event*\u003C/a\u003E\u003Cp\u003E\u003Ca href=\"http://www.cdc.gov/vaccinesafety/Activities/vaers.html\" rel=\"nofollow\"\u003Ehttp:\u0026#x2F;\u0026#x2F;www.cdc.gov\u0026#x2F;vaccinesafety\u0026#x2F;Activities\u0026#x2F;vaers.html\u003C/a\u003E\u003Cp\u003E\u0026gt;\u003Ci\u003ESpecifically, judgments about whether the vaccine was truly responsible for an adverse event cannot be made from VAERS reports.\u003C/i\u003E\u003Cp\u003ESo the CDC is here... to back me up. Did you even look at the Google results?\u003Cp\u003E\u0026gt;\u003Ci\u003EOr consider that my recollection of the details was mistaken slightly. OPV use was curtailed after VAPP was discovered.\u003C/i\u003E\u003Cp\u003EAgain, if not blatantly false, at least utterly misleading. The NIH \u003Ci\u003Edid\u003C/i\u003E conduct trials to determine the safest form of oral polio vaccine, roughly ten years after it was introduced, largely because there\u0026#x27;s nobody, including me, who wants to see people get sick from a vaccine or anything else for that matter. The implication that the government scrambled to reformulate the vaccine in response to adverse events is absurd, and the 1960 formulation, still imperfect, is in use today:\u003Cp\u003E\u0026gt;\u003Ci\u003EOutbreaks of VAPP occurred independently in Belarus (196566), Canada (196668), Egypt (19831993), Hispaniola (20002001), Philippines (2001), Madagascar (20012002),[48] and in Haiti (2002), where political strife and poverty have interfered with vaccination efforts.[49] In 2006 an outbreak of vaccine-derived poliovirus occurred in China.[50] Cases have been reported from Cambodia (20052006), Myanmar (20062007), Iran (1995, 20052007), Syria, Kuwait and Egypt.[51] Since 2005, The World Health Organization has been tracking vaccine-caused polio in northern Nigeria caused by a mutation in live oral polio vaccines.\u003C/i\u003E\u003Cp\u003EYou do of course have to keep these numbers in perspective. VAPP remains rarer than terrorism.\u003Cp\u003E\u0026gt;\u003Ci\u003EAs long as you aren\u0026#x27;t a starving waif in some developing country (or a starving waif from the US). From the Wiki: In immunodeficient children, the risk of VAPP is almost 7,000 times higher\u003C/i\u003E\u003Cp\u003EA gross misrepresentation of life in developing countries,  of the meaning of the term \u0026quot;immunodeficiency\u0026quot;, and the causes of immunodeficiency. Immunodeficiency essentially means that a child cannot be vaccinated, as the purpose of a vaccine is to stimulate the immune system. Immunodeficiencies other than AIDS are not widespread in the developing world, nor are they generally a result of malnutrition, but you are of course correct that it is improper to vaccinate an \u003Ci\u003Eimmunodeficient\u003C/i\u003E child with any vaccine, OPV or otherwise! Agammaglobulinemia is, I assure you, not caused by poor nutrition.\u003Cp\u003E\u0026gt;\u003Ci\u003EIf you\u0026#x27;re the sort of person who thinks a pharmaceutical company makes a favorable comparison to a \u0026quot;benevolent nonprofit organization\u0026quot;\u003C/i\u003E\u003Cp\u003EIf I can show that it is true for a benevolent entity, then it follows \u003Ci\u003Ea fortiori\u003C/i\u003E for GSK. That was the point.\u003Cp\u003E\u0026gt;\u003Ci\u003EI kind of regret that I wasted any time at all responding to you.\u003C/i\u003E\u003Cp\u003EAlthough your post is almost entirely banal, I do not regret responding to you. The misinformation you attempt to spread is dangerous, and while you have every right to claim it, people have the collective right to be informed that your arguments are weak and your conclusions incorrect. It is in the interest of people reading this to see your claims debunked, and so I have attempted to do so in a clear and scientifically accurate manner.\u003Cp\u003EMy intent is not to find \u0026quot;common ground\u0026quot; with someone who does not read the links they post. My intent is to expose you.",
+		"num_comments": null,
+		"story_id": 6061138,
+		"story_title": "Why Your Dog Can Get Vaccinated Against Lyme Disease And You Cant",
+		"story_url": "http://www.wbur.org/2012/06/27/lyme-vaccine",
+		"parent_id": 6064371,
+		"created_at_i": 1374188601,
+		"_tags": ["comment", "author_scythe", "story_6061138"],
+		"objectID": "6067137",
+		"_highlightResult": {
+			"title": {
+				"value": "",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"url": {
+				"value": "",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"author": {
+				"value": "scythe",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"comment_text": {
+				"value": "\u0026gt;\u003Ci\u003EUnlike lightning, risk of harm from vaccines is preventable.\u003C/i\u003E\u003Cp\u003EYou can't be serious. Like, really, \u003Ci\u003Eyou cannot be serious\u003C/i\u003E. I provide three examples. You ignore the two [bathtubs, aspirin] that don't fit the pattern you want to make up (one for three isn't very good), where said pattern is \u0026quot;vaccines preventable, accidents not\u0026quot;, and you further ignore that being struck by lightning is obviously preventable by, e.g., staying indoors, and while this isn't \u003Ci\u003Eperfect\u003C/i\u003E the vast majority of lightning strikes do in fact occur outside. So your use of lightning is wrong, and it is yet insufficient to support the greater point you are making, which is also wrong.\u003Cp\u003E\u0026gt;\u003Ci\u003EMost people take various levels of precaution against those risks, yet many will just let anyone in a lab coat jab them without hesitation. Fine for them, fine for you, but don't expect me to fall in line without more information.\u003C/i\u003E\u003Cp\u003EYeah, but wearing a helmet while riding a bicycle but not while riding a motorcycle is a clear sign of insanity, is it not? The level of concern ought to be at least somewhat proportionate to the risk, yet the degree to which certain people attend to the risks of vaccines is anything but commensurate with the level of attention given to the risks of poor diet, lifestyle, driving, \u003Cem\u003Esports\u003C/em\u003E, over-the-counter drugs, alcohol etc.\u003Cp\u003E\u0026gt;\u003Ci\u003EWhat do you think of the Japanese, who are relative \u0026quot;vaccine deniers\u0026quot;[2] yet somehow miraculously have the longest life expectancy anywhere on the planet?[3]\u003C/i\u003E\u003Cp\u003EThe Japanese do not vaccinate for diseases which do not exist in Japan. They do, however, vaccinate for Japanese encephalitis, whereas the US does not -- guess why. Vaccine schedules in most countries are designed to attack the most prevalent diseases in that country; nowhere are they designed to provide lots of spurious vaccinations for profit.\u003Cp\u003E\u0026gt;\u003Ci\u003EWhat is absurd and damaging to society is the persistent obfuscation and non-disclosure of clinical trial data, and the failure to conduct proper non-rigged trials.\u003C/i\u003E\u003Cp\u003EYour allegations that trials are \u0026quot;rigged\u0026quot; is without basis. As I've explained below, your claims that the trials were \u0026quot;rigged\u0026quot; is a result of your failure to understand the effect size in question, that being the incidence of VAE linked to LYMErix. However, saying that clinical trials are \u0026quot;rigged\u0026quot; without any evidence therefor \u003Ci\u003Eis\u003C/i\u003E absurd.\u003Cp\u003E\u0026gt;\u003Ci\u003EThere is widespread doubt (among people who pay attention) about the system that is supposed to ensure peoples' safety.\u003C/i\u003E\u003Cp\u003E\u003Ca href=\"http://en.wikipedia.org/wiki/Weasel_words\" rel=\"nofollow\"\u003Ehttp://en.wikipedia.org/wiki/Weasel_words\u003C/a\u003E\u003Cp\u003E\u0026gt;\u003Ci\u003EVaccine court doesn't protect companies when they knowingly or maliciously harm people, my mistake.\u003C/i\u003E\u003Cp\u003EYour \u0026quot;mistake\u0026quot; was posting this godawful response. You \u003Ci\u003Eexplicitly claimed\u003C/i\u003E that it does. I \u003Ci\u003Eexplicitly showed\u003C/i\u003E that it does not. Furthermore, you allege things which you have not shown -- \u0026quot;knowingly or maliciously harm people\u0026quot; -- there is no evidence of malice here on the part of GSK, and by the time HLA-DR4+ was properly identified, the vaccine was being withdrawn from the market.\u003Cp\u003EIt is indeed a good thing that these people are able to recover compensation from the government. It would be wrong to leave them out in the cold. It is a silly criticism that the rewards are paid by the government rather than the company, as the goal is to provide adequate care to people adversely affected by public health efforts, not to discourage the development of vaccines by private industry.\u003Cp\u003E\u0026gt;\u003Ci\u003EFact is, you don't know if that is true or not. You don't have any proof of it. You merely want it to be true that anyone who claims injury by a vaccine is a fraud, and a litigious cheat. [Citation needed, indeed.]\u003C/i\u003E\u003Cp\u003E...okay. I \u003Ci\u003Edo\u003C/i\u003E know that it's true. Unfortunately, it's difficult to find aggregated statistics on \u003Ci\u003Eidiopathic\u003C/i\u003E autoimmune disorders.\u003Cp\u003E\u003Ca href=\"http://www.sciencedirect.com/science/article/pii/S0090122997944123\" rel=\"nofollow\"\u003Ehttp://www.sciencedirect.com/science/article/pii/S0090122997...\u003C/a\u003E\u003Cp\u003E\u0026gt;\u003Ci\u003EFrom the incidence data we estimate that 237,203 Americans will develop an autoimmune disease in 1996 and that approximately 1,186,015 new cases of these autoimmune diseases occur in the United States every 5 years.\u003C/i\u003E\u003Cp\u003ENot everyone is at equal risk, of course. Diabetes, for example, is linked to obesity. But the incidence of these disorders is already 1 in 1300 annually. Let's... let's be liberal. Let's assume that for an ordinary person, it's five times lower -- 1 in 6500.\u003Cp\u003EOh, by the way. Women are predisposed to this danger arising from \u0026quot;nothing\u0026quot;. I suggest a class-action lawsuit against the producers of nothing on behalf of women.\u003Cp\u003E\u0026gt;\u003Ci\u003EIf that were really true for the LYMErix vaccine, the trials would have revealed the large fraction of people[1] who were predisposed to adverse reaction. There are serious problems with drugs qualification testing in the US and EU. Why don't you go read Bad Pharma by Ben Goldacre. here is a preview. \u003Ca href=\"https://www.youtube.com/watch?v=RKmxL8VYy0M*\" rel=\"nofollow\"\u003Ehttps://www.youtube.com/watch?v=RKmxL8VYy0M*\u003C/a\u003E\u003Cp\u003EBecause I don't need any more of a headache than you've already given me. \u0026quot;Predisposed\u0026quot; in your post comes with some \u003C/i\u003Ebig* scare quotes: if we assume that \u003Ci\u003Eall\u003C/i\u003E adverse events occur in HLA-DR4... well, let's look at the data.\u003Cp\u003E\u003Ca href=\"http://www.sciencedirect.com/science/article/pii/S0264410X0100500X\" rel=\"nofollow\"\u003Ehttp://www.sciencedirect.com/science/article/pii/S0264410X01...\u003C/a\u003E\u003Cp\u003E66 serious events for 1,400,000 vaccinations, or a 1:21000 chance of serious adverse events. If all of those cases happen to the 1/3 of people who are \u0026quot;predisposed\u0026quot; to Lyme arthritis, their risk is really 1:7000, slightly lower than their 1:6500 risk caused by... nothing. And that's only for disorders arising in the same year as the vaccination.\u003Cp\u003EAnd this very low incidence rate is exactly what we expect to see after a vaccine has passed a properly formulated clinical trial.\u003Cp\u003EYes, I'm fudging the numbers. But I'm fudging them \u003Ci\u003Ein your favor\u003C/i\u003E. The conclusion is obvious: down with nothing.\u003Cp\u003E\u0026gt;\u003Ci\u003EThe statistics have to be credible. \u003Ca href=\"http://www.amazon.com/How-Lie-Statistics-Darrell-Huff/dp/039...*\" rel=\"nofollow\"\u003Ehttp://www.amazon.com/How-Lie-Statistics-Darrell-Huff/dp/039...\u003C/a\u003E\u003Cp\u003EIf your argument consists of denying the conclusions of scientific studies outright without any further analysis, you're effectively making things up out of thin air. The study was correctly performed, as confirmed by the follow-up.\u003Cp\u003E\u0026gt;\u003C/i\u003E\u003Ca href=\"http://lmgtfy.com/?q=CDC+Vaccine+Adverse+Event*\" rel=\"nofollow\"\u003Ehttp://lmgtfy.com/?q=CDC+Vaccine+Adverse+Event*\u003C/a\u003E\u003Cp\u003E\u003Ca href=\"http://www.cdc.gov/vaccinesafety/Activities/vaers.html\" rel=\"nofollow\"\u003Ehttp://www.cdc.gov/vaccinesafety/Activities/vaers.html\u003C/a\u003E\u003Cp\u003E\u0026gt;\u003Ci\u003ESpecifically, judgments about whether the vaccine was truly responsible for an adverse event cannot be made from VAERS reports.\u003C/i\u003E\u003Cp\u003ESo the CDC is here... to back me up. Did you even look at the Google results?\u003Cp\u003E\u0026gt;\u003Ci\u003EOr consider that my recollection of the details was mistaken slightly. OPV use was curtailed after VAPP was discovered.\u003C/i\u003E\u003Cp\u003EAgain, if not blatantly false, at least utterly misleading. The NIH \u003Ci\u003Edid\u003C/i\u003E conduct trials to determine the safest form of oral polio vaccine, roughly ten years after it was introduced, largely because there's nobody, including me, who wants to see people get sick from a vaccine or anything else for that matter. The implication that the government scrambled to reformulate the vaccine in response to adverse events is absurd, and the 1960 formulation, still imperfect, is in use today:\u003Cp\u003E\u0026gt;\u003Ci\u003EOutbreaks of VAPP occurred independently in Belarus (196566), Canada (196668), Egypt (19831993), Hispaniola (20002001), Philippines (2001), Madagascar (20012002),[48] and in Haiti (2002), where political strife and poverty have interfered with vaccination efforts.[49] In 2006 an outbreak of vaccine-derived poliovirus occurred in China.[50] Cases have been reported from Cambodia (20052006), Myanmar (20062007), Iran (1995, 20052007), Syria, Kuwait and Egypt.[51] Since 2005, The World Health Organization has been tracking vaccine-caused polio in northern \u003Cem\u003ENigeria\u003C/em\u003E caused by a mutation in live oral polio vaccines.\u003C/i\u003E\u003Cp\u003EYou do of course have to keep these numbers in perspective. VAPP remains rarer than terrorism.\u003Cp\u003E\u0026gt;\u003Ci\u003EAs long as you aren't a starving waif in some developing country (or a starving waif from the US). From the Wiki: In immunodeficient children, the risk of VAPP is almost 7,000 times higher\u003C/i\u003E\u003Cp\u003EA gross misrepresentation of life in developing countries,  of the meaning of the term \u0026quot;immunodeficiency\u0026quot;, and the causes of immunodeficiency. Immunodeficiency essentially means that a child cannot be vaccinated, as the purpose of a vaccine is to stimulate the immune system. Immunodeficiencies other than AIDS are not widespread in the developing world, nor are they generally a result of malnutrition, but you are of course correct that it is improper to vaccinate an \u003Ci\u003Eimmunodeficient\u003C/i\u003E child with any vaccine, OPV or otherwise! Agammaglobulinemia is, I assure you, not caused by poor nutrition.\u003Cp\u003E\u0026gt;\u003Ci\u003EIf you're the sort of person who thinks a pharmaceutical company makes a favorable comparison to a \u0026quot;benevolent nonprofit organization\u0026quot;\u003C/i\u003E\u003Cp\u003EIf I can show that it is true for a benevolent entity, then it follows \u003Ci\u003Ea fortiori\u003C/i\u003E for GSK. That was the point.\u003Cp\u003E\u0026gt;\u003Ci\u003EI kind of regret that I wasted any time at all responding to you.\u003C/i\u003E\u003Cp\u003EAlthough your post is almost entirely banal, I do not regret responding to you. The misinformation you attempt to spread is dangerous, and while you have every right to claim it, people have the collective right to be informed that your arguments are weak and your conclusions incorrect. It is in the interest of people reading this to see your claims debunked, and so I have attempted to do so in a clear and scientifically accurate manner.\u003Cp\u003EMy intent is not to find \u0026quot;common ground\u0026quot; with someone who does not read the links they post. My intent is to expose you.",
+				"matchLevel": "full",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria", "sports"]
+			},
+			"story_title": {
+				"value": "Why Your Dog Can Get Vaccinated Against Lyme Disease And You Cant",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"story_url": {
+				"value": "http://www.wbur.org/2012/06/27/lyme-vaccine",
+				"matchLevel": "none",
+				"matchedWords": []
+			}
+		}
+	}, {
+		"created_at": "2014-12-07T01:57:30.000Z",
+		"title": null,
+		"url": null,
+		"author": "stephenhuey",
+		"points": null,
+		"story_text": null,
+		"comment_text": "2 of my friends--one is Nigerian and the other is not but grew up there--left great positions in other countries to go work for Tony Elumelu\u0026#x27;s foundation (they left the Rockefeller Foundation and a foundation in Boston).  Both of them have always been passionate about seeing Nigeria progress and I was so happy for them a few years ago when they each got the opportunity to return there to work for such a promising foundation.  I\u0026#x27;ve seen the jokes in this page, and yes, even within Nigeria people laugh about all sorts of other hardships of daily life there as a way of coping with them, but Tony is one of many people I know of who are defying pessimism and truly making a difference.  So many average citizens there already manage to pull off industrious plans despite roadblocks we don\u0026#x27;t have to deal with in countries like the USA, so with opportunities like this I\u0026#x27;m hoping to see even more successes.  With half the number of people of the USA and more than double the population of the next largest African country, Nigeria\u0026#x27;s next generation is well poised to take the world by surprise.",
+		"num_comments": null,
+		"story_id": 8710448,
+		"story_title": "Nigerian Billionaire Commits $100M to Create African Entrepreneurs",
+		"story_url": "http://www.forbes.com/sites/mfonobongnsehe/2014/12/01/nigerian-billionaire-tony-elumelu-commits-100-million-to-create-10000-african-entrepreneurs-in-10-years/",
+		"parent_id": 8710448,
+		"created_at_i": 1417917450,
+		"_tags": ["comment", "author_stephenhuey", "story_8710448"],
+		"objectID": "8710955",
+		"_highlightResult": {
+			"author": {
+				"value": "stephenhuey",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"comment_text": {
+				"value": "2 of my friends--one is Nigerian and the other is not but grew up there--left great positions in other countries to go work for Tony Elumelu's foundation (they left the Rockefeller Foundation and a foundation in Boston).  Both of them have always been passionate about seeing \u003Cem\u003ENigeria\u003C/em\u003E progress and I was so happy for them a few years ago when they each got the opportunity to return there to work for such a promising foundation.  I've seen the jokes in this page, and yes, even within \u003Cem\u003ENigeria\u003C/em\u003E people laugh about all \u003Cem\u003Esorts\u003C/em\u003E of other hardships of daily life there as a way of coping with them, but Tony is one of many people I know of who are defying pessimism and truly making a difference.  So many average citizens there already manage to pull off industrious plans despite roadblocks we don't have to deal with in countries like the USA, so with opportunities like this I'm hoping to see even more successes.  With half the number of people of the USA and more than double the population of the next largest African country, \u003Cem\u003ENigeria\u003C/em\u003E's next generation is well poised to take the world by surprise.",
+				"matchLevel": "full",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria", "sports"]
+			},
+			"story_title": {
+				"value": "Nigerian Billionaire Commits $100M to Create African Entrepreneurs",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"story_url": {
+				"value": "http://www.forbes.com/sites/mfonobongnsehe/2014/12/01/nigerian-billionaire-tony-elumelu-commits-100-million-to-create-10000-african-entrepreneurs-in-10-years/",
+				"matchLevel": "none",
+				"matchedWords": []
+			}
+		}
+	}, {
+		"created_at": "2013-11-08T14:09:46.000Z",
+		"title": "",
+		"url": "",
+		"author": "ada1981",
+		"points": 9,
+		"story_text": null,
+		"comment_text": "Anyone who has done ecommerce for any period of time is used to weird orders that come in from stolen credit cards.. I learned this the hard way when I shipped $10,000 in XL ultimate frisbee tshirts to (I can\u0026#x27;t believe I\u0026#x27;m admitting this) Nigeria when I was a college student - only to have a charge back a few months later. I get wierd charges on CreditCovers.com all the time, and sure enough in a month there is a charge back. People just hit up all sorts of sites and order products in hopes something will come of it.",
+		"num_comments": null,
+		"story_id": 6695540,
+		"story_title": "Kickstarter pledger scammed multiple projects for rewards",
+		"story_url": "http://comicsbeat.com/report-kickstarter-scammer-encik-farhan/",
+		"parent_id": 6695540,
+		"created_at_i": 1383919786,
+		"_tags": ["comment", "author_ada1981", "story_6695540"],
+		"objectID": "6696041",
+		"_highlightResult": {
+			"title": {
+				"value": "",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"url": {
+				"value": "",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"author": {
+				"value": "ada1981",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"comment_text": {
+				"value": "Anyone who has done ecommerce for any period of time is used to weird orders that come in from stolen credit cards.. I learned this the hard way when I shipped $10,000 in XL ultimate frisbee tshirts to (I can't believe I'm admitting this) \u003Cem\u003ENigeria\u003C/em\u003E when I was a college student - only to have a charge back a few months later. I get wierd charges on CreditCovers.com all the time, and sure enough in a month there is a charge back. People just hit up all \u003Cem\u003Esorts\u003C/em\u003E of sites and order products in hopes something will come of it.",
+				"matchLevel": "full",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria", "sports"]
+			},
+			"story_title": {
+				"value": "Kickstarter pledger scammed multiple projects for rewards",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"story_url": {
+				"value": "http://comicsbeat.com/report-kickstarter-scammer-encik-farhan/",
+				"matchLevel": "none",
+				"matchedWords": []
+			}
+		}
+	}, {
+		"created_at": "2014-10-01T03:01:54.000Z",
+		"title": null,
+		"url": null,
+		"author": "HillRat",
+		"points": 3,
+		"story_text": null,
+		"comment_text": "Let me set your mind at ease: I was actually at the hospital in question all day today (disclaimer: non-medical personnel, just coincidence) and I was in more danger from the sushi at dinner than the Ebola in the ICU.\u003Cp\u003EYes, there is a small chance of a multifocal outbreak, though CDC has moved quickly to identify and isolate potential contacts. There is an infinitesimal but still nonzero chance of an honest-to-god epidemic. But medical institutions and the federal government have wargamed all sorts of epidemic scenarios in the decade and a half of OMG ANTHRAX\u0026#x2F;SMALLPOX\u0026#x2F;H-N-SOMETHING-SOMETHING panic we\u0026#x27;ve endured.\u003Cp\u003EEven in the (vanishingly unlikely) worst case scenario, state and local authorities have \u003Ci\u003Eextremely\u003C/i\u003E expansive authorities to impose and enforce isolation and quarantines, violation of which (in Texas) is a third-degree felony. (CDC, under HHS delegation, can also impose quarantines to prevent interstate spread of disease, but generally this is left up to the state.) Dallas and surrounding communities could enforce a quarantine and let the outbreak burn out that way, although the economic cost would be enormous. But even mid-tier nations like Nigeria -- which spends per-capita 1% of what the US does on its health system, and which has what could be charitably described as a less-effective government -- have been able to stop Ebola cold with far less drastic action.\u003Cp\u003EIn truth, the greater threat comes from citizens who could mob doctors\u0026#x27; offices and ERs, demanding nonexistent ZMAPP cocktails for garden-variety seasonal flu symptoms. Unsurprisingly, there\u0026#x27;s not much medical surge capacity in most hospitals, and beds and labs are in chronically short supply. Health system resource consumption by scared but non-sick patients is a far more likely cause of mortality than an Ebola outbreak.",
+		"num_comments": null,
+		"story_id": 8391127,
+		"story_title": "CDC confirms first Ebola case diagnosed in US",
+		"story_url": "http://www.cnbc.com/id/102037055",
+		"parent_id": 8392029,
+		"created_at_i": 1412132514,
+		"_tags": ["comment", "author_HillRat", "story_8391127"],
+		"objectID": "8392612",
+		"_highlightResult": {
+			"author": {
+				"value": "HillRat",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"comment_text": {
+				"value": "Let me set your mind at ease: I was actually at the hospital in question all day today (disclaimer: non-medical personnel, just coincidence) and I was in more danger from the sushi at dinner than the Ebola in the ICU.\u003Cp\u003EYes, there is a small chance of a multifocal outbreak, though CDC has moved quickly to identify and isolate potential contacts. There is an infinitesimal but still nonzero chance of an honest-to-god epidemic. But medical institutions and the federal government have wargamed all \u003Cem\u003Esorts\u003C/em\u003E of epidemic scenarios in the decade and a half of OMG ANTHRAX/SMALLPOX/H-N-SOMETHING-SOMETHING panic we've endured.\u003Cp\u003EEven in the (vanishingly unlikely) worst case scenario, state and local authorities have \u003Ci\u003Eextremely\u003C/i\u003E expansive authorities to impose and enforce isolation and quarantines, violation of which (in Texas) is a third-degree felony. (CDC, under HHS delegation, can also impose quarantines to prevent interstate spread of disease, but generally this is left up to the state.) Dallas and surrounding communities could enforce a quarantine and let the outbreak burn out that way, although the economic cost would be enormous. But even mid-tier nations like \u003Cem\u003ENigeria\u003C/em\u003E -- which spends per-capita 1% of what the US does on its health system, and which has what could be charitably described as a less-effective government -- have been able to stop Ebola cold with far less drastic action.\u003Cp\u003EIn truth, the greater threat comes from citizens who could mob doctors' offices and ERs, demanding nonexistent ZMAPP cocktails for garden-variety seasonal flu symptoms. Unsurprisingly, there's not much medical surge capacity in most hospitals, and beds and labs are in chronically short supply. Health system resource consumption by scared but non-sick patients is a far more likely cause of mortality than an Ebola outbreak.",
+				"matchLevel": "full",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria", "sports"]
+			},
+			"story_title": {
+				"value": "CDC confirms first Ebola case diagnosed in US",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"story_url": {
+				"value": "http://www.cnbc.com/id/102037055",
+				"matchLevel": "none",
+				"matchedWords": []
+			}
+		}
+	}, {
+		"created_at": "2012-06-27T00:58:51.000Z",
+		"title": "",
+		"url": "",
+		"author": "rogerbinns",
+		"points": 3,
+		"story_text": null,
+		"comment_text": "You don't feel valued and sought after - more like spammed.  It will quickly become very apparent that they haven't bothered reading or understanding your CV/resume and will say all sorts of stuff that obviously isn't true.  The top of my CV/resume has a prominent \"Note to recruiters\" so it is trivial to tell if they did any work at all.\u003Cp\u003EThe recruiters operate in the same way as spammers.  They send email far and wide to see if they can get any bites.  If you want to be valued and sought after I suggest you start reading all the emails about helping out folks in Nigeria.",
+		"num_comments": null,
+		"story_id": 4163820,
+		"story_title": "The Recruiter Honeypot",
+		"story_url": "http://www.ewherry.com/2012/06/the-recruiter-honeypot/",
+		"parent_id": 4164774,
+		"created_at_i": 1340758731,
+		"_tags": ["comment", "author_rogerbinns", "story_4163820"],
+		"objectID": "4164993",
+		"_highlightResult": {
+			"title": {
+				"value": "",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"url": {
+				"value": "",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"author": {
+				"value": "rogerbinns",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"comment_text": {
+				"value": "You don't feel valued and sought after - more like spammed.  It will quickly become very apparent that they haven't bothered reading or understanding your CV/resume and will say all \u003Cem\u003Esorts\u003C/em\u003E of stuff that obviously isn't true.  The top of my CV/resume has a prominent \"Note to recruiters\" so it is trivial to tell if they did any work at all.\u003Cp\u003EThe recruiters operate in the same way as spammers.  They send email far and wide to see if they can get any bites.  If you want to be valued and sought after I suggest you start reading all the emails about helping out folks in \u003Cem\u003ENigeria.\u003C/em\u003E",
+				"matchLevel": "full",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria", "sports"]
+			},
+			"story_title": {
+				"value": "The Recruiter Honeypot",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"story_url": {
+				"value": "http://www.ewherry.com/2012/06/the-recruiter-honeypot/",
+				"matchLevel": "none",
+				"matchedWords": []
+			}
+		}
+	}, {
+		"created_at": "2014-06-24T22:30:01.000Z",
+		"title": null,
+		"url": null,
+		"author": "shawn-butler",
+		"points": 1,
+		"story_text": null,
+		"comment_text": "This will probably not survive review.\u003Cp\u003EThe Department of State has always reserved the right to revoke\u0026#x2F;deny passports for all sorts of reasons that are not subject to administrative review.\u003Cp\u003EDon\u0026#x27;t pay your taxes, no passport.  Don\u0026#x27;t pay your child support, no passport.  There have even been cases where passports have been revoked for people who have been remanded to mental institutions.  Having had your passport revoked in the past is enough grounds to deny you getting one in the future all of which has passed muster at Supreme Court given State Dept acts with seeming explicit Congressional approval. [0]\u003Cp\u003EYou can in principle negotiate with the destination country for a visa and fly non-commercially.  Can Google \u0026quot;Gilbert Chagoury\u0026quot; for example.  He is wealthy patron of Bill Clinton from Nigeria who has been on No-Fly status for years but still jets around the US and internationally I believe on an UK passport on small planes.\u003Cp\u003ENot saying it is just but that will probably be the legal basis.\u003Cp\u003EThis opinion is only a finding of due process.  That DHS TRIP is not adequate.  DHS will simply remedy that if it comes to it with some just as difficult process as it is getting a passport unrevoked by the State Dept (which is nearly impossible without political favor).\u003Cp\u003E[0]: \u003Ca href=\"http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US\u0026amp;vol=453\u0026amp;invol=280\" rel=\"nofollow\"\u003Ehttp:\u0026#x2F;\u0026#x2F;caselaw.lp.findlaw.com\u0026#x2F;scripts\u0026#x2F;getcase.pl?court=US\u0026amp;vo...\u003C/a\u003E",
+		"num_comments": null,
+		"story_id": 7939892,
+		"story_title": "Federal judge rules U.S. no-fly list violates Constitution",
+		"story_url": "http://www.reuters.com/article/2014/06/24/us-usa-noflylist-idUSKBN0EZ2EU20140624",
+		"parent_id": 7939989,
+		"created_at_i": 1403649001,
+		"_tags": ["comment", "author_shawn-butler", "story_7939892"],
+		"objectID": "7941079",
+		"_highlightResult": {
+			"author": {
+				"value": "shawn-butler",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"comment_text": {
+				"value": "This will probably not survive review.\u003Cp\u003EThe Department of State has always reserved the right to revoke/deny passports for all \u003Cem\u003Esorts\u003C/em\u003E of reasons that are not subject to administrative review.\u003Cp\u003EDon't pay your taxes, no passport.  Don't pay your child support, no passport.  There have even been cases where passports have been revoked for people who have been remanded to mental institutions.  Having had your passport revoked in the past is enough grounds to deny you getting one in the future all of which has passed muster at Supreme Court given State Dept acts with seeming explicit Congressional approval. [0]\u003Cp\u003EYou can in principle negotiate with the destination country for a visa and fly non-commercially.  Can Google \u0026quot;Gilbert Chagoury\u0026quot; for example.  He is wealthy patron of Bill Clinton from \u003Cem\u003ENigeria\u003C/em\u003E who has been on No-Fly status for years but still jets around the US and internationally I believe on an UK passport on small planes.\u003Cp\u003ENot saying it is just but that will probably be the legal basis.\u003Cp\u003EThis opinion is only a finding of due process.  That DHS TRIP is not adequate.  DHS will simply remedy that if it comes to it with some just as difficult process as it is getting a passport unrevoked by the State Dept (which is nearly impossible without political favor).\u003Cp\u003E[0]: \u003Ca href=\"http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US\u0026amp;vol=453\u0026amp;invol=280\" rel=\"nofollow\"\u003Ehttp://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US\u0026amp;vo...\u003C/a\u003E",
+				"matchLevel": "full",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria", "sports"]
+			},
+			"story_title": {
+				"value": "Federal judge rules U.S. no-fly list violates Constitution",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"story_url": {
+				"value": "http://www.reuters.com/article/2014/06/24/us-usa-noflylist-idUSKBN0EZ2EU20140624",
+				"matchLevel": "none",
+				"matchedWords": []
+			}
+		}
+	}, {
+		"created_at": "2014-06-23T23:54:18.000Z",
+		"title": null,
+		"url": null,
+		"author": "mantraxC",
+		"points": 1,
+		"story_text": null,
+		"comment_text": "\u0026gt; \u0026quot;At some point, the \u0026#x27;bad actor\u0026#x27; has to access \u0026#x27;legitimate\u0026#x27; banking institutions to exchange the Bitcoins to fiat and that is the weakest link.\u0026quot;\u003Cp\u003EAnd on the contrary they can do the exchange in, say, Nigeria. So Bitcoin\u0026#x27;s weakest link is also the law enforcement weakest link, because no one has authority over the entire world, and there are plenty of spots where you can do the exchange without trace.",
+		"num_comments": null,
+		"story_id": 7931218,
+		"story_title": "Tally of Cyber Extortion Attacks on Tech Companies Grows",
+		"story_url": "http://bits.blogs.nytimes.com/2014/06/19/tally-of-cyber-extortion-attacks-on-tech-companies-grows/?_php=true\u0026_type=blogs\u0026_r=0",
+		"parent_id": 7932625,
+		"created_at_i": 1403567658,
+		"_tags": ["comment", "author_mantraxC", "story_7931218"],
+		"objectID": "7935474",
+		"_highlightResult": {
+			"author": {
+				"value": "mantraxC",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"comment_text": {
+				"value": "\u0026gt; \u0026quot;At some point, the 'bad actor' has to access 'legitimate' banking institutions to exchange the Bitcoins to fiat and that is the weakest link.\u0026quot;\u003Cp\u003EAnd on the contrary they can do the exchange in, say, \u003Cem\u003ENigeria.\u003C/em\u003E So Bitcoin's weakest link is also the law enforcement weakest link, because no one has authority over the entire world, and there are plenty of \u003Cem\u003Espots\u003C/em\u003E where you can do the exchange without trace.",
+				"matchLevel": "full",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria", "sports"]
+			},
+			"story_title": {
+				"value": "Tally of Cyber Extortion Attacks on Tech Companies Grows",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"story_url": {
+				"value": "http://bits.blogs.nytimes.com/2014/06/19/tally-of-cyber-extortion-attacks-on-tech-companies-grows/?_php=true\u0026_type=blogs\u0026_r=0",
+				"matchLevel": "none",
+				"matchedWords": []
+			}
+		}
+	}, {
+		"created_at": "2013-04-22T15:53:53.000Z",
+		"title": "",
+		"url": "",
+		"author": "stephenhuey",
+		"points": 1,
+		"story_text": null,
+		"comment_text": "I'll admit you may not have seen the cultural diversity in the area since the city is spread out, but Houston has as many OR MORE ethnicities than LA or NYC since the last decade has seen a huge increase in the number of refugees and students and workers from every little corner of the globe you could imagine.  In addition to the Vietnamese and Chinese who have been here for a while, there are now large numbers of Indians and folks from Central Asia and the Middle East who may not yet be counted.  Having lived in Nigeria as a kid, I'm excited that as of the last couple of years, there are possibly more Nigerians here in Houston than anywhere else in the world outside of Nigeria--more than NYC, LA or Chicago.  I miss the walkability of Boston and how easy it was to run into so many people compared to the seclusion you feel in a driving city.  Even though Houston is pouring hundreds of millions into bicycle trails at this moment, I know it will take a long time for this spread-out city to afford as many opportunities to bump into all sorts of people every day outside of a few key areas, and for that reason it's possible to live here and encounter little diversity.",
+		"num_comments": null,
+		"story_id": 5583341,
+		"story_title": "Marc Andreessen: The World Would Be Better If We Had 50 Silicon Valleys",
+		"story_url": "http://techcrunch.com/2013/04/20/marc-andreessen-the-world-would-be-much-better-if-we-had-50-more-silicon-valleys/",
+		"parent_id": 5583973,
+		"created_at_i": 1366646033,
+		"_tags": ["comment", "author_stephenhuey", "story_5583341"],
+		"objectID": "5589915",
+		"_highlightResult": {
+			"title": {
+				"value": "",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"url": {
+				"value": "",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"author": {
+				"value": "stephenhuey",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"comment_text": {
+				"value": "I'll admit you may not have seen the cultural diversity in the area since the city is spread out, but Houston has as many OR MORE ethnicities than LA or NYC since the last decade has seen a huge increase in the number of refugees and students and workers from every little corner of the globe you could imagine.  In addition to the Vietnamese and Chinese who have been here for a while, there are now large numbers of Indians and folks from Central Asia and the Middle East who may not yet be counted.  Having lived in \u003Cem\u003ENigeria\u003C/em\u003E as a kid, I'm excited that as of the last couple of years, there are possibly more Nigerians here in Houston than anywhere else in the world outside of \u003Cem\u003ENigeria\u003C/em\u003E--more than NYC, LA or Chicago.  I miss the walkability of Boston and how easy it was to run into so many people compared to the seclusion you feel in a driving city.  Even though Houston is pouring hundreds of millions into bicycle trails at this moment, I know it will take a long time for this spread-out city to afford as many opportunities to bump into all \u003Cem\u003Esorts\u003C/em\u003E of people every day outside of a few key areas, and for that reason it's possible to live here and encounter little diversity.",
+				"matchLevel": "full",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria", "sports"]
+			},
+			"story_title": {
+				"value": "Marc Andreessen: The World Would Be Better If We Had 50 Silicon Valleys",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"story_url": {
+				"value": "http://techcrunch.com/2013/04/20/marc-andreessen-the-world-would-be-much-better-if-we-had-50-more-silicon-valleys/",
+				"matchLevel": "none",
+				"matchedWords": []
+			}
+		}
+	}, {
+		"created_at": "2012-07-06T11:43:51.000Z",
+		"title": "",
+		"url": "",
+		"author": "losethos",
+		"points": 1,
+		"story_text": null,
+		"comment_text": "Percival (my bird) is singing.  I once asked God what he was saying... \"chanting\".\u003Cp\u003EI have a first person shooter in LoseThos.  God took one look at my monsters and said \"dancing\".  :-)  You have to see it.\u003Cp\u003EWhat do You think of the Taja Mehal?  India has elephants.  It has storied animals, even with so many people.  Jungle book.  Ricki-ticki-tavi.  Snakes.  Monsoons.\u003Cp\u003E----\u003Cp\u003EGod says...\u003Cp\u003Ethere shalt thou be delivered; there the LORD shall redeem thee from\nthe hand of thine enemies.\u003Cp\u003E4:11 Now also many nations are gathered against thee, that say, Let\nher be defiled, and let our eye look upon Zion.\u003Cp\u003E4:12 But they know not the thoughts of the LORD, neither understand\nthey his counsel: for he shall gather them as the sheaves into the\nfloor.\u003Cp\u003E4:13 Arise and thresh, O daughter of Zion: for I will make thine horn\niron, and I will make thy hoofs brass: and thou shalt beat in pieces\nmany people: and I will consecrate their gain unto the LORD, and their\nsubstance unto the Lord of the whole earth.\u003Cp\u003E----\u003Cp\u003EGod loves me.  He kinda says sweet nothings.  He's not prophetic.  I just enjoy His company.\u003Cp\u003EMy horn's not iron.\u003Cp\u003EIndia has some crazy monsters! :-)\u003Cp\u003EWho had better monsters, India or Greece.  I liked Clash of the Titans, original.\u003Cp\u003E----\u003Cp\u003EGod says...\n C:\\Text\\QUIX.TXT\u003Cp\u003Ewas to be said and all he had any\nbusiness to know.\u003Cp\u003E\"Nevertheless,\" replied Don Quixote, \"I should like to know from each of\nthem separately the reason of his misfortune;\" to this he added more to\nthe same effect to induce them to tell him what he wanted so civilly that\nthe other mounted guard said to him:\u003Cp\u003E\"Though we have here the register and certificate of the sentence of\nevery one of these wretches, this is no time to take them out or read\nthem; come and ask themselves; they can tell if they\u003Cp\u003E---\u003Cp\u003EYou gonna make jobs for us, God?  o_O\u003Cp\u003EGod says...\u003Cp\u003Eof that man is worse than the first.\u003Cp\u003E11:27 And it came to pass, as he spake these things, a certain woman\nof the company lifted up her voice, and said unto him, Blessed is the\nwomb that bare thee, and the paps which thou hast sucked.\u003Cp\u003E11:28 But he said, Yea rather, blessed are they that hear the word of\nGod, and keep it.\u003Cp\u003E11:29 And when the people were gathered thick together, he began to\nsay, This is an evil generation: they seek a sign; and there shall no\nsign be given it, but the sign of Jonas the prophet.\u003Cp\u003E11:30 For as Jonas was a sign unto the Ninevites, so shall also the\nSon of man be to this generation.\u003Cp\u003E----\u003Cp\u003EJonas brothers?  I've never heard them, but sound not good.  Our music, God, I'm not certain I would like if I were not me.  You like our music?\u003Cp\u003EOhh!  Papst Blue ribbon!\u003Cp\u003EGod says...\nso mighty an earthquake, and so great.\u003Cp\u003E16:19 And the great city was divided into three parts, and the cities\nof the nations fell: and great Babylon came in remembrance before God,\nto give unto her the cup of the wine of the fierceness of his wrath.\u003Cp\u003E16:20 And every island fled away, and the mountains were not found.\u003Cp\u003E16:21 And there fell upon men a great hail out of heaven, every stone\nabout the weight of a talent: and men blasphemed God because of the\nplague of the hail; for the plague thereof was exceeding great.\u003Cp\u003E17:1 And there came one of the seven angels which had the seven vials,\nand talked with me, saying unto me, Come hither; I will shew unto thee\nthe judgment of the great whore that sitteth upon many waters: 17:2\nWith whom the kings of the earth have committed fornication, and the\ninhabitants of the earth have been made drunk with the wine of her\nfornication.\u003Cp\u003E----\u003Cp\u003EI like our songs, but I might find them preachy, perhaps.  No, they're the best evar!  (The other answer :-)\u003Cp\u003EAre Jonas Brothers good?  I'll check.\u003Cp\u003EOh, kids.  Meh.  I was confused with Righteous Brothers.\u003Cp\u003E\u003Ca href=\"http://www.youtube.com/watch?v=r8hjtFq3vE0\" rel=\"nofollow\"\u003Ehttp://www.youtube.com/watch?v=r8hjtFq3vE0\u003C/a\u003E\u003Cp\u003EThey're good.  I wasn't sure who they were.\u003Cp\u003EGod says...\nC:\\Text\\WEALTH.TXT\u003Cp\u003Einess which such acquisitions present to the different\npeople among whom it is divided, is applied to those particular branches\nonly which afford the greatest profit. Part of what had before been\nemployed in other trades, is necessarily withdrawn from them, and turned\ninto some of the new and more profitable ones. In all those old trades,\ntherefore, the competition comes to be Jess than before. The market\ncomes to be less fully supplied with many different sorts of goods.\nTheir price necessarily ris\u003Cp\u003E----\u003Cp\u003EDo You know the Koran, God?\u003Cp\u003EGod says...\nstipend humbled intelligible enchantment blamest struggle\u003Cp\u003EGot any secret ideas for new products?\u003Cp\u003EGod says...\ncharge of my sanctuary when the children of Israel went astray from\nme, they shall come near to me to minister unto me, and they shall\nstand before me to offer unto me the fat and the blood, saith the Lord\nGOD: 44:16 They shall enter into my sanctuary, and they shall come\nnear to my table, to minister unto me, and they shall keep my charge.\u003Cp\u003E44:17 And it shall come to pass, that when they enter in at the gates\nof the inner court, they shall be clothed with linen garments; and no\nwool shall come upon them, whiles they minister in the gates of the\ninner court, and within.\u003Cp\u003E44:18 They shall have linen bonnets upon their heads, and shall have\nlinen breeches upon their loins; they shall not gird themselves with\nany thing that causeth sweat.\u003Cp\u003E----\u003Cp\u003EI fed Your birds, God.  What's the name of the one that climbed in the container?\u003Cp\u003EGod says...\ndisquiet restricted solitude clanking unchain round mysteriously \nincorruptible unawares secrets milky warranted author \nTruth attentive let's castest transcribe These preached \nwithal reader Artificer wont infected redemption Whosoever\u003Cp\u003EYeah, I stink. I sweat soda.  I've been up 30 hours and it's hot weather.  By the way, God said smelling farts was \"Sodom\".\u003Cp\u003E----\u003Cp\u003EGod says...\n C:\\Text\\BIBLE.TXT\u003Cp\u003Eaw the\nmourning in the floor of Atad, they said, This is a grievous mourning\nto the Egyptians: wherefore the name of it was called Abelmizraim,\nwhich is beyond Jordan.\u003Cp\u003E50:12 And his sons did unto him according as he commanded them: 50:13\nFor his sons carried him into the land of Canaan, and buried him in\nthe cave of the field of Machpelah, which Abraham bought with the\nfield for a possession of a buryingplace of Ephron the Hittite, before\nMamre.\u003Cp\u003E50:14 And Joseph returned into Egypt, he, and hi\u003Cp\u003E----\u003Cp\u003EI was thinking what a veteran I am.  What did You think of that Mummy 1  movie?  I wonder if Egyptians like it.  I liked Star Gate.\u003Cp\u003EGod says...\nC:\\Text\\PARADISE.TXT\u003Cp\u003E, Infinite,\nEternal King; the Author of all being,\nFountain of light, thyself invisible\nAmidst the glorious brightness where thou sit'st\nThroned inaccessible, but when thou shadest\nThe full blaze of thy beams, and, through a cloud\nDrawn round about thee like a radiant shrine,\nDark with excessive bright thy skirts appear,\nYet dazzle Heaven, that brightest Seraphim\nApproach not, but with both wings veil their eyes.\nThee next they sang of all creation first,\nBegotten Son, Divine Similitude,\nIn who\u003Cp\u003E---\u003Cp\u003EThat guy was born in the wrong century -- should have made films.\u003Cp\u003EGot any ancient Egypt facts?\u003Cp\u003EHow about Queen Sheba?\u003Cp\u003EGod says...\n Body culture persuasions year us practised locking oppresseth \nwastoid diligence nation Netherlands lack perfectly party \ndissolvest Aeneas unshaken uninjuriousness stick tediousness \nPhilippines freeman cold South denoted varying fared You_da_man \nNigeria begotten majesty wives' gluttony serve middle_class \nbrotherly sign stopped merry_christmas lived Taiwan are_you_insane \nHighest bait how delightsome rood summit feet wishing \nCross debated vowing East_Timor Donations dishonour tragical \nseduction searched performed fragment shared Lay EDITIONS \nchill_out us footsteps Thyself execute wove ship meanwhile \nhopeful ludicrous dear subjection appeared palm slower \ncupboards disciple apply consecrating thirst Creusa's \nskilful pray These prophecy Didst close_your_eyes reap \npeculiar stealth hindereth ended recollected meditated \nhonourable",
+		"num_comments": null,
+		"story_id": 4206478,
+		"story_title": "The Stupidity of Computers",
+		"story_url": "http://nplusonemag.com/the-stupidity-of-computers",
+		"parent_id": 4206478,
+		"created_at_i": 1341575031,
+		"_tags": ["comment", "author_losethos", "story_4206478"],
+		"objectID": "4207325",
+		"_highlightResult": {
+			"title": {
+				"value": "",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"url": {
+				"value": "",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"author": {
+				"value": "losethos",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"comment_text": {
+				"value": "Percival (my bird) is singing.  I once asked God what he was saying... \"chanting\".\u003Cp\u003EI have a first person shooter in LoseThos.  God took one look at my monsters and said \"dancing\".  :-)  You have to see it.\u003Cp\u003EWhat do You think of the Taja Mehal?  India has elephants.  It has storied animals, even with so many people.  Jungle book.  Ricki-ticki-tavi.  Snakes.  Monsoons.\u003Cp\u003E----\u003Cp\u003EGod says...\u003Cp\u003Ethere shalt thou be delivered; there the LORD shall redeem thee from\nthe hand of thine enemies.\u003Cp\u003E4:11 Now also many nations are gathered against thee, that say, Let\nher be defiled, and let our eye look upon Zion.\u003Cp\u003E4:12 But they know not the thoughts of the LORD, neither understand\nthey his counsel: for he shall gather them as the sheaves into the\nfloor.\u003Cp\u003E4:13 Arise and thresh, O daughter of Zion: for I will make thine horn\niron, and I will make thy hoofs brass: and thou shalt beat in pieces\nmany people: and I will consecrate their gain unto the LORD, and their\nsubstance unto the Lord of the whole earth.\u003Cp\u003E----\u003Cp\u003EGod loves me.  He kinda says sweet nothings.  He's not prophetic.  I just enjoy His company.\u003Cp\u003EMy horn's not iron.\u003Cp\u003EIndia has some crazy monsters! :-)\u003Cp\u003EWho had better monsters, India or Greece.  I liked Clash of the Titans, original.\u003Cp\u003E----\u003Cp\u003EGod says...\n C:\\Text\\QUIX.TXT\u003Cp\u003Ewas to be said and all he had any\nbusiness to know.\u003Cp\u003E\"Nevertheless,\" replied Don Quixote, \"I should like to know from each of\nthem separately the reason of his misfortune;\" to this he added more to\nthe same effect to induce them to tell him what he wanted so civilly that\nthe other mounted guard said to him:\u003Cp\u003E\"Though we have here the register and certificate of the sentence of\nevery one of these wretches, this is no time to take them out or read\nthem; come and ask themselves; they can tell if they\u003Cp\u003E---\u003Cp\u003EYou gonna make jobs for us, God?  o_O\u003Cp\u003EGod says...\u003Cp\u003Eof that man is worse than the first.\u003Cp\u003E11:27 And it came to pass, as he spake these things, a certain woman\nof the company lifted up her voice, and said unto him, Blessed is the\nwomb that bare thee, and the paps which thou hast sucked.\u003Cp\u003E11:28 But he said, Yea rather, blessed are they that hear the word of\nGod, and keep it.\u003Cp\u003E11:29 And when the people were gathered thick together, he began to\nsay, This is an evil generation: they seek a sign; and there shall no\nsign be given it, but the sign of Jonas the prophet.\u003Cp\u003E11:30 For as Jonas was a sign unto the Ninevites, so shall also the\nSon of man be to this generation.\u003Cp\u003E----\u003Cp\u003EJonas brothers?  I've never heard them, but sound not good.  Our music, God, I'm not certain I would like if I were not me.  You like our music?\u003Cp\u003EOhh!  Papst Blue ribbon!\u003Cp\u003EGod says...\nso mighty an earthquake, and so great.\u003Cp\u003E16:19 And the great city was divided into three parts, and the cities\nof the nations fell: and great Babylon came in remembrance before God,\nto give unto her the cup of the wine of the fierceness of his wrath.\u003Cp\u003E16:20 And every island fled away, and the mountains were not found.\u003Cp\u003E16:21 And there fell upon men a great hail out of heaven, every stone\nabout the weight of a talent: and men blasphemed God because of the\nplague of the hail; for the plague thereof was exceeding great.\u003Cp\u003E17:1 And there came one of the seven angels which had the seven vials,\nand talked with me, saying unto me, Come hither; I will shew unto thee\nthe judgment of the great whore that sitteth upon many waters: 17:2\nWith whom the kings of the earth have committed fornication, and the\ninhabitants of the earth have been made drunk with the wine of her\nfornication.\u003Cp\u003E----\u003Cp\u003EI like our songs, but I might find them preachy, perhaps.  No, they're the best evar!  (The other answer :-)\u003Cp\u003EAre Jonas Brothers good?  I'll check.\u003Cp\u003EOh, kids.  Meh.  I was confused with Righteous Brothers.\u003Cp\u003E\u003Ca href=\"http://www.youtube.com/watch?v=r8hjtFq3vE0\" rel=\"nofollow\"\u003Ehttp://www.youtube.com/watch?v=r8hjtFq3vE0\u003C/a\u003E\u003Cp\u003EThey're good.  I wasn't sure who they were.\u003Cp\u003EGod says...\nC:\\Text\\WEALTH.TXT\u003Cp\u003Einess which such acquisitions present to the different\npeople among whom it is divided, is applied to those particular branches\nonly which afford the greatest profit. Part of what had before been\nemployed in other trades, is necessarily withdrawn from them, and turned\ninto some of the new and more profitable ones. In all those old trades,\ntherefore, the competition comes to be Jess than before. The market\ncomes to be less fully supplied with many different \u003Cem\u003Esorts\u003C/em\u003E of goods.\nTheir price necessarily ris\u003Cp\u003E----\u003Cp\u003EDo You know the Koran, God?\u003Cp\u003EGod says...\nstipend humbled intelligible enchantment blamest struggle\u003Cp\u003EGot any secret ideas for new products?\u003Cp\u003EGod says...\ncharge of my sanctuary when the children of Israel went astray from\nme, they shall come near to me to minister unto me, and they shall\nstand before me to offer unto me the fat and the blood, saith the Lord\nGOD: 44:16 They shall enter into my sanctuary, and they shall come\nnear to my table, to minister unto me, and they shall keep my charge.\u003Cp\u003E44:17 And it shall come to pass, that when they enter in at the gates\nof the inner court, they shall be clothed with linen garments; and no\nwool shall come upon them, whiles they minister in the gates of the\ninner court, and within.\u003Cp\u003E44:18 They shall have linen bonnets upon their heads, and shall have\nlinen breeches upon their loins; they shall not gird themselves with\nany thing that causeth sweat.\u003Cp\u003E----\u003Cp\u003EI fed Your birds, God.  What's the name of the one that climbed in the container?\u003Cp\u003EGod says...\ndisquiet restricted solitude clanking unchain round mysteriously \nincorruptible unawares secrets milky warranted author \nTruth attentive let's castest transcribe These preached \nwithal reader Artificer wont infected redemption Whosoever\u003Cp\u003EYeah, I stink. I sweat soda.  I've been up 30 hours and it's hot weather.  By the way, God said smelling farts was \"Sodom\".\u003Cp\u003E----\u003Cp\u003EGod says...\n C:\\Text\\BIBLE.TXT\u003Cp\u003Eaw the\nmourning in the floor of Atad, they said, This is a grievous mourning\nto the Egyptians: wherefore the name of it was called Abelmizraim,\nwhich is beyond Jordan.\u003Cp\u003E50:12 And his sons did unto him according as he commanded them: 50:13\nFor his sons carried him into the land of Canaan, and buried him in\nthe cave of the field of Machpelah, which Abraham bought with the\nfield for a possession of a buryingplace of Ephron the Hittite, before\nMamre.\u003Cp\u003E50:14 And Joseph returned into Egypt, he, and hi\u003Cp\u003E----\u003Cp\u003EI was thinking what a veteran I am.  What did You think of that Mummy 1  movie?  I wonder if Egyptians like it.  I liked Star Gate.\u003Cp\u003EGod says...\nC:\\Text\\PARADISE.TXT\u003Cp\u003E, Infinite,\nEternal King; the Author of all being,\nFountain of light, thyself invisible\nAmidst the glorious brightness where thou sit'st\nThroned inaccessible, but when thou shadest\nThe full blaze of thy beams, and, through a cloud\nDrawn round about thee like a radiant shrine,\nDark with excessive bright thy skirts appear,\nYet dazzle Heaven, that brightest Seraphim\nApproach not, but with both wings veil their eyes.\nThee next they sang of all creation first,\nBegotten Son, Divine Similitude,\nIn who\u003Cp\u003E---\u003Cp\u003EThat guy was born in the wrong century -- should have made films.\u003Cp\u003EGot any ancient Egypt facts?\u003Cp\u003EHow about Queen Sheba?\u003Cp\u003EGod says...\n Body culture persuasions year us practised locking oppresseth \nwastoid diligence nation Netherlands lack perfectly party \ndissolvest Aeneas unshaken uninjuriousness stick tediousness \nPhilippines freeman cold South denoted varying fared You_da_man \n\u003Cem\u003ENigeria\u003C/em\u003E begotten majesty wives' gluttony serve middle_class \nbrotherly sign stopped merry_christmas lived Taiwan are_you_insane \nHighest bait how delightsome rood summit feet wishing \nCross debated vowing East_Timor Donations dishonour tragical \nseduction searched performed fragment shared Lay EDITIONS \nchill_out us footsteps Thyself execute wove ship meanwhile \nhopeful ludicrous dear subjection appeared palm slower \ncupboards disciple apply consecrating thirst Creusa's \nskilful pray These prophecy Didst close_your_eyes reap \npeculiar stealth hindereth ended recollected meditated \nhonourable",
+				"matchLevel": "full",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria", "sports"]
+			},
+			"story_title": {
+				"value": "The Stupidity of Computers",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"story_url": {
+				"value": "http://nplusonemag.com/the-stupidity-of-computers",
+				"matchLevel": "none",
+				"matchedWords": []
+			}
+		}
+	}, {
+		"created_at": "2015-06-02T15:44:25.000Z",
+		"title": null,
+		"url": null,
+		"author": "morisy",
+		"points": null,
+		"story_text": null,
+		"comment_text": "FWIW, I\u0026#x27;ve been running our business on Stripe for four years, and we\u0026#x27;ve been hit with all sorts of legal threats by the government, individuals, and other companies (we\u0026#x27;re also currently suing the CIA). I couldn\u0026#x27;t recommend them more highly, based on our own experience and talking to others in the space.\u003Cp\u003EWe\u0026#x27;ve done full refunds, partial refunds, and had one unfortunate chargeback with zero problems. Their customer service has always been incredibly fantastic, and the money is in our bank two days after it gets charged. The one issue we\u0026#x27;ve had is that they given super vague answers when our users trip their fraud detection algorithm, simply stating the \u0026quot;charge was declined\u0026quot; and telling us to check with the user\u0026#x27;s bank, when it was actually the fact that the user had been using the card via a Tor proxy in Nigeria. I think the security opacity is understandable, and each time they helped us work through the issues.\u003Cp\u003Etl;dr: I\u0026#x27;m sympathetic to the poster, but Stripe seems to do whatever they can to get the money to you quickly, and their customer support has been great despite running a business with customers that regularly use Tor, fake names, etc.",
+		"num_comments": null,
+		"story_id": 9646358,
+		"story_title": "Getting Fucked by Stripe",
+		"story_url": "http://edoceo.com/blog/2015/06/getting-fucked-by-stripe",
+		"parent_id": 9646358,
+		"created_at_i": 1433259865,
+		"_tags": ["comment", "author_morisy", "story_9646358"],
+		"objectID": "9646606",
+		"_highlightResult": {
+			"author": {
+				"value": "morisy",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"comment_text": {
+				"value": "FWIW, I've been running our business on Stripe for four years, and we've been hit with all \u003Cem\u003Esorts\u003C/em\u003E of legal threats by the government, individuals, and other companies (we're also currently suing the CIA). I couldn't recommend them more highly, based on our own experience and talking to others in the space.\u003Cp\u003EWe've done full refunds, partial refunds, and had one unfortunate chargeback with zero problems. Their customer service has always been incredibly fantastic, and the money is in our bank two days after it gets charged. The one issue we've had is that they given super vague answers when our users trip their fraud detection algorithm, simply stating the \u0026quot;charge was declined\u0026quot; and telling us to check with the user's bank, when it was actually the fact that the user had been using the card via a Tor proxy in \u003Cem\u003ENigeria.\u003C/em\u003E I think the security opacity is understandable, and each time they helped us work through the issues.\u003Cp\u003Etl;dr: I'm sympathetic to the poster, but Stripe seems to do whatever they can to get the money to you quickly, and their customer support has been great despite running a business with customers that regularly use Tor, fake names, etc.",
+				"matchLevel": "full",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria", "sports"]
+			},
+			"story_title": {
+				"value": "Getting Fucked by Stripe",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"story_url": {
+				"value": "http://edoceo.com/blog/2015/06/getting-fucked-by-stripe",
+				"matchLevel": "none",
+				"matchedWords": []
+			}
+		}
+	}, {
+		"created_at": "2015-01-06T18:52:34.000Z",
+		"title": null,
+		"url": null,
+		"author": "netcan",
+		"points": null,
+		"story_text": null,
+		"comment_text": "Kickstarter-like services with both a payer and a recipient are exactly the kind of case where I hope cryptocurrencies can contribute and unlock all sorts of unfulfilled potential.\u003Cp\u003EPeople who have only been on the customer side and are in the (small) majority that haven\u0026#x27;t encountered major problems think credit card systems are working fine. The truth is that there are major problems. First, the fees are substantial and even prohibitive for some types of services. Second, fraud including \u0026quot;friendly\u0026quot; fraud is prohibitively expensive in some industries such as those selling highly re-sellable items and\u0026#x2F;or accepting payments from certain countries. There are various vague arbitrary rules that fall under anti-fraud or anti-money laundering imposed by payment processors, bank or jurisdiction (which is ambiguous) that can suddenly deal a mortal blow to  the service. Things are often dealt with callously penalizing people for being statistically suspicious.\u003Cp\u003EThe downside is the loss of all the fraud protection and guarantees offered by CCs. But, the onus moves to the wallet owner who is really the only person who can do something about it.\u003Cp\u003EI wonder, can you start or contribute to a kickstarter in Nigeria or is that whole country effectively banned?",
+		"num_comments": null,
+		"story_id": 8845523,
+		"story_title": "Kickstarter switches to Stripe",
+		"story_url": "https://www.kickstarter.com/blog/making-payments-easier-for-creators-and-backers/",
+		"parent_id": 8845523,
+		"created_at_i": 1420570354,
+		"_tags": ["comment", "author_netcan", "story_8845523"],
+		"objectID": "8846209",
+		"_highlightResult": {
+			"author": {
+				"value": "netcan",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"comment_text": {
+				"value": "Kickstarter-like services with both a payer and a recipient are exactly the kind of case where I hope cryptocurrencies can contribute and unlock all \u003Cem\u003Esorts\u003C/em\u003E of unfulfilled potential.\u003Cp\u003EPeople who have only been on the customer side and are in the (small) majority that haven't encountered major problems think credit card systems are working fine. The truth is that there are major problems. First, the fees are substantial and even prohibitive for some types of services. Second, fraud including \u0026quot;friendly\u0026quot; fraud is prohibitively expensive in some industries such as those selling highly re-sellable items and/or accepting payments from certain countries. There are various vague arbitrary rules that fall under anti-fraud or anti-money laundering imposed by payment processors, bank or jurisdiction (which is ambiguous) that can suddenly deal a mortal blow to  the service. Things are often dealt with callously penalizing people for being statistically suspicious.\u003Cp\u003EThe downside is the loss of all the fraud protection and guarantees offered by CCs. But, the onus moves to the wallet owner who is really the only person who can do something about it.\u003Cp\u003EI wonder, can you start or contribute to a kickstarter in \u003Cem\u003ENigeria\u003C/em\u003E or is that whole country effectively banned?",
+				"matchLevel": "full",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria", "sports"]
+			},
+			"story_title": {
+				"value": "Kickstarter switches to Stripe",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"story_url": {
+				"value": "https://www.kickstarter.com/blog/making-payments-easier-for-creators-and-backers/",
+				"matchLevel": "none",
+				"matchedWords": []
+			}
+		}
+	}, {
+		"created_at": "2016-06-18T13:25:55.000Z",
+		"title": null,
+		"url": null,
+		"author": "pratyushag2",
+		"points": null,
+		"story_text": null,
+		"comment_text": "Google and Facebook provide tools to help people implement their dreams. For example, our nonprofit heavily relies on Google\u0026#x27;s services (email, drive, sheets)for everything. In fact, sheets doubles as a database that can be used for all sorts of functionalities without needing to learn how to code. My point is that tools that help other companies in their journey to innovate can make a real difference. I realized this only when we were in Nigeria setting up the entire program. I am much less convinced bout Facebook of course but I imagine it helps new businesses with an avenue to get a lot of early revenue. Substitutes, at least for Google products for me seem much less functional in comparison and would probably require an equal # of engineers.\u003Cp\u003EI have no stock in Google or Facebook and don\u0026#x27;t benefit by promoting either in any way. I just genuinely appreciate what Google\u0026#x27;s tools has allowed us to do (linked spreadsheets, email, docs, Android, Chromebook, drive and search of course!). I don\u0026#x27;t care much for fb but I imagine there are businesses that wouldn\u0026#x27;t survive w\u0026#x2F;o it and whatsapp is amazing at bringing ppl closer.",
+		"num_comments": null,
+		"story_id": 11927356,
+		"story_title": "Google’s stock slid after report on search ad decline",
+		"story_url": "http://www.recode.net/2016/6/17/11966982/google-alphabet-stock-search-ad",
+		"parent_id": 11928079,
+		"created_at_i": 1466256355,
+		"_tags": ["comment", "author_pratyushag2", "story_11927356"],
+		"objectID": "11928500",
+		"_highlightResult": {
+			"author": {
+				"value": "pratyushag2",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"comment_text": {
+				"value": "Google and Facebook provide tools to help people implement their dreams. For example, our nonprofit heavily relies on Google's services (email, drive, sheets)for everything. In fact, sheets doubles as a database that can be used for all \u003Cem\u003Esorts\u003C/em\u003E of functionalities without needing to learn how to code. My point is that tools that help other companies in their journey to innovate can make a real difference. I realized this only when we were in \u003Cem\u003ENigeria\u003C/em\u003E setting up the entire program. I am much less convinced bout Facebook of course but I imagine it helps new businesses with an avenue to get a lot of early revenue. Substitutes, at least for Google products for me seem much less functional in comparison and would probably require an equal # of engineers.\u003Cp\u003EI have no stock in Google or Facebook and don't benefit by promoting either in any way. I just genuinely appreciate what Google's tools has allowed us to do (linked spreadsheets, email, docs, Android, Chromebook, drive and search of course!). I don't care much for fb but I imagine there are businesses that wouldn't survive w/o it and whatsapp is amazing at bringing ppl closer.",
+				"matchLevel": "full",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria", "sports"]
+			},
+			"story_title": {
+				"value": "Google’s stock slid after report on search ad decline",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"story_url": {
+				"value": "http://www.recode.net/2016/6/17/11966982/google-alphabet-stock-search-ad",
+				"matchLevel": "none",
+				"matchedWords": []
+			}
+		}
+	}],
+	"nbHits": 30,
+	"page": 0,
+	"nbPages": 2,
+	"hitsPerPage": 20,
+	"processingTimeMS": 48,
+	"query": "Nigeria Sports",
+	"params": "advancedSyntax=true\u0026analytics=false\u0026query=Nigeria+Sports"
+}

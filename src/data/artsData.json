@@ -1,0 +1,854 @@
+{
+	"hits": [{
+		"created_at": "2013-10-11T04:09:30.000Z",
+		"title": "Missing Dr. Who episodes found in Nigeria",
+		"url": "http://www.bbc.co.uk/news/entertainment-arts-24467337",
+		"author": "jdmitch",
+		"points": 2,
+		"story_text": "",
+		"comment_text": null,
+		"num_comments": 0,
+		"story_id": null,
+		"story_title": null,
+		"story_url": null,
+		"parent_id": null,
+		"created_at_i": 1381464570,
+		"_tags": ["story", "author_jdmitch", "story_6531362"],
+		"objectID": "6531362",
+		"_highlightResult": {
+			"title": {
+				"value": "Missing Dr. Who episodes found in \u003Cem\u003ENigeria\u003C/em\u003E",
+				"matchLevel": "partial",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria"]
+			},
+			"url": {
+				"value": "http://www.bbc.co.uk/news/entertainment-\u003Cem\u003Earts\u003C/em\u003E-24467337",
+				"matchLevel": "partial",
+				"fullyHighlighted": false,
+				"matchedWords": ["arts"]
+			},
+			"author": {
+				"value": "jdmitch",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"story_text": {
+				"value": "",
+				"matchLevel": "none",
+				"matchedWords": []
+			}
+		}
+	}, {
+		"created_at": "2011-01-23T15:20:09.000Z",
+		"title": null,
+		"url": null,
+		"author": "cturner",
+		"points": null,
+		"story_text": null,
+		"comment_text": "This is a broader issue  than access to Paypal.\u003Cp\u003EThere's lots of reasons it's not great to be a Nigerian in Nigeria - fixed elections, corruption, violence, low standard of living, tension between the north and south, nasty tropical diseases, relatively lower education opportunities, weak arts community, flowover from ethnic tension in neighbouring states.\u003Cp\u003EIn the scale of things, concern over ability to make internet payments is probably pretty low, and a concern that would be pressing only to a small elite in the country.",
+		"num_comments": null,
+		"story_id": 2132324,
+		"story_title": "Life as a Second Class Citizen of the Web ",
+		"story_url": "http://oonwoye.com/2011/01/23/life-as-a-second-class-citizen-of-the-web/",
+		"parent_id": 2132448,
+		"created_at_i": 1295796009,
+		"_tags": ["comment", "author_cturner", "story_2132324"],
+		"objectID": "2132508",
+		"_highlightResult": {
+			"author": {
+				"value": "cturner",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"comment_text": {
+				"value": "This is a broader issue  than access to Paypal.\u003Cp\u003EThere's lots of reasons it's not great to be a Nigerian in \u003Cem\u003ENigeria\u003C/em\u003E - fixed elections, corruption, violence, low standard of living, tension between the north and south, nasty tropical diseases, relatively lower education opportunities, weak \u003Cem\u003Earts\u003C/em\u003E community, flowover from ethnic tension in neighbouring states.\u003Cp\u003EIn the scale of things, concern over ability to make internet payments is probably pretty low, and a concern that would be pressing only to a small elite in the country.",
+				"matchLevel": "full",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria", "arts"]
+			},
+			"story_title": {
+				"value": "Life as a Second Class Citizen of the Web ",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"story_url": {
+				"value": "http://oonwoye.com/2011/01/23/life-as-a-second-class-citizen-of-the-web/",
+				"matchLevel": "none",
+				"matchedWords": []
+			}
+		}
+	}, {
+		"created_at": "2015-10-08T14:50:36.000Z",
+		"title": null,
+		"url": null,
+		"author": "danso",
+		"points": null,
+		"story_text": null,
+		"comment_text": "\u0026gt; \u003Ci\u003EMUBI has spent years cultivating that audience with a selection of artsy, obscure films that don\u0026#x27;t usually appear on Netflix or Hulu. (It originally launched under the name \u0026quot;The Auteurs,\u0026quot; before rebranding in 2010 as MUBI — a play on accented pronunciations of \u0026quot;movie,\u0026quot; and after a city in Nigeria.) On Monday, the titles available on the company\u0026#x27;s US site included Bernardo Bertolucci\u0026#x27;s 1970 classic The Conformist, and Sympathy for Mr. Vengeance, by Chan-wook Park. Occasionally, it features more mainstream movies like Sin City, currently available on the French site, though the majority are far more obscure. A new title is added every day as another drops out, meaning that only 30 films are available for streaming at any given time.\u003C/i\u003E\u003Cp\u003EIn defense of Netflix (not that the \u0026quot;Goliath\u0026quot; in this comparison needs defenders)...but \u0026quot;Sympathy for Mr. Vengeance\u0026quot; has been available on streaming Netflix for, as far as I remember, the time that I\u0026#x27;ve been a customer, which was basically when streaming started. \u0026quot;Mr. Vengeance\u0026quot; is the first in \u0026quot;The Vengeance Trilogy\u0026quot; that includes the more well-known \u0026quot;Oldboy\u0026quot; [1] and \u0026quot;Sympathy for Lady Vengeance\u0026quot;...I think the entire trilogy has been on Netflix for years (including the regrettable American remake of Oldboy, but can\u0026#x27;t fault Netflix for having it...)\u003Cp\u003EEven as Netflix\u0026#x27;s blockbuster selection has faded (with the ending of the Starz deal, and in comparison to HBONow)...I\u0026#x27;ve never had a complaint about their selection of the most well-known and recent foreign indies. \u0026quot;Let the Right One In\u0026quot;, \u0026quot;The Hunt\u0026quot;, \u0026quot;Force Majeure\u0026quot;, The Girl with the Dragon Tattoo trilogy...though sure, they could always have more (and obviously, I don\u0026#x27;t know enough of the foreign scene to know all of the gems that they don\u0026#x27;t have).\u003Cp\u003EBut I imagine the problem for Netflix isn\u0026#x27;t that they do a shitty job of curation...but that the deals end up not being financially valuable to them, as it was in the Starz case. Ang Lee\u0026#x27;s movies (\u0026quot;Crouching Tiger, Hidden Dragon\u0026quot; and \u0026quot;Lust, Caution\u0026quot;) were long-time selections, but I\u0026#x27;ve just noticed they are no longer available for streaming.\u003Cp\u003Eedit: if you liked Oldboy, Sympathy for Mr. Vengeance is definitely worth checking out. But whereas Oldboy was entertaining on top of being emotionally extreme...I\u0026#x27;d argue \u0026quot;Mr. Vengeance\u0026quot; is much more of an artistic achievement, but at the cost of being \u0026quot;entertaining\u0026quot;. In fact, I get a little ill at the thought of re-watching it, even though I own it on DVD.\u003Cp\u003E[1] \u003Ca href=\"http:\u0026#x2F;\u0026#x2F;www.rogerebert.com\u0026#x2F;reviews\u0026#x2F;oldboy-2005\" rel=\"nofollow\"\u003Ehttp:\u0026#x2F;\u0026#x2F;www.rogerebert.com\u0026#x2F;reviews\u0026#x2F;oldboy-2005\u003C/a\u003E -- Ebert\u0026#x27;s review here is so glowing that not only did it get me to seek out Oldboy, but it changed the way I think of foreign movies in comparison to Hollywood.",
+		"num_comments": null,
+		"story_id": 10352538,
+		"story_title": "How a small streaming site became the Netflix for indie film",
+		"story_url": "http://www.theverge.com/2015/10/6/9463225/mubi-streaming-service-independent-films-efe-cakarel-interview",
+		"parent_id": 10352538,
+		"created_at_i": 1444315836,
+		"_tags": ["comment", "author_danso", "story_10352538"],
+		"objectID": "10353109",
+		"_highlightResult": {
+			"author": {
+				"value": "danso",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"comment_text": {
+				"value": "\u0026gt; \u003Ci\u003EMUBI has spent years cultivating that audience with a selection of \u003Cem\u003Earts\u003C/em\u003Ey, obscure films that don't usually appear on Netflix or Hulu. (It originally launched under the name \u0026quot;The Auteurs,\u0026quot; before rebranding in 2010 as MUBI — a play on accented pronunciations of \u0026quot;movie,\u0026quot; and after a city in \u003Cem\u003ENigeria.\u003C/em\u003E) On Monday, the titles available on the company's US site included Bernardo Bertolucci's 1970 classic The Conformist, and Sympathy for Mr. Vengeance, by Chan-wook Park. Occasionally, it features more mainstream movies like Sin City, currently available on the French site, though the majority are far more obscure. A new title is added every day as another drops out, meaning that only 30 films are available for streaming at any given time.\u003C/i\u003E\u003Cp\u003EIn defense of Netflix (not that the \u0026quot;Goliath\u0026quot; in this comparison needs defenders)...but \u0026quot;Sympathy for Mr. Vengeance\u0026quot; has been available on streaming Netflix for, as far as I remember, the time that I've been a customer, which was basically when streaming started. \u0026quot;Mr. Vengeance\u0026quot; is the first in \u0026quot;The Vengeance Trilogy\u0026quot; that includes the more well-known \u0026quot;Oldboy\u0026quot; [1] and \u0026quot;Sympathy for Lady Vengeance\u0026quot;...I think the entire trilogy has been on Netflix for years (including the regrettable American remake of Oldboy, but can't fault Netflix for having it...)\u003Cp\u003EEven as Netflix's blockbuster selection has faded (with the ending of the Starz deal, and in comparison to HBONow)...I've never had a complaint about their selection of the most well-known and recent foreign indies. \u0026quot;Let the Right One In\u0026quot;, \u0026quot;The Hunt\u0026quot;, \u0026quot;Force Majeure\u0026quot;, The Girl with the Dragon Tattoo trilogy...though sure, they could always have more (and obviously, I don't know enough of the foreign scene to know all of the gems that they don't have).\u003Cp\u003EBut I imagine the problem for Netflix isn't that they do a shitty job of curation...but that the deals end up not being financially valuable to them, as it was in the Starz case. Ang Lee's movies (\u0026quot;Crouching Tiger, Hidden Dragon\u0026quot; and \u0026quot;Lust, Caution\u0026quot;) were long-time selections, but I've just noticed they are no longer available for streaming.\u003Cp\u003Eedit: if you liked Oldboy, Sympathy for Mr. Vengeance is definitely worth checking out. But whereas Oldboy was entertaining on top of being emotionally extreme...I'd argue \u0026quot;Mr. Vengeance\u0026quot; is much more of an artistic achievement, but at the cost of being \u0026quot;entertaining\u0026quot;. In fact, I get a little ill at the thought of re-watching it, even though I own it on DVD.\u003Cp\u003E[1] \u003Ca href=\"http://www.rogerebert.com/reviews/oldboy-2005\" rel=\"nofollow\"\u003Ehttp://www.rogerebert.com/reviews/oldboy-2005\u003C/a\u003E -- Ebert's review here is so glowing that not only did it get me to seek out Oldboy, but it changed the way I think of foreign movies in comparison to Hollywood.",
+				"matchLevel": "full",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria", "arts"]
+			},
+			"story_title": {
+				"value": "How a small streaming site became the Netflix for indie film",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"story_url": {
+				"value": "http://www.theverge.com/2015/10/6/9463225/mubi-streaming-service-independent-films-efe-cakarel-interview",
+				"matchLevel": "none",
+				"matchedWords": []
+			}
+		}
+	}, {
+		"created_at": "2013-04-09T03:21:08.000Z",
+		"title": "",
+		"url": "",
+		"author": "briandear",
+		"points": 1,
+		"story_text": null,
+		"comment_text": "Sorry, but you obviously have never run a multinational internet company, nor do you seem to know anything about corporate VPNs. Nearly every large corporation in the world uses VPNs for employee computers. The \"majority\" of VPN users are not people trying to \"hide\" illicit activity, the majority are highly security conscious or they're road-warriors on questionable hotel connections among a variety of other non-criminal use cases.\u003Cp\u003EWhen we started icouch.me while in Shanghai, China, PayPal flagged my account and constantly locked it even though I jumped through their hoops \"proving\" our legitimacy and that no transactions (at that time) were actually China-originated. Just the simple fact that I logged on from China caused us to get locked out of our payments for up to weeks at a time (even though they still had no problem collecting the fees from our still-incoming transactions.) Then once I got that nonsense sorted, I started traveling more frequently for the company. So when I arrived in New York City, once again I was locked out of my account for 5 business days for \"security\" reasons, even though we've never had a single chargeback or any sort of security complaint or issue. Then I worked out of Texas for several weeks and once again, my account was locked. Despite the fact that we had the same US corporate bank account since 2010 (when the company was first founded.) By using a VPN, I was able to ensure my US \"presence\" to manage our business without PayPal's ridiculously retarded IP-detection security lockouts. I've since told paypal to go suck an egg and we use Stripe for everything.\u003Cp\u003EWhen a company like PayPal can hold my operational funds hostage for weeks at a time with no way to clear it up expeditiously, then they just became thieves. They're making interest off of MY money while I can't access it. If they were \"really\" worried about security, then they'd block all transactions as well. But no, they have no problem taking money.\u003Cp\u003EInterestingly, the credit bureau websites are locked to US only IPs as well. So if you have a subscription to some credit-monitoring service, they'll gladly take your money even if you can't access their services with a non-US IP address.\u003Cp\u003EThose folks can all go to hell. It isn't my problem that some russian and nigeria scam artists have a tendency to cause problems. The IP address isn't the issue -- it's the security of their overall application. They're using geo-location as a shorthand for actually doing their job in securing their site.\u003Cp\u003EInterestingly, I can access my US Chase bank account, my Simple account, Fidelity Investment account, Stripe from around the world without any sort of of VPN, yet somehow PayPal can't seem to figure out how to get security or customer service right.",
+		"num_comments": null,
+		"story_id": 5515550,
+		"story_title": "PayPal terminated my account because I use a VPN",
+		"story_url": "https://uwnthesis.wordpress.com/2013/04/08/paypal-terminated-my-account-because-use-of-a-vpn-is-against-their-terms-and-conditions/",
+		"parent_id": 5515696,
+		"created_at_i": 1365477668,
+		"_tags": ["comment", "author_briandear", "story_5515550"],
+		"objectID": "5516250",
+		"_highlightResult": {
+			"title": {
+				"value": "",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"url": {
+				"value": "",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"author": {
+				"value": "briandear",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"comment_text": {
+				"value": "Sorry, but you obviously have never run a multinational internet company, nor do you seem to know anything about corporate VPNs. Nearly every large corporation in the world uses VPNs for employee computers. The \"majority\" of VPN users are not people trying to \"hide\" illicit activity, the majority are highly security conscious or they're road-warriors on questionable hotel connections among a variety of other non-criminal use cases.\u003Cp\u003EWhen we started icouch.me while in Shanghai, China, PayPal flagged my account and constantly locked it even though I jumped through their hoops \"proving\" our legitimacy and that no transactions (at that time) were actually China-originated. Just the simple fact that I logged on from China caused us to get locked out of our payments for up to weeks at a time (even though they still had no problem collecting the fees from our still-incoming transactions.) Then once I got that nonsense sorted, I started traveling more frequently for the company. So when I arrived in New York City, once again I was locked out of my account for 5 business days for \"security\" reasons, even though we've never had a single chargeback or any sort of security complaint or issue. Then I worked out of Texas for several weeks and once again, my account was locked. Despite the fact that we had the same US corporate bank account since 2010 (when the company was first founded.) By using a VPN, I was able to ensure my US \"presence\" to manage our business without PayPal's ridiculously retarded IP-detection security lockouts. I've since told paypal to go suck an egg and we use Stripe for everything.\u003Cp\u003EWhen a company like PayPal can hold my operational funds hostage for weeks at a time with no way to clear it up expeditiously, then they just became thieves. They're making interest off of MY money while I can't access it. If they were \"really\" worried about security, then they'd block all transactions as well. But no, they have no problem taking money.\u003Cp\u003EInterestingly, the credit bureau websites are locked to US only IPs as well. So if you have a subscription to some credit-monitoring service, they'll gladly take your money even if you can't access their services with a non-US IP address.\u003Cp\u003EThose folks can all go to hell. It isn't my problem that some russian and \u003Cem\u003Enigeria\u003C/em\u003E scam \u003Cem\u003Eartis\u003C/em\u003Ets have a tendency to cause problems. The IP address isn't the issue -- it's the security of their overall application. They're using geo-location as a shorthand for actually doing their job in securing their site.\u003Cp\u003EInterestingly, I can access my US Chase bank account, my Simple account, Fidelity Investment account, Stripe from around the world without any sort of of VPN, yet somehow PayPal can't seem to figure out how to get security or customer service right.",
+				"matchLevel": "full",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria", "arts"]
+			},
+			"story_title": {
+				"value": "PayPal terminated my account because I use a VPN",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"story_url": {
+				"value": "https://uwnthesis.wordpress.com/2013/04/08/paypal-terminated-my-account-because-use-of-a-vpn-is-against-their-terms-and-conditions/",
+				"matchLevel": "none",
+				"matchedWords": []
+			}
+		}
+	}, {
+		"created_at": "2009-01-08T15:21:06.000Z",
+		"title": null,
+		"url": null,
+		"author": "lliiffee",
+		"points": null,
+		"story_text": null,
+		"comment_text": "Nigeria, Libya.\u003Cp\u003E\u003Ca href=\"http://arstechnica.com/news.ars/post/20071031-classmate-pc-olpc-ink-deals-in-the-face-of-growing-challenges.html\" rel=\"nofollow\"\u003Ehttp://arstechnica.com/news.ars/post/20071031-classmate-pc-o...\u003C/a\u003E\u003Cp\u003EP.S. Thanks for making a reasonable request for information rather than cursing!",
+		"num_comments": null,
+		"story_id": 424090,
+		"story_title": "OLPC cuts 50% of staff",
+		"story_url": "http://blog.laptop.org/2009/01/07/refocusing-on-our-mission/",
+		"parent_id": 424952,
+		"created_at_i": 1231428066,
+		"_tags": ["comment", "author_lliiffee", "story_424090"],
+		"objectID": "424986",
+		"_highlightResult": {
+			"author": {
+				"value": "lliiffee",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"comment_text": {
+				"value": "\u003Cem\u003ENigeria\u003C/em\u003E, Libya.\u003Cp\u003E\u003Ca href=\"http://arstechnica.com/news.ars/post/20071031-classmate-pc-olpc-ink-deals-in-the-face-of-growing-challenges.html\" rel=\"nofollow\"\u003Ehttp://\u003Cem\u003Earst\u003C/em\u003Eechnica.com/news.ars/post/20071031-classmate-pc-o...\u003C/a\u003E\u003Cp\u003EP.S. Thanks for making a reasonable request for information rather than cursing!",
+				"matchLevel": "full",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria", "arts"]
+			},
+			"story_title": {
+				"value": "OLPC cuts 50% of staff",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"story_url": {
+				"value": "http://blog.laptop.org/2009/01/07/refocusing-on-our-mission/",
+				"matchLevel": "none",
+				"matchedWords": []
+			}
+		}
+	}, {
+		"created_at": "2013-11-11T16:29:52.000Z",
+		"title": "",
+		"url": "",
+		"author": "the_watcher",
+		"points": 1,
+		"story_text": null,
+		"comment_text": "The section on arms shipments to Nigeria reminded me strongly of the film \u0026quot;Lord of War,\u0026quot; where Nic Cage\u0026#x27;s character notes that his favorite cover for his arms is the combination of tropical heat and old potatoes.",
+		"num_comments": null,
+		"story_id": 6710031,
+		"story_title": "The secret world of cargo ships",
+		"story_url": "http://theweek.com/article/index/252438/the-secret-world-of-cargo-ships",
+		"parent_id": 6710031,
+		"created_at_i": 1384187392,
+		"_tags": ["comment", "author_the_watcher", "story_6710031"],
+		"objectID": "6712360",
+		"_highlightResult": {
+			"title": {
+				"value": "",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"url": {
+				"value": "",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"author": {
+				"value": "the_watcher",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"comment_text": {
+				"value": "The section on \u003Cem\u003Earms\u003C/em\u003E shipments to \u003Cem\u003ENigeria\u003C/em\u003E reminded me strongly of the film \u0026quot;Lord of War,\u0026quot; where Nic Cage's character notes that his favorite cover for his \u003Cem\u003Earms\u003C/em\u003E is the combination of tropical heat and old potatoes.",
+				"matchLevel": "full",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria", "arts"]
+			},
+			"story_title": {
+				"value": "The secret world of cargo ships",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"story_url": {
+				"value": "http://theweek.com/article/index/252438/the-secret-world-of-cargo-ships",
+				"matchLevel": "none",
+				"matchedWords": []
+			}
+		}
+	}, {
+		"created_at": "2015-07-17T12:23:56.000Z",
+		"title": "Best Buy has spammed me more than all of Nigeria’s princes combined",
+		"url": "http://arstechnica.com/business/2015/07/best-buy-has-spammed-me-more-than-all-of-nigerias-princes-combined/",
+		"author": "theandrewbailey",
+		"points": 3,
+		"story_text": "",
+		"comment_text": null,
+		"num_comments": 0,
+		"story_id": null,
+		"story_title": null,
+		"story_url": null,
+		"parent_id": null,
+		"created_at_i": 1437135836,
+		"_tags": ["story", "author_theandrewbailey", "story_9902352"],
+		"objectID": "9902352",
+		"_highlightResult": {
+			"title": {
+				"value": "Best Buy has spammed me more than all of \u003Cem\u003ENigeria\u003C/em\u003E’s princes combined",
+				"matchLevel": "partial",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria"]
+			},
+			"url": {
+				"value": "http://\u003Cem\u003Earst\u003C/em\u003Eechnica.com/business/2015/07/best-buy-has-spammed-me-more-than-all-of-nigerias-princes-combined/",
+				"matchLevel": "partial",
+				"fullyHighlighted": false,
+				"matchedWords": ["arts"]
+			},
+			"author": {
+				"value": "theandrewbailey",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"story_text": {
+				"value": "",
+				"matchLevel": "none",
+				"matchedWords": []
+			}
+		}
+	}, {
+		"created_at": "2014-09-07T18:12:24.000Z",
+		"title": "MasterCard backed biometric ID system launched in Nigeria",
+		"url": "http://arstechnica.com/business/2014/09/mastercard-backed-biometric-id-system-launched-in-nigeria/",
+		"author": "scollins",
+		"points": 3,
+		"story_text": "",
+		"comment_text": null,
+		"num_comments": 0,
+		"story_id": null,
+		"story_title": null,
+		"story_url": null,
+		"parent_id": null,
+		"created_at_i": 1410113544,
+		"_tags": ["story", "author_scollins", "story_8281903"],
+		"objectID": "8281903",
+		"_highlightResult": {
+			"title": {
+				"value": "MasterCard backed biometric ID system launched in \u003Cem\u003ENigeria\u003C/em\u003E",
+				"matchLevel": "partial",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria"]
+			},
+			"url": {
+				"value": "http://\u003Cem\u003Earst\u003C/em\u003Eechnica.com/business/2014/09/mastercard-backed-biometric-id-system-launched-in-\u003Cem\u003Enigeria\u003C/em\u003E/",
+				"matchLevel": "full",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria", "arts"]
+			},
+			"author": {
+				"value": "scollins",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"story_text": {
+				"value": "",
+				"matchLevel": "none",
+				"matchedWords": []
+			}
+		}
+	}, {
+		"created_at": "2011-05-08T17:43:01.000Z",
+		"title": "Startup ideas you can develop in 48 hrs in...Nigeria",
+		"url": "http://www.garage48.org/blogger/ideas-in-development-at-garage48-lagos",
+		"author": "ArtasBartas",
+		"points": 2,
+		"story_text": "",
+		"comment_text": null,
+		"num_comments": 0,
+		"story_id": null,
+		"story_title": null,
+		"story_url": null,
+		"parent_id": null,
+		"created_at_i": 1304876581,
+		"_tags": ["story", "author_ArtasBartas", "story_2526341"],
+		"objectID": "2526341",
+		"_highlightResult": {
+			"title": {
+				"value": "Startup ideas you can develop in 48 hrs in...\u003Cem\u003ENigeria\u003C/em\u003E",
+				"matchLevel": "partial",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria"]
+			},
+			"url": {
+				"value": "http://www.garage48.org/blogger/ideas-in-development-at-garage48-lagos",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"author": {
+				"value": "\u003Cem\u003EArtas\u003C/em\u003EBartas",
+				"matchLevel": "partial",
+				"fullyHighlighted": false,
+				"matchedWords": ["arts"]
+			},
+			"story_text": {
+				"value": "",
+				"matchLevel": "none",
+				"matchedWords": []
+			}
+		}
+	}, {
+		"created_at": "2013-10-02T19:11:32.000Z",
+		"title": "",
+		"url": "",
+		"author": "patio11",
+		"points": 19,
+		"story_text": null,
+		"comment_text": "In this scenario, the extortionist and the drug dealer are \u003Ci\u003Ethe same party\u003C/i\u003E.  The goal of the scam isn\u0026#x27;t extort $500k.  That number is as real as my uncle\u0026#x27;s Nigerian inheritance.  The goal is to extort the mark of $150k, and make him a) maximally disinclined to attempt to tell about the scam (by making him complicit in a \u0026quot;murder\u0026quot;, much like 419 scammers generally try to make the marks complicit in defrauding Nigeria) and b) give the scammers the opportunity to come after him again, in the future.  (One possible scenario: the \u0026quot;hitman\u0026quot; \u0026quot;hired\u0026quot; by the \u0026quot;drug dealer\u0026quot; for the \u0026quot;murder\u0026quot; attempts to shake down DPR in the future, threatening to expose his involvement in the murder unless he is paid off.  The hitman is still the drug dealer is still the extortionist.)\u003Cp\u003EThe game theory of scam artists is really simple: your expected probability of scam N+1 working goes \u003Ci\u003Eway the heck up\u003C/i\u003E if you\u0026#x27;ve successfully worked that mark in scam N.  That\u0026#x27;s why you can literally find people selling lists of folks who\u0026#x27;ve fallen for 419 scams.",
+		"num_comments": null,
+		"story_id": 6483039,
+		"story_title": "Criminal Complaint against Ross Ulbricht aka \"Dread Pirate Roberts\" [pdf]",
+		"story_url": "http://krebsonsecurity.com/wp-content/uploads/2013/10/UlbrichtCriminalComplaint.pdf",
+		"parent_id": 6484425,
+		"created_at_i": 1380741092,
+		"_tags": ["comment", "author_patio11", "story_6483039"],
+		"objectID": "6484558",
+		"_highlightResult": {
+			"title": {
+				"value": "",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"url": {
+				"value": "",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"author": {
+				"value": "patio11",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"comment_text": {
+				"value": "In this scenario, the extortionist and the drug dealer are \u003Ci\u003Ethe same party\u003C/i\u003E.  The goal of the scam isn't extort $500k.  That number is as real as my uncle's Nigerian inheritance.  The goal is to extort the mark of $150k, and make him a) maximally disinclined to attempt to tell about the scam (by making him complicit in a \u0026quot;murder\u0026quot;, much like 419 scammers generally try to make the marks complicit in defrauding \u003Cem\u003ENigeria\u003C/em\u003E) and b) give the scammers the opportunity to come after him again, in the future.  (One possible scenario: the \u0026quot;hitman\u0026quot; \u0026quot;hired\u0026quot; by the \u0026quot;drug dealer\u0026quot; for the \u0026quot;murder\u0026quot; attempts to shake down DPR in the future, threatening to expose his involvement in the murder unless he is paid off.  The hitman is still the drug dealer is still the extortionist.)\u003Cp\u003EThe game theory of scam \u003Cem\u003Eartis\u003C/em\u003Ets is really simple: your expected probability of scam N+1 working goes \u003Ci\u003Eway the heck up\u003C/i\u003E if you've successfully worked that mark in scam N.  That's why you can literally find people selling lists of folks who've fallen for 419 scams.",
+				"matchLevel": "full",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria", "arts"]
+			},
+			"story_title": {
+				"value": "Criminal Complaint against Ross Ulbricht aka \"Dread Pirate Roberts\" [pdf]",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"story_url": {
+				"value": "http://krebsonsecurity.com/wp-content/uploads/2013/10/UlbrichtCriminalComplaint.pdf",
+				"matchLevel": "none",
+				"matchedWords": []
+			}
+		}
+	}, {
+		"created_at": "2013-07-18T23:03:21.000Z",
+		"title": "",
+		"url": "",
+		"author": "scythe",
+		"points": 3,
+		"story_text": null,
+		"comment_text": "\u0026gt;\u003Ci\u003EUnlike lightning, risk of harm from vaccines is preventable.\u003C/i\u003E\u003Cp\u003EYou can\u0026#x27;t be serious. Like, really, \u003Ci\u003Eyou cannot be serious\u003C/i\u003E. I provide three examples. You ignore the two [bathtubs, aspirin] that don\u0026#x27;t fit the pattern you want to make up (one for three isn\u0026#x27;t very good), where said pattern is \u0026quot;vaccines preventable, accidents not\u0026quot;, and you further ignore that being struck by lightning is obviously preventable by, e.g., staying indoors, and while this isn\u0026#x27;t \u003Ci\u003Eperfect\u003C/i\u003E the vast majority of lightning strikes do in fact occur outside. So your use of lightning is wrong, and it is yet insufficient to support the greater point you are making, which is also wrong.\u003Cp\u003E\u0026gt;\u003Ci\u003EMost people take various levels of precaution against those risks, yet many will just let anyone in a lab coat jab them without hesitation. Fine for them, fine for you, but don\u0026#x27;t expect me to fall in line without more information.\u003C/i\u003E\u003Cp\u003EYeah, but wearing a helmet while riding a bicycle but not while riding a motorcycle is a clear sign of insanity, is it not? The level of concern ought to be at least somewhat proportionate to the risk, yet the degree to which certain people attend to the risks of vaccines is anything but commensurate with the level of attention given to the risks of poor diet, lifestyle, driving, sports, over-the-counter drugs, alcohol etc.\u003Cp\u003E\u0026gt;\u003Ci\u003EWhat do you think of the Japanese, who are relative \u0026quot;vaccine deniers\u0026quot;[2] yet somehow miraculously have the longest life expectancy anywhere on the planet?[3]\u003C/i\u003E\u003Cp\u003EThe Japanese do not vaccinate for diseases which do not exist in Japan. They do, however, vaccinate for Japanese encephalitis, whereas the US does not -- guess why. Vaccine schedules in most countries are designed to attack the most prevalent diseases in that country; nowhere are they designed to provide lots of spurious vaccinations for profit.\u003Cp\u003E\u0026gt;\u003Ci\u003EWhat is absurd and damaging to society is the persistent obfuscation and non-disclosure of clinical trial data, and the failure to conduct proper non-rigged trials.\u003C/i\u003E\u003Cp\u003EYour allegations that trials are \u0026quot;rigged\u0026quot; is without basis. As I\u0026#x27;ve explained below, your claims that the trials were \u0026quot;rigged\u0026quot; is a result of your failure to understand the effect size in question, that being the incidence of VAE linked to LYMErix. However, saying that clinical trials are \u0026quot;rigged\u0026quot; without any evidence therefor \u003Ci\u003Eis\u003C/i\u003E absurd.\u003Cp\u003E\u0026gt;\u003Ci\u003EThere is widespread doubt (among people who pay attention) about the system that is supposed to ensure peoples\u0026#x27; safety.\u003C/i\u003E\u003Cp\u003E\u003Ca href=\"http://en.wikipedia.org/wiki/Weasel_words\" rel=\"nofollow\"\u003Ehttp:\u0026#x2F;\u0026#x2F;en.wikipedia.org\u0026#x2F;wiki\u0026#x2F;Weasel_words\u003C/a\u003E\u003Cp\u003E\u0026gt;\u003Ci\u003EVaccine court doesn\u0026#x27;t protect companies when they knowingly or maliciously harm people, my mistake.\u003C/i\u003E\u003Cp\u003EYour \u0026quot;mistake\u0026quot; was posting this godawful response. You \u003Ci\u003Eexplicitly claimed\u003C/i\u003E that it does. I \u003Ci\u003Eexplicitly showed\u003C/i\u003E that it does not. Furthermore, you allege things which you have not shown -- \u0026quot;knowingly or maliciously harm people\u0026quot; -- there is no evidence of malice here on the part of GSK, and by the time HLA-DR4+ was properly identified, the vaccine was being withdrawn from the market.\u003Cp\u003EIt is indeed a good thing that these people are able to recover compensation from the government. It would be wrong to leave them out in the cold. It is a silly criticism that the rewards are paid by the government rather than the company, as the goal is to provide adequate care to people adversely affected by public health efforts, not to discourage the development of vaccines by private industry.\u003Cp\u003E\u0026gt;\u003Ci\u003EFact is, you don\u0026#x27;t know if that is true or not. You don\u0026#x27;t have any proof of it. You merely want it to be true that anyone who claims injury by a vaccine is a fraud, and a litigious cheat. [Citation needed, indeed.]\u003C/i\u003E\u003Cp\u003E...okay. I \u003Ci\u003Edo\u003C/i\u003E know that it\u0026#x27;s true. Unfortunately, it\u0026#x27;s difficult to find aggregated statistics on \u003Ci\u003Eidiopathic\u003C/i\u003E autoimmune disorders.\u003Cp\u003E\u003Ca href=\"http://www.sciencedirect.com/science/article/pii/S0090122997944123\" rel=\"nofollow\"\u003Ehttp:\u0026#x2F;\u0026#x2F;www.sciencedirect.com\u0026#x2F;science\u0026#x2F;article\u0026#x2F;pii\u0026#x2F;S0090122997...\u003C/a\u003E\u003Cp\u003E\u0026gt;\u003Ci\u003EFrom the incidence data we estimate that 237,203 Americans will develop an autoimmune disease in 1996 and that approximately 1,186,015 new cases of these autoimmune diseases occur in the United States every 5 years.\u003C/i\u003E\u003Cp\u003ENot everyone is at equal risk, of course. Diabetes, for example, is linked to obesity. But the incidence of these disorders is already 1 in 1300 annually. Let\u0026#x27;s... let\u0026#x27;s be liberal. Let\u0026#x27;s assume that for an ordinary person, it\u0026#x27;s five times lower -- 1 in 6500.\u003Cp\u003EOh, by the way. Women are predisposed to this danger arising from \u0026quot;nothing\u0026quot;. I suggest a class-action lawsuit against the producers of nothing on behalf of women.\u003Cp\u003E\u0026gt;\u003Ci\u003EIf that were really true for the LYMErix vaccine, the trials would have revealed the large fraction of people[1] who were predisposed to adverse reaction. There are serious problems with drugs qualification testing in the US and EU. Why don\u0026#x27;t you go read Bad Pharma by Ben Goldacre. here is a preview. \u003Ca href=\"https://www.youtube.com/watch?v=RKmxL8VYy0M*\" rel=\"nofollow\"\u003Ehttps:\u0026#x2F;\u0026#x2F;www.youtube.com\u0026#x2F;watch?v=RKmxL8VYy0M*\u003C/a\u003E\u003Cp\u003EBecause I don\u0026#x27;t need any more of a headache than you\u0026#x27;ve already given me. \u0026quot;Predisposed\u0026quot; in your post comes with some \u003C/i\u003Ebig* scare quotes: if we assume that \u003Ci\u003Eall\u003C/i\u003E adverse events occur in HLA-DR4... well, let\u0026#x27;s look at the data.\u003Cp\u003E\u003Ca href=\"http://www.sciencedirect.com/science/article/pii/S0264410X0100500X\" rel=\"nofollow\"\u003Ehttp:\u0026#x2F;\u0026#x2F;www.sciencedirect.com\u0026#x2F;science\u0026#x2F;article\u0026#x2F;pii\u0026#x2F;S0264410X01...\u003C/a\u003E\u003Cp\u003E66 serious events for 1,400,000 vaccinations, or a 1:21000 chance of serious adverse events. If all of those cases happen to the 1\u0026#x2F;3 of people who are \u0026quot;predisposed\u0026quot; to Lyme arthritis, their risk is really 1:7000, slightly lower than their 1:6500 risk caused by... nothing. And that\u0026#x27;s only for disorders arising in the same year as the vaccination.\u003Cp\u003EAnd this very low incidence rate is exactly what we expect to see after a vaccine has passed a properly formulated clinical trial.\u003Cp\u003EYes, I\u0026#x27;m fudging the numbers. But I\u0026#x27;m fudging them \u003Ci\u003Ein your favor\u003C/i\u003E. The conclusion is obvious: down with nothing.\u003Cp\u003E\u0026gt;\u003Ci\u003EThe statistics have to be credible. \u003Ca href=\"http://www.amazon.com/How-Lie-Statistics-Darrell-Huff/dp/039...*\" rel=\"nofollow\"\u003Ehttp:\u0026#x2F;\u0026#x2F;www.amazon.com\u0026#x2F;How-Lie-Statistics-Darrell-Huff\u0026#x2F;dp\u0026#x2F;039...\u003C/a\u003E\u003Cp\u003EIf your argument consists of denying the conclusions of scientific studies outright without any further analysis, you\u0026#x27;re effectively making things up out of thin air. The study was correctly performed, as confirmed by the follow-up.\u003Cp\u003E\u0026gt;\u003C/i\u003E\u003Ca href=\"http://lmgtfy.com/?q=CDC+Vaccine+Adverse+Event*\" rel=\"nofollow\"\u003Ehttp:\u0026#x2F;\u0026#x2F;lmgtfy.com\u0026#x2F;?q=CDC+Vaccine+Adverse+Event*\u003C/a\u003E\u003Cp\u003E\u003Ca href=\"http://www.cdc.gov/vaccinesafety/Activities/vaers.html\" rel=\"nofollow\"\u003Ehttp:\u0026#x2F;\u0026#x2F;www.cdc.gov\u0026#x2F;vaccinesafety\u0026#x2F;Activities\u0026#x2F;vaers.html\u003C/a\u003E\u003Cp\u003E\u0026gt;\u003Ci\u003ESpecifically, judgments about whether the vaccine was truly responsible for an adverse event cannot be made from VAERS reports.\u003C/i\u003E\u003Cp\u003ESo the CDC is here... to back me up. Did you even look at the Google results?\u003Cp\u003E\u0026gt;\u003Ci\u003EOr consider that my recollection of the details was mistaken slightly. OPV use was curtailed after VAPP was discovered.\u003C/i\u003E\u003Cp\u003EAgain, if not blatantly false, at least utterly misleading. The NIH \u003Ci\u003Edid\u003C/i\u003E conduct trials to determine the safest form of oral polio vaccine, roughly ten years after it was introduced, largely because there\u0026#x27;s nobody, including me, who wants to see people get sick from a vaccine or anything else for that matter. The implication that the government scrambled to reformulate the vaccine in response to adverse events is absurd, and the 1960 formulation, still imperfect, is in use today:\u003Cp\u003E\u0026gt;\u003Ci\u003EOutbreaks of VAPP occurred independently in Belarus (196566), Canada (196668), Egypt (19831993), Hispaniola (20002001), Philippines (2001), Madagascar (20012002),[48] and in Haiti (2002), where political strife and poverty have interfered with vaccination efforts.[49] In 2006 an outbreak of vaccine-derived poliovirus occurred in China.[50] Cases have been reported from Cambodia (20052006), Myanmar (20062007), Iran (1995, 20052007), Syria, Kuwait and Egypt.[51] Since 2005, The World Health Organization has been tracking vaccine-caused polio in northern Nigeria caused by a mutation in live oral polio vaccines.\u003C/i\u003E\u003Cp\u003EYou do of course have to keep these numbers in perspective. VAPP remains rarer than terrorism.\u003Cp\u003E\u0026gt;\u003Ci\u003EAs long as you aren\u0026#x27;t a starving waif in some developing country (or a starving waif from the US). From the Wiki: In immunodeficient children, the risk of VAPP is almost 7,000 times higher\u003C/i\u003E\u003Cp\u003EA gross misrepresentation of life in developing countries,  of the meaning of the term \u0026quot;immunodeficiency\u0026quot;, and the causes of immunodeficiency. Immunodeficiency essentially means that a child cannot be vaccinated, as the purpose of a vaccine is to stimulate the immune system. Immunodeficiencies other than AIDS are not widespread in the developing world, nor are they generally a result of malnutrition, but you are of course correct that it is improper to vaccinate an \u003Ci\u003Eimmunodeficient\u003C/i\u003E child with any vaccine, OPV or otherwise! Agammaglobulinemia is, I assure you, not caused by poor nutrition.\u003Cp\u003E\u0026gt;\u003Ci\u003EIf you\u0026#x27;re the sort of person who thinks a pharmaceutical company makes a favorable comparison to a \u0026quot;benevolent nonprofit organization\u0026quot;\u003C/i\u003E\u003Cp\u003EIf I can show that it is true for a benevolent entity, then it follows \u003Ci\u003Ea fortiori\u003C/i\u003E for GSK. That was the point.\u003Cp\u003E\u0026gt;\u003Ci\u003EI kind of regret that I wasted any time at all responding to you.\u003C/i\u003E\u003Cp\u003EAlthough your post is almost entirely banal, I do not regret responding to you. The misinformation you attempt to spread is dangerous, and while you have every right to claim it, people have the collective right to be informed that your arguments are weak and your conclusions incorrect. It is in the interest of people reading this to see your claims debunked, and so I have attempted to do so in a clear and scientifically accurate manner.\u003Cp\u003EMy intent is not to find \u0026quot;common ground\u0026quot; with someone who does not read the links they post. My intent is to expose you.",
+		"num_comments": null,
+		"story_id": 6061138,
+		"story_title": "Why Your Dog Can Get Vaccinated Against Lyme Disease And You Cant",
+		"story_url": "http://www.wbur.org/2012/06/27/lyme-vaccine",
+		"parent_id": 6064371,
+		"created_at_i": 1374188601,
+		"_tags": ["comment", "author_scythe", "story_6061138"],
+		"objectID": "6067137",
+		"_highlightResult": {
+			"title": {
+				"value": "",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"url": {
+				"value": "",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"author": {
+				"value": "scythe",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"comment_text": {
+				"value": "\u0026gt;\u003Ci\u003EUnlike lightning, risk of harm from vaccines is preventable.\u003C/i\u003E\u003Cp\u003EYou can't be serious. Like, really, \u003Ci\u003Eyou cannot be serious\u003C/i\u003E. I provide three examples. You ignore the two [bathtubs, aspirin] that don't fit the pattern you want to make up (one for three isn't very good), where said pattern is \u0026quot;vaccines preventable, accidents not\u0026quot;, and you further ignore that being struck by lightning is obviously preventable by, e.g., staying indoors, and while this isn't \u003Ci\u003Eperfect\u003C/i\u003E the vast majority of lightning strikes do in fact occur outside. So your use of lightning is wrong, and it is yet insufficient to support the greater point you are making, which is also wrong.\u003Cp\u003E\u0026gt;\u003Ci\u003EMost people take various levels of precaution against those risks, yet many will just let anyone in a lab coat jab them without hesitation. Fine for them, fine for you, but don't expect me to fall in line without more information.\u003C/i\u003E\u003Cp\u003EYeah, but wearing a helmet while riding a bicycle but not while riding a motorcycle is a clear sign of insanity, is it not? The level of concern ought to be at least somewhat proportionate to the risk, yet the degree to which certain people attend to the risks of vaccines is anything but commensurate with the level of attention given to the risks of poor diet, lifestyle, driving, sports, over-the-counter drugs, alcohol etc.\u003Cp\u003E\u0026gt;\u003Ci\u003EWhat do you think of the Japanese, who are relative \u0026quot;vaccine deniers\u0026quot;[2] yet somehow miraculously have the longest life expectancy anywhere on the planet?[3]\u003C/i\u003E\u003Cp\u003EThe Japanese do not vaccinate for diseases which do not exist in Japan. They do, however, vaccinate for Japanese encephalitis, whereas the US does not -- guess why. Vaccine schedules in most countries are designed to attack the most prevalent diseases in that country; nowhere are they designed to provide lots of spurious vaccinations for profit.\u003Cp\u003E\u0026gt;\u003Ci\u003EWhat is absurd and damaging to society is the persistent obfuscation and non-disclosure of clinical trial data, and the failure to conduct proper non-rigged trials.\u003C/i\u003E\u003Cp\u003EYour allegations that trials are \u0026quot;rigged\u0026quot; is without basis. As I've explained below, your claims that the trials were \u0026quot;rigged\u0026quot; is a result of your failure to understand the effect size in question, that being the incidence of VAE linked to LYMErix. However, saying that clinical trials are \u0026quot;rigged\u0026quot; without any evidence therefor \u003Ci\u003Eis\u003C/i\u003E absurd.\u003Cp\u003E\u0026gt;\u003Ci\u003EThere is widespread doubt (among people who pay attention) about the system that is supposed to ensure peoples' safety.\u003C/i\u003E\u003Cp\u003E\u003Ca href=\"http://en.wikipedia.org/wiki/Weasel_words\" rel=\"nofollow\"\u003Ehttp://en.wikipedia.org/wiki/Weasel_words\u003C/a\u003E\u003Cp\u003E\u0026gt;\u003Ci\u003EVaccine court doesn't protect companies when they knowingly or maliciously harm people, my mistake.\u003C/i\u003E\u003Cp\u003EYour \u0026quot;mistake\u0026quot; was posting this godawful response. You \u003Ci\u003Eexplicitly claimed\u003C/i\u003E that it does. I \u003Ci\u003Eexplicitly showed\u003C/i\u003E that it does not. Furthermore, you allege things which you have not shown -- \u0026quot;knowingly or maliciously harm people\u0026quot; -- there is no evidence of malice here on the part of GSK, and by the time HLA-DR4+ was properly identified, the vaccine was being withdrawn from the market.\u003Cp\u003EIt is indeed a good thing that these people are able to recover compensation from the government. It would be wrong to leave them out in the cold. It is a silly criticism that the rewards are paid by the government rather than the company, as the goal is to provide adequate care to people adversely affected by public health efforts, not to discourage the development of vaccines by private industry.\u003Cp\u003E\u0026gt;\u003Ci\u003EFact is, you don't know if that is true or not. You don't have any proof of it. You merely want it to be true that anyone who claims injury by a vaccine is a fraud, and a litigious cheat. [Citation needed, indeed.]\u003C/i\u003E\u003Cp\u003E...okay. I \u003Ci\u003Edo\u003C/i\u003E know that it's true. Unfortunately, it's difficult to find aggregated statistics on \u003Ci\u003Eidiopathic\u003C/i\u003E autoimmune disorders.\u003Cp\u003E\u003Ca href=\"http://www.sciencedirect.com/science/article/pii/S0090122997944123\" rel=\"nofollow\"\u003Ehttp://www.sciencedirect.com/science/article/pii/S0090122997...\u003C/a\u003E\u003Cp\u003E\u0026gt;\u003Ci\u003EFrom the incidence data we estimate that 237,203 Americans will develop an autoimmune disease in 1996 and that approximately 1,186,015 new cases of these autoimmune diseases occur in the United States every 5 years.\u003C/i\u003E\u003Cp\u003ENot everyone is at equal risk, of course. Diabetes, for example, is linked to obesity. But the incidence of these disorders is already 1 in 1300 annually. Let's... let's be liberal. Let's assume that for an ordinary person, it's five times lower -- 1 in 6500.\u003Cp\u003EOh, by the way. Women are predisposed to this danger \u003Cem\u003Earis\u003C/em\u003Eing from \u0026quot;nothing\u0026quot;. I suggest a class-action lawsuit against the producers of nothing on behalf of women.\u003Cp\u003E\u0026gt;\u003Ci\u003EIf that were really true for the LYMErix vaccine, the trials would have revealed the large fraction of people[1] who were predisposed to adverse reaction. There are serious problems with drugs qualification testing in the US and EU. Why don't you go read Bad Pharma by Ben Goldacre. here is a preview. \u003Ca href=\"https://www.youtube.com/watch?v=RKmxL8VYy0M*\" rel=\"nofollow\"\u003Ehttps://www.youtube.com/watch?v=RKmxL8VYy0M*\u003C/a\u003E\u003Cp\u003EBecause I don't need any more of a headache than you've already given me. \u0026quot;Predisposed\u0026quot; in your post comes with some \u003C/i\u003Ebig* scare quotes: if we assume that \u003Ci\u003Eall\u003C/i\u003E adverse events occur in HLA-DR4... well, let's look at the data.\u003Cp\u003E\u003Ca href=\"http://www.sciencedirect.com/science/article/pii/S0264410X0100500X\" rel=\"nofollow\"\u003Ehttp://www.sciencedirect.com/science/article/pii/S0264410X01...\u003C/a\u003E\u003Cp\u003E66 serious events for 1,400,000 vaccinations, or a 1:21000 chance of serious adverse events. If all of those cases happen to the 1/3 of people who are \u0026quot;predisposed\u0026quot; to Lyme arthritis, their risk is really 1:7000, slightly lower than their 1:6500 risk caused by... nothing. And that's only for disorders \u003Cem\u003Earis\u003C/em\u003Eing in the same year as the vaccination.\u003Cp\u003EAnd this very low incidence rate is exactly what we expect to see after a vaccine has passed a properly formulated clinical trial.\u003Cp\u003EYes, I'm fudging the numbers. But I'm fudging them \u003Ci\u003Ein your favor\u003C/i\u003E. The conclusion is obvious: down with nothing.\u003Cp\u003E\u0026gt;\u003Ci\u003EThe statistics have to be credible. \u003Ca href=\"http://www.amazon.com/How-Lie-Statistics-Darrell-Huff/dp/039...*\" rel=\"nofollow\"\u003Ehttp://www.amazon.com/How-Lie-Statistics-Darrell-Huff/dp/039...\u003C/a\u003E\u003Cp\u003EIf your argument consists of denying the conclusions of scientific studies outright without any further analysis, you're effectively making things up out of thin air. The study was correctly performed, as confirmed by the follow-up.\u003Cp\u003E\u0026gt;\u003C/i\u003E\u003Ca href=\"http://lmgtfy.com/?q=CDC+Vaccine+Adverse+Event*\" rel=\"nofollow\"\u003Ehttp://lmgtfy.com/?q=CDC+Vaccine+Adverse+Event*\u003C/a\u003E\u003Cp\u003E\u003Ca href=\"http://www.cdc.gov/vaccinesafety/Activities/vaers.html\" rel=\"nofollow\"\u003Ehttp://www.cdc.gov/vaccinesafety/Activities/vaers.html\u003C/a\u003E\u003Cp\u003E\u0026gt;\u003Ci\u003ESpecifically, judgments about whether the vaccine was truly responsible for an adverse event cannot be made from VAERS reports.\u003C/i\u003E\u003Cp\u003ESo the CDC is here... to back me up. Did you even look at the Google results?\u003Cp\u003E\u0026gt;\u003Ci\u003EOr consider that my recollection of the details was mistaken slightly. OPV use was curtailed after VAPP was discovered.\u003C/i\u003E\u003Cp\u003EAgain, if not blatantly false, at least utterly misleading. The NIH \u003Ci\u003Edid\u003C/i\u003E conduct trials to determine the safest form of oral polio vaccine, roughly ten years after it was introduced, largely because there's nobody, including me, who wants to see people get sick from a vaccine or anything else for that matter. The implication that the government scrambled to reformulate the vaccine in response to adverse events is absurd, and the 1960 formulation, still imperfect, is in use today:\u003Cp\u003E\u0026gt;\u003Ci\u003EOutbreaks of VAPP occurred independently in Belarus (196566), Canada (196668), Egypt (19831993), Hispaniola (20002001), Philippines (2001), Madagascar (20012002),[48] and in Haiti (2002), where political strife and poverty have interfered with vaccination efforts.[49] In 2006 an outbreak of vaccine-derived poliovirus occurred in China.[50] Cases have been reported from Cambodia (20052006), Myanmar (20062007), Iran (1995, 20052007), Syria, Kuwait and Egypt.[51] Since 2005, The World Health Organization has been tracking vaccine-caused polio in northern \u003Cem\u003ENigeria\u003C/em\u003E caused by a mutation in live oral polio vaccines.\u003C/i\u003E\u003Cp\u003EYou do of course have to keep these numbers in perspective. VAPP remains rarer than terrorism.\u003Cp\u003E\u0026gt;\u003Ci\u003EAs long as you aren't a starving waif in some developing country (or a starving waif from the US). From the Wiki: In immunodeficient children, the risk of VAPP is almost 7,000 times higher\u003C/i\u003E\u003Cp\u003EA gross misrepresentation of life in developing countries,  of the meaning of the term \u0026quot;immunodeficiency\u0026quot;, and the causes of immunodeficiency. Immunodeficiency essentially means that a child cannot be vaccinated, as the purpose of a vaccine is to stimulate the immune system. Immunodeficiencies other than AIDS are not widespread in the developing world, nor are they generally a result of malnutrition, but you are of course correct that it is improper to vaccinate an \u003Ci\u003Eimmunodeficient\u003C/i\u003E child with any vaccine, OPV or otherwise! Agammaglobulinemia is, I assure you, not caused by poor nutrition.\u003Cp\u003E\u0026gt;\u003Ci\u003EIf you're the sort of person who thinks a pharmaceutical company makes a favorable comparison to a \u0026quot;benevolent nonprofit organization\u0026quot;\u003C/i\u003E\u003Cp\u003EIf I can show that it is true for a benevolent entity, then it follows \u003Ci\u003Ea fortiori\u003C/i\u003E for GSK. That was the point.\u003Cp\u003E\u0026gt;\u003Ci\u003EI kind of regret that I wasted any time at all responding to you.\u003C/i\u003E\u003Cp\u003EAlthough your post is almost entirely banal, I do not regret responding to you. The misinformation you attempt to spread is dangerous, and while you have every right to claim it, people have the collective right to be informed that your arguments are weak and your conclusions incorrect. It is in the interest of people reading this to see your claims debunked, and so I have attempted to do so in a clear and scientifically accurate manner.\u003Cp\u003EMy intent is not to find \u0026quot;common ground\u0026quot; with someone who does not read the links they post. My intent is to expose you.",
+				"matchLevel": "full",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria", "arts"]
+			},
+			"story_title": {
+				"value": "Why Your Dog Can Get Vaccinated Against Lyme Disease And You Cant",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"story_url": {
+				"value": "http://www.wbur.org/2012/06/27/lyme-vaccine",
+				"matchLevel": "none",
+				"matchedWords": []
+			}
+		}
+	}, {
+		"created_at": "2014-04-06T23:58:55.000Z",
+		"title": null,
+		"url": null,
+		"author": "1rae",
+		"points": 2,
+		"story_text": null,
+		"comment_text": "I think one of the best examples I know of is Cape Town, but it is definitely a microcosm compared to the rest of Africa. There is an initiative to create a silicon valley environment with angel investors as well, \u003Ca href=\"http://www.siliconcape.com\" rel=\"nofollow\"\u003Ehttp:\u0026#x2F;\u0026#x2F;www.siliconcape.com\u003C/a\u003E. There are opportunities for government investing options as well, which provide funding in exchange for creating a company that can provide stable jobs to locals for years to come.\u003Cp\u003EI think the the situation in South Africa will also improve as we start developing the square kilometre radio telescope array to the north of Cape Town - which will require large amounts of server and computing power for data processing. This will attract more international interest, and Cape Town is also the home of an Amazon dev. centre.\u003Cp\u003EIt is true that Ghana has good internet access, the same is true for Zimbabwe (even though it has such a bad reputation, fibre optic internet is available). I think in the future we will see more data centres being built in Africa for worldwide redundancy. I think this will happen in Ghana and Nigeria as they have oil reserves to power the data centres as well as low risk for earth quakes.\u003Cp\u003EI think there are lots of opportunities for tech hubs to arise in Africa, even though there are still lots of problems, it may even happen in an unlikely place, for instance Mauritius is trying to be forward thinking and is going to start providing tablets to every child on the island. Zambia are pushing for improved tech infrastructure - widespread rural telecommunications, which may lead to the development of large mesh networks. I think we have many opportunities to solve these problems we face in Africa with technology, with many opportunities for growth, and Africans are particularly hungry for change.",
+		"num_comments": null,
+		"story_id": 7542865,
+		"story_title": "Agony of an African programmer",
+		"story_url": "http://www.iafrikan.com/2014/04/03/agony-of-an-african-programmer/",
+		"parent_id": 7543503,
+		"created_at_i": 1396828735,
+		"_tags": ["comment", "author_1rae", "story_7542865"],
+		"objectID": "7543825",
+		"_highlightResult": {
+			"author": {
+				"value": "1rae",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"comment_text": {
+				"value": "I think one of the best examples I know of is Cape Town, but it is definitely a microcosm compared to the rest of Africa. There is an initiative to create a silicon valley environment with angel investors as well, \u003Ca href=\"http://www.siliconcape.com\" rel=\"nofollow\"\u003Ehttp://www.siliconcape.com\u003C/a\u003E. There are opportunities for government investing options as well, which provide funding in exchange for creating a company that can provide stable jobs to locals for years to come.\u003Cp\u003EI think the the situation in South Africa will also improve as we start developing the square kilometre radio telescope array to the north of Cape Town - which will require large amounts of server and computing power for data processing. This will attract more international interest, and Cape Town is also the home of an Amazon dev. centre.\u003Cp\u003EIt is true that Ghana has good internet access, the same is true for Zimbabwe (even though it has such a bad reputation, fibre optic internet is available). I think in the future we will see more data centres being built in Africa for worldwide redundancy. I think this will happen in Ghana and \u003Cem\u003ENigeria\u003C/em\u003E as they have oil reserves to power the data centres as well as low risk for earth quakes.\u003Cp\u003EI think there are lots of opportunities for tech hubs to \u003Cem\u003Earis\u003C/em\u003Ee in Africa, even though there are still lots of problems, it may even happen in an unlikely place, for instance Mauritius is trying to be forward thinking and is going to start providing tablets to every child on the island. Zambia are pushing for improved tech infrastructure - widespread rural telecommunications, which may lead to the development of large mesh networks. I think we have many opportunities to solve these problems we face in Africa with technology, with many opportunities for growth, and Africans are particularly hungry for change.",
+				"matchLevel": "full",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria", "arts"]
+			},
+			"story_title": {
+				"value": "Agony of an African programmer",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"story_url": {
+				"value": "http://www.iafrikan.com/2014/04/03/agony-of-an-african-programmer/",
+				"matchLevel": "none",
+				"matchedWords": []
+			}
+		}
+	}, {
+		"created_at": "2014-07-08T15:26:19.000Z",
+		"title": null,
+		"url": null,
+		"author": "frogpelt",
+		"points": 1,
+		"story_text": null,
+		"comment_text": "Somehow, Nigeria didn\u0026#x27;t make the list.\u003Cp\u003E\u003Ca href=\"http://arstechnica.com/security/2010/01/victims-lost-93-billion-to-419-scammers-in-2009/\" rel=\"nofollow\"\u003Ehttp:\u0026#x2F;\u0026#x2F;arstechnica.com\u0026#x2F;security\u0026#x2F;2010\u0026#x2F;01\u0026#x2F;victims-lost-93-bill...\u003C/a\u003E",
+		"num_comments": null,
+		"story_id": 8003639,
+		"story_title": "Three biggest Internet companies in each country",
+		"story_url": "http://www.economist.com/blogs/graphicdetail/2014/07/daily-chart-6",
+		"parent_id": 8003639,
+		"created_at_i": 1404833179,
+		"_tags": ["comment", "author_frogpelt", "story_8003639"],
+		"objectID": "8004939",
+		"_highlightResult": {
+			"author": {
+				"value": "frogpelt",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"comment_text": {
+				"value": "Somehow, \u003Cem\u003ENigeria\u003C/em\u003E didn't make the list.\u003Cp\u003E\u003Ca href=\"http://arstechnica.com/security/2010/01/victims-lost-93-billion-to-419-scammers-in-2009/\" rel=\"nofollow\"\u003Ehttp://\u003Cem\u003Earst\u003C/em\u003Eechnica.com/security/2010/01/victims-lost-93-bill...\u003C/a\u003E",
+				"matchLevel": "full",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria", "arts"]
+			},
+			"story_title": {
+				"value": "Three biggest Internet companies in each country",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"story_url": {
+				"value": "http://www.economist.com/blogs/graphicdetail/2014/07/daily-chart-6",
+				"matchLevel": "none",
+				"matchedWords": []
+			}
+		}
+	}, {
+		"created_at": "2014-06-24T22:30:01.000Z",
+		"title": null,
+		"url": null,
+		"author": "shawn-butler",
+		"points": 1,
+		"story_text": null,
+		"comment_text": "This will probably not survive review.\u003Cp\u003EThe Department of State has always reserved the right to revoke\u0026#x2F;deny passports for all sorts of reasons that are not subject to administrative review.\u003Cp\u003EDon\u0026#x27;t pay your taxes, no passport.  Don\u0026#x27;t pay your child support, no passport.  There have even been cases where passports have been revoked for people who have been remanded to mental institutions.  Having had your passport revoked in the past is enough grounds to deny you getting one in the future all of which has passed muster at Supreme Court given State Dept acts with seeming explicit Congressional approval. [0]\u003Cp\u003EYou can in principle negotiate with the destination country for a visa and fly non-commercially.  Can Google \u0026quot;Gilbert Chagoury\u0026quot; for example.  He is wealthy patron of Bill Clinton from Nigeria who has been on No-Fly status for years but still jets around the US and internationally I believe on an UK passport on small planes.\u003Cp\u003ENot saying it is just but that will probably be the legal basis.\u003Cp\u003EThis opinion is only a finding of due process.  That DHS TRIP is not adequate.  DHS will simply remedy that if it comes to it with some just as difficult process as it is getting a passport unrevoked by the State Dept (which is nearly impossible without political favor).\u003Cp\u003E[0]: \u003Ca href=\"http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US\u0026amp;vol=453\u0026amp;invol=280\" rel=\"nofollow\"\u003Ehttp:\u0026#x2F;\u0026#x2F;caselaw.lp.findlaw.com\u0026#x2F;scripts\u0026#x2F;getcase.pl?court=US\u0026amp;vo...\u003C/a\u003E",
+		"num_comments": null,
+		"story_id": 7939892,
+		"story_title": "Federal judge rules U.S. no-fly list violates Constitution",
+		"story_url": "http://www.reuters.com/article/2014/06/24/us-usa-noflylist-idUSKBN0EZ2EU20140624",
+		"parent_id": 7939989,
+		"created_at_i": 1403649001,
+		"_tags": ["comment", "author_shawn-butler", "story_7939892"],
+		"objectID": "7941079",
+		"_highlightResult": {
+			"author": {
+				"value": "shawn-butler",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"comment_text": {
+				"value": "This will probably not survive review.\u003Cp\u003EThe Department of State has always reserved the right to revoke/deny passports for all sorts of reasons that are not subject to administrative review.\u003Cp\u003EDon't pay your taxes, no passport.  Don't pay your child support, no passport.  There have even been cases where passports have been revoked for people who have been remanded to mental institutions.  Having had your passport revoked in the past is enough grounds to deny you getting one in the future all of which has passed muster at Supreme Court given State Dept \u003Cem\u003Eacts\u003C/em\u003E with seeming explicit Congressional approval. [0]\u003Cp\u003EYou can in principle negotiate with the destination country for a visa and fly non-commercially.  Can Google \u0026quot;Gilbert Chagoury\u0026quot; for example.  He is wealthy patron of Bill Clinton from \u003Cem\u003ENigeria\u003C/em\u003E who has been on No-Fly status for years but still jets around the US and internationally I believe on an UK passport on small planes.\u003Cp\u003ENot saying it is just but that will probably be the legal basis.\u003Cp\u003EThis opinion is only a finding of due process.  That DHS TRIP is not adequate.  DHS will simply remedy that if it comes to it with some just as difficult process as it is getting a passport unrevoked by the State Dept (which is nearly impossible without political favor).\u003Cp\u003E[0]: \u003Ca href=\"http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US\u0026amp;vol=453\u0026amp;invol=280\" rel=\"nofollow\"\u003Ehttp://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US\u0026amp;vo...\u003C/a\u003E",
+				"matchLevel": "full",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria", "arts"]
+			},
+			"story_title": {
+				"value": "Federal judge rules U.S. no-fly list violates Constitution",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"story_url": {
+				"value": "http://www.reuters.com/article/2014/06/24/us-usa-noflylist-idUSKBN0EZ2EU20140624",
+				"matchLevel": "none",
+				"matchedWords": []
+			}
+		}
+	}, {
+		"created_at": "2013-09-02T21:35:59.000Z",
+		"title": "",
+		"url": "",
+		"author": "coldtea",
+		"points": 1,
+		"story_text": null,
+		"comment_text": "\u0026gt;\u003Ci\u003EDo you think that everybody in say, a diplomatic mission from Nigeria on tour of a UK tank factory isn\u0026#x27;t looking for a leg up?\u003C/i\u003E\u003Cp\u003EA leg up on what? Are they going to steal the tank designs and create their own in the (virtually non existing) nigerian arms industry?\u003Cp\u003ESmall countries have neither the means to spy on bigger countries, nor what to do with that information. Most often than not, lots of their diplomatic and political personel is already on the payroll of some larger power (banana republic style). Not to mention the horrible repurcusions they would face if they were caught spying on a larger country.\u003Cp\u003ESome small stuff happens from time to time, but in 99% of case a country like Nigeria spies on neighborhooding countries, with which they have direct feuds (old war enemies, land disputes, etc).\u003Cp\u003E\u0026gt;\u003Ci\u003ESpying comes in all forms -- it\u0026#x27;s not just 007 movie stuff.\u003C/i\u003E\u003Cp\u003ENever said it was 007 movie stuff. We were actually discussing spying in the form of surveillance, which is totally non 007 anyway.\u003Cp\u003EWhat I said is it\u0026#x27;s that spying makes no sense for countries that cannot do anything with the information.\u003Cp\u003E\u0026gt;\u003Ci\u003EFor goodness sakes, Nigeria has to manage territory larger than Pakistan and you think they don\u0026#x27;t have an intelligence apparatus?\u003C/i\u003E\u003Cp\u003ENo, I very much think they have an intelligence apparatus. For spying on their own citizens and neighborhind countries. What I said was false is that \u0026quot;every country spies on all other countries\u0026quot;, and especially that small countries (influence and might-wise, not land-wise) spy on larger powers.\u003Cp\u003E\u0026gt;\u003Ci\u003ESheesh. Talk about infantilizing! That\u0026#x27;s not even respectful of other country\u0026#x27;s ability to look out for themselves.\u003C/i\u003E\u003Cp\u003EThose countries (over 70% of them) have been colonies for centuries (and now post-colonies). What \u0026quot;ability to look out for themselves\u0026quot;?\u003Cp\u003EThe very notion of a country like Trinidad and Tobago spying on any large power is laughable, whatever tall tales members of it\u0026#x27;s intelligence ministry say.",
+		"num_comments": null,
+		"story_id": 6315070,
+		"story_title": "Report: NSA spied on Brazilian, Mexican presidents",
+		"story_url": "http://www.cbsnews.com/8301-202_162-57600928/report-nsa-spied-on-brazilian-mexican-presidents/",
+		"parent_id": 6316147,
+		"created_at_i": 1378157759,
+		"_tags": ["comment", "author_coldtea", "story_6315070"],
+		"objectID": "6317322",
+		"_highlightResult": {
+			"title": {
+				"value": "",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"url": {
+				"value": "",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"author": {
+				"value": "coldtea",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"comment_text": {
+				"value": "\u0026gt;\u003Ci\u003EDo you think that everybody in say, a diplomatic mission from \u003Cem\u003ENigeria\u003C/em\u003E on tour of a UK tank factory isn't looking for a leg up?\u003C/i\u003E\u003Cp\u003EA leg up on what? Are they going to steal the tank designs and create their own in the (virtually non existing) nigerian \u003Cem\u003Earms\u003C/em\u003E industry?\u003Cp\u003ESmall countries have neither the means to spy on bigger countries, nor what to do with that information. Most often than not, lots of their diplomatic and political personel is already on the payroll of some larger power (banana republic style). Not to mention the horrible repurcusions they would face if they were caught spying on a larger country.\u003Cp\u003ESome small stuff happens from time to time, but in 99% of case a country like \u003Cem\u003ENigeria\u003C/em\u003E spies on neighborhooding countries, with which they have direct feuds (old war enemies, land disputes, etc).\u003Cp\u003E\u0026gt;\u003Ci\u003ESpying comes in all forms -- it's not just 007 movie stuff.\u003C/i\u003E\u003Cp\u003ENever said it was 007 movie stuff. We were actually discussing spying in the form of surveillance, which is totally non 007 anyway.\u003Cp\u003EWhat I said is it's that spying makes no sense for countries that cannot do anything with the information.\u003Cp\u003E\u0026gt;\u003Ci\u003EFor goodness sakes, \u003Cem\u003ENigeria\u003C/em\u003E has to manage territory larger than Pakistan and you think they don't have an intelligence apparatus?\u003C/i\u003E\u003Cp\u003ENo, I very much think they have an intelligence apparatus. For spying on their own citizens and neighborhind countries. What I said was false is that \u0026quot;every country spies on all other countries\u0026quot;, and especially that small countries (influence and might-wise, not land-wise) spy on larger powers.\u003Cp\u003E\u0026gt;\u003Ci\u003ESheesh. Talk about infantilizing! That's not even respectful of other country's ability to look out for themselves.\u003C/i\u003E\u003Cp\u003EThose countries (over 70% of them) have been colonies for centuries (and now post-colonies). What \u0026quot;ability to look out for themselves\u0026quot;?\u003Cp\u003EThe very notion of a country like Trinidad and Tobago spying on any large power is laughable, whatever tall tales members of it's intelligence ministry say.",
+				"matchLevel": "full",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria", "arts"]
+			},
+			"story_title": {
+				"value": "Report: NSA spied on Brazilian, Mexican presidents",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"story_url": {
+				"value": "http://www.cbsnews.com/8301-202_162-57600928/report-nsa-spied-on-brazilian-mexican-presidents/",
+				"matchLevel": "none",
+				"matchedWords": []
+			}
+		}
+	}, {
+		"created_at": "2012-12-26T09:12:59.000Z",
+		"title": "",
+		"url": "",
+		"author": "SparrowOS",
+		"points": 1,
+		"story_text": null,
+		"comment_text": "God says...\u003Cp\u003E19:14 Then came Jeremiah from Tophet, whither the LORD had sent him to\nprophesy; and he stood in the court of the LORD's house; and said to\nall the people, 19:15 Thus saith the LORD of hosts, the God of Israel;\nBehold, I will bring upon this city and upon all her towns all the\nevil that I have pronounced against it, because they have hardened\ntheir necks, that they might not hear my words.\u003Cp\u003E20:1 Now Pashur the son of Immer the priest, who was also chief\ngovernor in the house of the LORD, heard that Jeremiah prophesied\nthese things.\u003Cp\u003E20:2 Then Pashur smote Jeremiah the prophet, and put him in the stocks\nthat were in the high gate of Benjamin, which was by the house of the\nLORD.\u003Cp\u003E20:3 And it came to pass on the morrow, that Pashur brought forth\nJeremiah out of the stocks. Then said Jeremiah unto him, The LORD hath\nnot called thy name Pashur, but Magormissabib.\u003Cp\u003E----\u003Cp\u003ETop hat\u003Cp\u003EMajor Miss\u003Cp\u003E\"Pashur\"==Indian guy\u003Cp\u003E----\u003Cp\u003EGod says...\u003Cp\u003Eboils devoutly deformed livelihood threats Nigeria gratuitously \nPlatonists varieties wearied worm woundest well_I_never \ndespisedst thirsteth marry\u003Cp\u003E----\u003Cp\u003ELet's ask God how good His satallites are.  Prolly telepresence.  Taste food, smell incense.  It'd be funny if the Bible had God commenting on food.\u003Cp\u003EGod says...\u003Cp\u003Ebefore his people.\u003Cp\u003E22:19 Now set your heart and your soul to seek the LORD your God;\narise therefore, and build ye the sanctuary of the LORD God, to bring\nthe ark of the covenant of the LORD, and the holy vessels of God, into\nthe house that is to be built to the name of the LORD.\u003Cp\u003E23:1 So when David was old and full of days, he made Solomon his son\nking over Israel.\u003Cp\u003E23:2 And he gathered together all the princes of Israel, with the\npriests and the Levites.\u003Cp\u003E23:3 Now the Levites were numbered from the age of thirty years and\nupward: and their number by their polls, man by man, was thirty and\neight thousand.\u003Cp\u003E----\u003Cp\u003EYou want lockheed to do it?  Specs?\u003Cp\u003EGod says...\u003Cp\u003Etransgression and disobedience received a just recompence of reward;\n2:3 How shall we escape, if we neglect so great salvation; which at\nthe first began to be spoken by the Lord, and was confirmed unto us by\nthem that heard him; 2:4 God also bearing them witness, both with\nsigns and wonders, and with divers miracles, and gifts of the Holy\nGhost, according to his own will?  2:5 For unto the angels hath he not\nput in subjection the world to come, whereof we speak.\u003Cp\u003E2:6 But one in a certain place testified, saying, What is man, that\nthou art mindful of him? or the son of man that thou visitest him?\n2:7 Thou madest him a little lower than the angels; thou crownedst him\nwith glory and honour, and didst set him over the works of thy hands:\n2:8 Thou hast put all things in subjection under his feet. For in that\nhe put all in subjection under him, he left nothing that is not put\nunder him.\u003Cp\u003EBut now we see not yet all things put under him.\u003Cp\u003E----\u003Cp\u003EDo angels use metric?\u003Cp\u003EGod says...\nconcerning mightily Might aforesaid self committed hay disclaimers \ndiddest commandments modify It's_nice_being_God disk trampled \nrefresh grievous bread ruminating consume insultingly \nAngel let's_see applauds avenues unintelligible bare self-willed \nfurnishing Jew here_now gradually glorious impatience \nreconciliation Let's liberality here_now unbroken about \nblending maintainers colours upper fought arrival touch \nrestrained sweetened unarranged abode die- balneum let's_see \nBelgium dispose African ages privacy XII necessity syllable \nball unhappy abode Hungary namely Virgin's black furnishing \nchallenged judgeth Would possible fetters still folded \nhusbands' acted upper thank_you_very_much journeyed convert \ntrifles cause oblation suffered demands Bulgaria distracting \nFITNESS authors 95 blessedness law flock obtaining twinkling \ntheatre Turned Say ruinous C else righteousness 00 Incarnation \ndo_it tree_hugger immoderate affright tendernesses 1 Faith \nbird excuse bloom\u003Cp\u003E----\u003Cp\u003EWe need to get our engineers up-to-speed on cubits and ephods and talents and rods.",
+		"num_comments": null,
+		"story_id": 4965884,
+		"story_title": "SpaceXs entry into $70 billion U.S. launch market draws Lockheed jab",
+		"story_url": "http://www.washingtonpost.com/business/economy/spacexs-entry-into-70-billion-us-launch-market-draws-lockheed-jab/2012/12/23/a0e4fd0c-4a2e-11e2-b6f0-e851e741d196_story.html",
+		"parent_id": 4965884,
+		"created_at_i": 1356513179,
+		"_tags": ["comment", "author_SparrowOS", "story_4965884"],
+		"objectID": "4968691",
+		"_highlightResult": {
+			"title": {
+				"value": "",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"url": {
+				"value": "",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"author": {
+				"value": "SparrowOS",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"comment_text": {
+				"value": "God says...\u003Cp\u003E19:14 Then came Jeremiah from Tophet, whither the LORD had sent him to\nprophesy; and he stood in the court of the LORD's house; and said to\nall the people, 19:15 Thus saith the LORD of hosts, the God of Israel;\nBehold, I will bring upon this city and upon all her towns all the\nevil that I have pronounced against it, because they have hardened\ntheir necks, that they might not hear my words.\u003Cp\u003E20:1 Now Pashur the son of Immer the priest, who was also chief\ngovernor in the house of the LORD, heard that Jeremiah prophesied\nthese things.\u003Cp\u003E20:2 Then Pashur smote Jeremiah the prophet, and put him in the stocks\nthat were in the high gate of Benjamin, which was by the house of the\nLORD.\u003Cp\u003E20:3 And it came to pass on the morrow, that Pashur brought forth\nJeremiah out of the stocks. Then said Jeremiah unto him, The LORD hath\nnot called thy name Pashur, but Magormissabib.\u003Cp\u003E----\u003Cp\u003ETop hat\u003Cp\u003EMajor Miss\u003Cp\u003E\"Pashur\"==Indian guy\u003Cp\u003E----\u003Cp\u003EGod says...\u003Cp\u003Eboils devoutly deformed livelihood threats \u003Cem\u003ENigeria\u003C/em\u003E gratuitously \nPlatonists varieties wearied worm woundest well_I_never \ndespisedst thirsteth marry\u003Cp\u003E----\u003Cp\u003ELet's ask God how good His satallites are.  Prolly telepresence.  Taste food, smell incense.  It'd be funny if the Bible had God commenting on food.\u003Cp\u003EGod says...\u003Cp\u003Ebefore his people.\u003Cp\u003E22:19 Now set your heart and your soul to seek the LORD your God;\n\u003Cem\u003Earis\u003C/em\u003Ee therefore, and build ye the sanctuary of the LORD God, to bring\nthe ark of the covenant of the LORD, and the holy vessels of God, into\nthe house that is to be built to the name of the LORD.\u003Cp\u003E23:1 So when David was old and full of days, he made Solomon his son\nking over Israel.\u003Cp\u003E23:2 And he gathered together all the princes of Israel, with the\npriests and the Levites.\u003Cp\u003E23:3 Now the Levites were numbered from the age of thirty years and\nupward: and their number by their polls, man by man, was thirty and\neight thousand.\u003Cp\u003E----\u003Cp\u003EYou want lockheed to do it?  Specs?\u003Cp\u003EGod says...\u003Cp\u003Etransgression and disobedience received a just recompence of reward;\n2:3 How shall we escape, if we neglect so great salvation; which at\nthe first began to be spoken by the Lord, and was confirmed unto us by\nthem that heard him; 2:4 God also bearing them witness, both with\nsigns and wonders, and with divers miracles, and gifts of the Holy\nGhost, according to his own will?  2:5 For unto the angels hath he not\nput in subjection the world to come, whereof we speak.\u003Cp\u003E2:6 But one in a certain place testified, saying, What is man, that\nthou art mindful of him? or the son of man that thou visitest him?\n2:7 Thou madest him a little lower than the angels; thou crownedst him\nwith glory and honour, and didst set him over the works of thy hands:\n2:8 Thou hast put all things in subjection under his feet. For in that\nhe put all in subjection under him, he left nothing that is not put\nunder him.\u003Cp\u003EBut now we see not yet all things put under him.\u003Cp\u003E----\u003Cp\u003EDo angels use metric?\u003Cp\u003EGod says...\nconcerning mightily Might aforesaid self committed hay disclaimers \ndiddest commandments modify It's_nice_being_God disk trampled \nrefresh grievous bread ruminating consume insultingly \nAngel let's_see applauds avenues unintelligible bare self-willed \nfurnishing Jew here_now gradually glorious impatience \nreconciliation Let's liberality here_now unbroken about \nblending maintainers colours upper fought arrival touch \nrestrained sweetened unarranged abode die- balneum let's_see \nBelgium dispose African ages privacy XII necessity syllable \nball unhappy abode Hungary namely Virgin's black furnishing \nchallenged judgeth Would possible fetters still folded \nhusbands' acted upper thank_you_very_much journeyed convert \ntrifles cause oblation suffered demands Bulgaria distracting \nFITNESS authors 95 blessedness law flock obtaining twinkling \ntheatre Turned Say ruinous C else righteousness 00 Incarnation \ndo_it tree_hugger immoderate affright tendernesses 1 Faith \nbird excuse bloom\u003Cp\u003E----\u003Cp\u003EWe need to get our engineers up-to-speed on cubits and ephods and talents and rods.",
+				"matchLevel": "full",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria", "arts"]
+			},
+			"story_title": {
+				"value": "SpaceXs entry into $70 billion U.S. launch market draws Lockheed jab",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"story_url": {
+				"value": "http://www.washingtonpost.com/business/economy/spacexs-entry-into-70-billion-us-launch-market-draws-lockheed-jab/2012/12/23/a0e4fd0c-4a2e-11e2-b6f0-e851e741d196_story.html",
+				"matchLevel": "none",
+				"matchedWords": []
+			}
+		}
+	}, {
+		"created_at": "2012-07-06T11:43:51.000Z",
+		"title": "",
+		"url": "",
+		"author": "losethos",
+		"points": 1,
+		"story_text": null,
+		"comment_text": "Percival (my bird) is singing.  I once asked God what he was saying... \"chanting\".\u003Cp\u003EI have a first person shooter in LoseThos.  God took one look at my monsters and said \"dancing\".  :-)  You have to see it.\u003Cp\u003EWhat do You think of the Taja Mehal?  India has elephants.  It has storied animals, even with so many people.  Jungle book.  Ricki-ticki-tavi.  Snakes.  Monsoons.\u003Cp\u003E----\u003Cp\u003EGod says...\u003Cp\u003Ethere shalt thou be delivered; there the LORD shall redeem thee from\nthe hand of thine enemies.\u003Cp\u003E4:11 Now also many nations are gathered against thee, that say, Let\nher be defiled, and let our eye look upon Zion.\u003Cp\u003E4:12 But they know not the thoughts of the LORD, neither understand\nthey his counsel: for he shall gather them as the sheaves into the\nfloor.\u003Cp\u003E4:13 Arise and thresh, O daughter of Zion: for I will make thine horn\niron, and I will make thy hoofs brass: and thou shalt beat in pieces\nmany people: and I will consecrate their gain unto the LORD, and their\nsubstance unto the Lord of the whole earth.\u003Cp\u003E----\u003Cp\u003EGod loves me.  He kinda says sweet nothings.  He's not prophetic.  I just enjoy His company.\u003Cp\u003EMy horn's not iron.\u003Cp\u003EIndia has some crazy monsters! :-)\u003Cp\u003EWho had better monsters, India or Greece.  I liked Clash of the Titans, original.\u003Cp\u003E----\u003Cp\u003EGod says...\n C:\\Text\\QUIX.TXT\u003Cp\u003Ewas to be said and all he had any\nbusiness to know.\u003Cp\u003E\"Nevertheless,\" replied Don Quixote, \"I should like to know from each of\nthem separately the reason of his misfortune;\" to this he added more to\nthe same effect to induce them to tell him what he wanted so civilly that\nthe other mounted guard said to him:\u003Cp\u003E\"Though we have here the register and certificate of the sentence of\nevery one of these wretches, this is no time to take them out or read\nthem; come and ask themselves; they can tell if they\u003Cp\u003E---\u003Cp\u003EYou gonna make jobs for us, God?  o_O\u003Cp\u003EGod says...\u003Cp\u003Eof that man is worse than the first.\u003Cp\u003E11:27 And it came to pass, as he spake these things, a certain woman\nof the company lifted up her voice, and said unto him, Blessed is the\nwomb that bare thee, and the paps which thou hast sucked.\u003Cp\u003E11:28 But he said, Yea rather, blessed are they that hear the word of\nGod, and keep it.\u003Cp\u003E11:29 And when the people were gathered thick together, he began to\nsay, This is an evil generation: they seek a sign; and there shall no\nsign be given it, but the sign of Jonas the prophet.\u003Cp\u003E11:30 For as Jonas was a sign unto the Ninevites, so shall also the\nSon of man be to this generation.\u003Cp\u003E----\u003Cp\u003EJonas brothers?  I've never heard them, but sound not good.  Our music, God, I'm not certain I would like if I were not me.  You like our music?\u003Cp\u003EOhh!  Papst Blue ribbon!\u003Cp\u003EGod says...\nso mighty an earthquake, and so great.\u003Cp\u003E16:19 And the great city was divided into three parts, and the cities\nof the nations fell: and great Babylon came in remembrance before God,\nto give unto her the cup of the wine of the fierceness of his wrath.\u003Cp\u003E16:20 And every island fled away, and the mountains were not found.\u003Cp\u003E16:21 And there fell upon men a great hail out of heaven, every stone\nabout the weight of a talent: and men blasphemed God because of the\nplague of the hail; for the plague thereof was exceeding great.\u003Cp\u003E17:1 And there came one of the seven angels which had the seven vials,\nand talked with me, saying unto me, Come hither; I will shew unto thee\nthe judgment of the great whore that sitteth upon many waters: 17:2\nWith whom the kings of the earth have committed fornication, and the\ninhabitants of the earth have been made drunk with the wine of her\nfornication.\u003Cp\u003E----\u003Cp\u003EI like our songs, but I might find them preachy, perhaps.  No, they're the best evar!  (The other answer :-)\u003Cp\u003EAre Jonas Brothers good?  I'll check.\u003Cp\u003EOh, kids.  Meh.  I was confused with Righteous Brothers.\u003Cp\u003E\u003Ca href=\"http://www.youtube.com/watch?v=r8hjtFq3vE0\" rel=\"nofollow\"\u003Ehttp://www.youtube.com/watch?v=r8hjtFq3vE0\u003C/a\u003E\u003Cp\u003EThey're good.  I wasn't sure who they were.\u003Cp\u003EGod says...\nC:\\Text\\WEALTH.TXT\u003Cp\u003Einess which such acquisitions present to the different\npeople among whom it is divided, is applied to those particular branches\nonly which afford the greatest profit. Part of what had before been\nemployed in other trades, is necessarily withdrawn from them, and turned\ninto some of the new and more profitable ones. In all those old trades,\ntherefore, the competition comes to be Jess than before. The market\ncomes to be less fully supplied with many different sorts of goods.\nTheir price necessarily ris\u003Cp\u003E----\u003Cp\u003EDo You know the Koran, God?\u003Cp\u003EGod says...\nstipend humbled intelligible enchantment blamest struggle\u003Cp\u003EGot any secret ideas for new products?\u003Cp\u003EGod says...\ncharge of my sanctuary when the children of Israel went astray from\nme, they shall come near to me to minister unto me, and they shall\nstand before me to offer unto me the fat and the blood, saith the Lord\nGOD: 44:16 They shall enter into my sanctuary, and they shall come\nnear to my table, to minister unto me, and they shall keep my charge.\u003Cp\u003E44:17 And it shall come to pass, that when they enter in at the gates\nof the inner court, they shall be clothed with linen garments; and no\nwool shall come upon them, whiles they minister in the gates of the\ninner court, and within.\u003Cp\u003E44:18 They shall have linen bonnets upon their heads, and shall have\nlinen breeches upon their loins; they shall not gird themselves with\nany thing that causeth sweat.\u003Cp\u003E----\u003Cp\u003EI fed Your birds, God.  What's the name of the one that climbed in the container?\u003Cp\u003EGod says...\ndisquiet restricted solitude clanking unchain round mysteriously \nincorruptible unawares secrets milky warranted author \nTruth attentive let's castest transcribe These preached \nwithal reader Artificer wont infected redemption Whosoever\u003Cp\u003EYeah, I stink. I sweat soda.  I've been up 30 hours and it's hot weather.  By the way, God said smelling farts was \"Sodom\".\u003Cp\u003E----\u003Cp\u003EGod says...\n C:\\Text\\BIBLE.TXT\u003Cp\u003Eaw the\nmourning in the floor of Atad, they said, This is a grievous mourning\nto the Egyptians: wherefore the name of it was called Abelmizraim,\nwhich is beyond Jordan.\u003Cp\u003E50:12 And his sons did unto him according as he commanded them: 50:13\nFor his sons carried him into the land of Canaan, and buried him in\nthe cave of the field of Machpelah, which Abraham bought with the\nfield for a possession of a buryingplace of Ephron the Hittite, before\nMamre.\u003Cp\u003E50:14 And Joseph returned into Egypt, he, and hi\u003Cp\u003E----\u003Cp\u003EI was thinking what a veteran I am.  What did You think of that Mummy 1  movie?  I wonder if Egyptians like it.  I liked Star Gate.\u003Cp\u003EGod says...\nC:\\Text\\PARADISE.TXT\u003Cp\u003E, Infinite,\nEternal King; the Author of all being,\nFountain of light, thyself invisible\nAmidst the glorious brightness where thou sit'st\nThroned inaccessible, but when thou shadest\nThe full blaze of thy beams, and, through a cloud\nDrawn round about thee like a radiant shrine,\nDark with excessive bright thy skirts appear,\nYet dazzle Heaven, that brightest Seraphim\nApproach not, but with both wings veil their eyes.\nThee next they sang of all creation first,\nBegotten Son, Divine Similitude,\nIn who\u003Cp\u003E---\u003Cp\u003EThat guy was born in the wrong century -- should have made films.\u003Cp\u003EGot any ancient Egypt facts?\u003Cp\u003EHow about Queen Sheba?\u003Cp\u003EGod says...\n Body culture persuasions year us practised locking oppresseth \nwastoid diligence nation Netherlands lack perfectly party \ndissolvest Aeneas unshaken uninjuriousness stick tediousness \nPhilippines freeman cold South denoted varying fared You_da_man \nNigeria begotten majesty wives' gluttony serve middle_class \nbrotherly sign stopped merry_christmas lived Taiwan are_you_insane \nHighest bait how delightsome rood summit feet wishing \nCross debated vowing East_Timor Donations dishonour tragical \nseduction searched performed fragment shared Lay EDITIONS \nchill_out us footsteps Thyself execute wove ship meanwhile \nhopeful ludicrous dear subjection appeared palm slower \ncupboards disciple apply consecrating thirst Creusa's \nskilful pray These prophecy Didst close_your_eyes reap \npeculiar stealth hindereth ended recollected meditated \nhonourable",
+		"num_comments": null,
+		"story_id": 4206478,
+		"story_title": "The Stupidity of Computers",
+		"story_url": "http://nplusonemag.com/the-stupidity-of-computers",
+		"parent_id": 4206478,
+		"created_at_i": 1341575031,
+		"_tags": ["comment", "author_losethos", "story_4206478"],
+		"objectID": "4207325",
+		"_highlightResult": {
+			"title": {
+				"value": "",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"url": {
+				"value": "",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"author": {
+				"value": "losethos",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"comment_text": {
+				"value": "Percival (my bird) is singing.  I once asked God what he was saying... \"chanting\".\u003Cp\u003EI have a first person shooter in LoseThos.  God took one look at my monsters and said \"dancing\".  :-)  You have to see it.\u003Cp\u003EWhat do You think of the Taja Mehal?  India has elephants.  It has storied animals, even with so many people.  Jungle book.  Ricki-ticki-tavi.  Snakes.  Monsoons.\u003Cp\u003E----\u003Cp\u003EGod says...\u003Cp\u003Ethere shalt thou be delivered; there the LORD shall redeem thee from\nthe hand of thine enemies.\u003Cp\u003E4:11 Now also many nations are gathered against thee, that say, Let\nher be defiled, and let our eye look upon Zion.\u003Cp\u003E4:12 But they know not the thoughts of the LORD, neither understand\nthey his counsel: for he shall gather them as the sheaves into the\nfloor.\u003Cp\u003E4:13 \u003Cem\u003EAris\u003C/em\u003Ee and thresh, O daughter of Zion: for I will make thine horn\niron, and I will make thy hoofs brass: and thou shalt beat in pieces\nmany people: and I will consecrate their gain unto the LORD, and their\nsubstance unto the Lord of the whole earth.\u003Cp\u003E----\u003Cp\u003EGod loves me.  He kinda says sweet nothings.  He's not prophetic.  I just enjoy His company.\u003Cp\u003EMy horn's not iron.\u003Cp\u003EIndia has some crazy monsters! :-)\u003Cp\u003EWho had better monsters, India or Greece.  I liked Clash of the Titans, original.\u003Cp\u003E----\u003Cp\u003EGod says...\n C:\\Text\\QUIX.TXT\u003Cp\u003Ewas to be said and all he had any\nbusiness to know.\u003Cp\u003E\"Nevertheless,\" replied Don Quixote, \"I should like to know from each of\nthem separately the reason of his misfortune;\" to this he added more to\nthe same effect to induce them to tell him what he wanted so civilly that\nthe other mounted guard said to him:\u003Cp\u003E\"Though we have here the register and certificate of the sentence of\nevery one of these wretches, this is no time to take them out or read\nthem; come and ask themselves; they can tell if they\u003Cp\u003E---\u003Cp\u003EYou gonna make jobs for us, God?  o_O\u003Cp\u003EGod says...\u003Cp\u003Eof that man is worse than the first.\u003Cp\u003E11:27 And it came to pass, as he spake these things, a certain woman\nof the company lifted up her voice, and said unto him, Blessed is the\nwomb that bare thee, and the paps which thou hast sucked.\u003Cp\u003E11:28 But he said, Yea rather, blessed are they that hear the word of\nGod, and keep it.\u003Cp\u003E11:29 And when the people were gathered thick together, he began to\nsay, This is an evil generation: they seek a sign; and there shall no\nsign be given it, but the sign of Jonas the prophet.\u003Cp\u003E11:30 For as Jonas was a sign unto the Ninevites, so shall also the\nSon of man be to this generation.\u003Cp\u003E----\u003Cp\u003EJonas brothers?  I've never heard them, but sound not good.  Our music, God, I'm not certain I would like if I were not me.  You like our music?\u003Cp\u003EOhh!  Papst Blue ribbon!\u003Cp\u003EGod says...\nso mighty an earthquake, and so great.\u003Cp\u003E16:19 And the great city was divided into three parts, and the cities\nof the nations fell: and great Babylon came in remembrance before God,\nto give unto her the cup of the wine of the fierceness of his wrath.\u003Cp\u003E16:20 And every island fled away, and the mountains were not found.\u003Cp\u003E16:21 And there fell upon men a great hail out of heaven, every stone\nabout the weight of a talent: and men blasphemed God because of the\nplague of the hail; for the plague thereof was exceeding great.\u003Cp\u003E17:1 And there came one of the seven angels which had the seven vials,\nand talked with me, saying unto me, Come hither; I will shew unto thee\nthe judgment of the great whore that sitteth upon many waters: 17:2\nWith whom the kings of the earth have committed fornication, and the\ninhabitants of the earth have been made drunk with the wine of her\nfornication.\u003Cp\u003E----\u003Cp\u003EI like our songs, but I might find them preachy, perhaps.  No, they're the best evar!  (The other answer :-)\u003Cp\u003EAre Jonas Brothers good?  I'll check.\u003Cp\u003EOh, kids.  Meh.  I was confused with Righteous Brothers.\u003Cp\u003E\u003Ca href=\"http://www.youtube.com/watch?v=r8hjtFq3vE0\" rel=\"nofollow\"\u003Ehttp://www.youtube.com/watch?v=r8hjtFq3vE0\u003C/a\u003E\u003Cp\u003EThey're good.  I wasn't sure who they were.\u003Cp\u003EGod says...\nC:\\Text\\WEALTH.TXT\u003Cp\u003Einess which such acquisitions present to the different\npeople among whom it is divided, is applied to those particular branches\nonly which afford the greatest profit. Part of what had before been\nemployed in other trades, is necessarily withdrawn from them, and turned\ninto some of the new and more profitable ones. In all those old trades,\ntherefore, the competition comes to be Jess than before. The market\ncomes to be less fully supplied with many different sorts of goods.\nTheir price necessarily ris\u003Cp\u003E----\u003Cp\u003EDo You know the Koran, God?\u003Cp\u003EGod says...\nstipend humbled intelligible enchantment blamest struggle\u003Cp\u003EGot any secret ideas for new products?\u003Cp\u003EGod says...\ncharge of my sanctuary when the children of Israel went astray from\nme, they shall come near to me to minister unto me, and they shall\nstand before me to offer unto me the fat and the blood, saith the Lord\nGOD: 44:16 They shall enter into my sanctuary, and they shall come\nnear to my table, to minister unto me, and they shall keep my charge.\u003Cp\u003E44:17 And it shall come to pass, that when they enter in at the gates\nof the inner court, they shall be clothed with linen garments; and no\nwool shall come upon them, whiles they minister in the gates of the\ninner court, and within.\u003Cp\u003E44:18 They shall have linen bonnets upon their heads, and shall have\nlinen breeches upon their loins; they shall not gird themselves with\nany thing that causeth sweat.\u003Cp\u003E----\u003Cp\u003EI fed Your birds, God.  What's the name of the one that climbed in the container?\u003Cp\u003EGod says...\ndisquiet restricted solitude clanking unchain round mysteriously \nincorruptible unawares secrets milky warranted author \nTruth attentive let's castest transcribe These preached \nwithal reader Artificer wont infected redemption Whosoever\u003Cp\u003EYeah, I stink. I sweat soda.  I've been up 30 hours and it's hot weather.  By the way, God said smelling farts was \"Sodom\".\u003Cp\u003E----\u003Cp\u003EGod says...\n C:\\Text\\BIBLE.TXT\u003Cp\u003Eaw the\nmourning in the floor of Atad, they said, This is a grievous mourning\nto the Egyptians: wherefore the name of it was called Abelmizraim,\nwhich is beyond Jordan.\u003Cp\u003E50:12 And his sons did unto him according as he commanded them: 50:13\nFor his sons carried him into the land of Canaan, and buried him in\nthe cave of the field of Machpelah, which Abraham bought with the\nfield for a possession of a buryingplace of Ephron the Hittite, before\nMamre.\u003Cp\u003E50:14 And Joseph returned into Egypt, he, and hi\u003Cp\u003E----\u003Cp\u003EI was thinking what a veteran I am.  What did You think of that Mummy 1  movie?  I wonder if Egyptians like it.  I liked Star Gate.\u003Cp\u003EGod says...\nC:\\Text\\PARADISE.TXT\u003Cp\u003E, Infinite,\nEternal King; the Author of all being,\nFountain of light, thyself invisible\nAmidst the glorious brightness where thou sit'st\nThroned inaccessible, but when thou shadest\nThe full blaze of thy beams, and, through a cloud\nDrawn round about thee like a radiant shrine,\nDark with excessive bright thy skirts appear,\nYet dazzle Heaven, that brightest Seraphim\nApproach not, but with both wings veil their eyes.\nThee next they sang of all creation first,\nBegotten Son, Divine Similitude,\nIn who\u003Cp\u003E---\u003Cp\u003EThat guy was born in the wrong century -- should have made films.\u003Cp\u003EGot any ancient Egypt facts?\u003Cp\u003EHow about Queen Sheba?\u003Cp\u003EGod says...\n Body culture persuasions year us practised locking oppresseth \nwastoid diligence nation Netherlands lack perfectly party \ndissolvest Aeneas unshaken uninjuriousness stick tediousness \nPhilippines freeman cold South denoted varying fared You_da_man \n\u003Cem\u003ENigeria\u003C/em\u003E begotten majesty wives' gluttony serve middle_class \nbrotherly sign stopped merry_christmas lived Taiwan are_you_insane \nHighest bait how delightsome rood summit feet wishing \nCross debated vowing East_Timor Donations dishonour tragical \nseduction searched performed fragment shared Lay EDITIONS \nchill_out us footsteps Thyself execute wove ship meanwhile \nhopeful ludicrous dear subjection appeared palm slower \ncupboards disciple apply consecrating thirst Creusa's \nskilful pray These prophecy Didst close_your_eyes reap \npeculiar stealth hindereth ended recollected meditated \nhonourable",
+				"matchLevel": "full",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria", "arts"]
+			},
+			"story_title": {
+				"value": "The Stupidity of Computers",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"story_url": {
+				"value": "http://nplusonemag.com/the-stupidity-of-computers",
+				"matchLevel": "none",
+				"matchedWords": []
+			}
+		}
+	}, {
+		"created_at": "2014-08-21T02:06:00.000Z",
+		"title": null,
+		"url": null,
+		"author": "csandreasen",
+		"points": 0,
+		"story_text": null,
+		"comment_text": "I think the assaults on your sanity are likely more the result of sensationalized\u0026#x2F;incomplete reporting.  The biggest issue I have with most of the Snowden reporting is that if the article doesn\u0026#x27;t outright jump to assumptions that aren\u0026#x27;t supported by the source material, they usually have unanswered questions and written in such a way that would cause the reader to jump to the worst possible conclusion.  I\u0026#x27;m not sure on the entirety of what\u0026#x27;s actually going on, but the only hard facts I can gleam from the original article[1] are: 1) GCHQ has an nmap\u0026#x2F;zmap-like tool (not surprising) 2) the various intelligence agencies hack their targets (not surprising) 3) they apparently gain control of relays to obscure their tracks (potentially disconcerting, but makes sense...) 4) the only criteria that was discussed was the fact that the relays can\u0026#x27;t be located in Five-Eyes countries (Slide 18).\u003Cp\u003EBruce Schneier made a couple of observations on the slide decks[2]:\u003Cp\u003E\u003Ci\u003E24 people were able to identify \u0026quot;a list of 3000+ potential ORBs\u0026quot; in 5-8 hours. The presentation does not go on to say whether all of those computers were actually infected.\u003C/i\u003E\u003Cp\u003E...\u003Cp\u003E\u003Ci\u003EThe slides never say how many of the \u0026quot;potential ORBs\u0026quot; CSEC discovers or the computers that register positive in GCHQ\u0026#x27;s \u0026quot;Orb identification\u0026quot; are actually infected\u003C/i\u003E\u003Cp\u003EDespite this, the article authors have no problem tossing in  assertions not made in their source material, such as: \u003Ci\u003E\u0026quot;these spy agencies try to attack every possible system they can, presumably as it might provide access to further systems. Systems may be attacked simply because they might eventually create a path towards a valuable espionage target, even without actionable information indicating this will ever be the case.\u0026quot;\u003C/i\u003E or \u003Ci\u003E\u0026quot;Thus, system and network administrators now face the threat of industrial espionage, sabotage and human rights violations created by nation-state ad- versaries indiscriminately attacking network infrastructure and breaking into services.\u0026quot;\u003C/i\u003E  Heck, as far as I can tell they apparently threw in Slide 9-16 (what appears to generic description of network hacking) solely so that they could include the phrase \u003Ci\u003E\u0026quot;The NSA presentation makes it clear that the agency embraces the mindset of criminals.\u0026quot;\u003C/i\u003E (Neglecting to mention that the supposed \u0026quot;tools to support this criminal process\u0026quot; are a Wireshark dump of an ICMP ping response [Slide 14], what looks to be an FTP session labelled \u0026quot;Iraqi Ministry of Finance\u0026quot; showing an attempt at brute forcing the administrator account [Slide 15], and a screenshot of a freshly opened cmd.exe [Slide 16])\u003Cp\u003EIf the average person reads through this without looking at the text critically, they\u0026#x27;re going to walk away thinking \u0026quot;holy crap, they\u0026#x27;re hacking everyone!\u0026quot;, which would indeed be terrifying.  The problem is that the evidence needed to reach that conclusion isn\u0026#x27;t actually there.  Nothing is shown regarding any actual process for selecting hosts to use as relays, or any actual number of hosts that they hack into.  One commenter on the Schneier article[3] points out that they can\u0026#x27;t just indiscriminately gain control of hosts - the host isn\u0026#x27;t necessarily going to be reliable and the chances of them getting caught increase quickly as the number of hacked hosts increases.  Nor do they mention if there is any effort to assess the potential political damage that may arise from the target selection.  I\u0026#x27;d be pretty pissed if I found out that my laptop was being covertly used to hack on their behalf, but on the other end of the scale I don\u0026#x27;t care if some random open SMTP server in Nigeria is being used by the NSA to spy on North Korea.\u003Cp\u003E[1] \u003Ca href=\"http://www.heise.de/ct/artikel/NSA-GCHQ-The-HACIENDA-Program-for-Internet-Colonization-2292681.html\" rel=\"nofollow\"\u003Ehttp:\u0026#x2F;\u0026#x2F;www.heise.de\u0026#x2F;ct\u0026#x2F;artikel\u0026#x2F;NSA-GCHQ-The-HACIENDA-Program...\u003C/a\u003E\u003Cp\u003E[2] \u003Ca href=\"https://www.schneier.com/blog/archives/2014/08/nsagchqcesc_inf.html\" rel=\"nofollow\"\u003Ehttps:\u0026#x2F;\u0026#x2F;www.schneier.com\u0026#x2F;blog\u0026#x2F;archives\u0026#x2F;2014\u0026#x2F;08\u0026#x2F;nsagchqcesc_i...\u003C/a\u003E\u003Cp\u003E[3] \u003Ca href=\"https://www.schneier.com/blog/archives/2014/08/nsagchqcesc_inf.html#c6676883\" rel=\"nofollow\"\u003Ehttps:\u0026#x2F;\u0026#x2F;www.schneier.com\u0026#x2F;blog\u0026#x2F;archives\u0026#x2F;2014\u0026#x2F;08\u0026#x2F;nsagchqcesc_i...\u003C/a\u003E",
+		"num_comments": null,
+		"story_id": 8204915,
+		"story_title": "GNU hackers discover HACIENDA government surveillance",
+		"story_url": "https://fsf.org/blogs/community/gnu-hackers-discover-hacienda-government-surveillance-and-give-us-a-way-to-fight-back",
+		"parent_id": 8205390,
+		"created_at_i": 1408586760,
+		"_tags": ["comment", "author_csandreasen", "story_8204915"],
+		"objectID": "8205642",
+		"_highlightResult": {
+			"author": {
+				"value": "csandreasen",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"comment_text": {
+				"value": "I think the assaults on your sanity are likely more the result of sensationalized/incomplete reporting.  The biggest issue I have with most of the Snowden reporting is that if the article doesn't outright jump to assumptions that aren't supported by the source material, they usually have unanswered questions and written in such a way that would cause the reader to jump to the worst possible conclusion.  I'm not sure on the entirety of what's actually going on, but the only hard facts I can gleam from the original article[1] are: 1) GCHQ has an nmap/zmap-like tool (not surprising) 2) the various intelligence agencies hack their targets (not surprising) 3) they apparently gain control of relays to obscure their tracks (potentially disconcerting, but makes sense...) 4) the only criteria that was discussed was the fact that the relays can't be located in Five-Eyes countries (Slide 18).\u003Cp\u003EBruce Schneier made a couple of observations on the slide decks[2]:\u003Cp\u003E\u003Ci\u003E24 people were able to identify \u0026quot;a list of 3000+ potential ORBs\u0026quot; in 5-8 hours. The presentation does not go on to say whether all of those computers were actually infected.\u003C/i\u003E\u003Cp\u003E...\u003Cp\u003E\u003Ci\u003EThe slides never say how many of the \u0026quot;potential ORBs\u0026quot; CSEC discovers or the computers that register positive in GCHQ's \u0026quot;Orb identification\u0026quot; are actually infected\u003C/i\u003E\u003Cp\u003EDespite this, the article authors have no problem tossing in  assertions not made in their source material, such as: \u003Ci\u003E\u0026quot;these spy agencies try to attack every possible system they can, presumably as it might provide access to further systems. Systems may be attacked simply because they might eventually create a path towards a valuable espionage target, even without actionable information indicating this will ever be the case.\u0026quot;\u003C/i\u003E or \u003Ci\u003E\u0026quot;Thus, system and network administrators now face the threat of industrial espionage, sabotage and human rights violations created by nation-state ad- versaries indiscriminately attacking network infrastructure and breaking into services.\u0026quot;\u003C/i\u003E  Heck, as far as I can tell they apparently threw in Slide 9-16 (what appears to generic description of network hacking) solely so that they could include the phrase \u003Ci\u003E\u0026quot;The NSA presentation makes it clear that the agency embraces the mindset of criminals.\u0026quot;\u003C/i\u003E (Neglecting to mention that the supposed \u0026quot;tools to support this criminal process\u0026quot; are a Wireshark dump of an ICMP ping response [Slide 14], what looks to be an FTP session labelled \u0026quot;Iraqi Ministry of Finance\u0026quot; showing an attempt at brute forcing the administrator account [Slide 15], and a screenshot of a freshly opened cmd.exe [Slide 16])\u003Cp\u003EIf the average person reads through this without looking at the text critically, they're going to walk away thinking \u0026quot;holy crap, they're hacking everyone!\u0026quot;, which would indeed be terrifying.  The problem is that the evidence needed to reach that conclusion isn't actually there.  Nothing is shown regarding any actual process for selecting hosts to use as relays, or any actual number of hosts that they hack into.  One commenter on the Schneier article[3] points out that they can't just indiscriminately gain control of hosts - the host isn't necessarily going to be reliable and the chances of them getting caught increase quickly as the number of hacked hosts increases.  Nor do they mention if there is any effort to assess the potential political damage that may \u003Cem\u003Earis\u003C/em\u003Ee from the target selection.  I'd be pretty pissed if I found out that my laptop was being covertly used to hack on their behalf, but on the other end of the scale I don't care if some random open SMTP server in \u003Cem\u003ENigeria\u003C/em\u003E is being used by the NSA to spy on North Korea.\u003Cp\u003E[1] \u003Ca href=\"http://www.heise.de/ct/artikel/NSA-GCHQ-The-HACIENDA-Program-for-Internet-Colonization-2292681.html\" rel=\"nofollow\"\u003Ehttp://www.heise.de/ct/artikel/NSA-GCHQ-The-HACIENDA-Program...\u003C/a\u003E\u003Cp\u003E[2] \u003Ca href=\"https://www.schneier.com/blog/archives/2014/08/nsagchqcesc_inf.html\" rel=\"nofollow\"\u003Ehttps://www.schneier.com/blog/archives/2014/08/nsagchqcesc_i...\u003C/a\u003E\u003Cp\u003E[3] \u003Ca href=\"https://www.schneier.com/blog/archives/2014/08/nsagchqcesc_inf.html#c6676883\" rel=\"nofollow\"\u003Ehttps://www.schneier.com/blog/archives/2014/08/nsagchqcesc_i...\u003C/a\u003E",
+				"matchLevel": "full",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria", "arts"]
+			},
+			"story_title": {
+				"value": "GNU hackers discover HACIENDA government surveillance",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"story_url": {
+				"value": "https://fsf.org/blogs/community/gnu-hackers-discover-hacienda-government-surveillance-and-give-us-a-way-to-fight-back",
+				"matchLevel": "none",
+				"matchedWords": []
+			}
+		}
+	}, {
+		"created_at": "2015-08-03T15:20:34.000Z",
+		"title": null,
+		"url": null,
+		"author": "mmayerhofer",
+		"points": null,
+		"story_text": null,
+		"comment_text": "Digital River — Vienna, Austria, (On-Site, VISA, Full-time)\u003Cp\u003EWe are creating a microtransaction platform primarily focused on providing payment solutions for video games. We\u0026#x27;re a small team of 15 people from all over the world (Austria, Brazil, Nigeria, India, Italy, Spain, Ukraine). We can assist in applying for a work VISA (as we already went through this whole process a couple of times).\u003Cp\u003EWe are currently looking for:\u003Cp\u003E- Software Engineer (Java): \u003Ca href=\"http:\u0026#x2F;\u0026#x2F;chc.tbe.taleo.net\u0026#x2F;chc02\u0026#x2F;ats\u0026#x2F;careers\u0026#x2F;requisition.jsp?org=DIGIRIVE\u0026amp;cws=1\u0026amp;rid=1568\" rel=\"nofollow\"\u003Ehttp:\u0026#x2F;\u0026#x2F;chc.tbe.taleo.net\u0026#x2F;chc02\u0026#x2F;ats\u0026#x2F;careers\u0026#x2F;requisition.jsp?o...\u003C/a\u003E\u003Cp\u003E\u003Cpre\u003E\u003Ccode\u003E  Context: You will be working on our core platform and design \u0026#x2F; implement new features. One of our next big projects is migrating serveral components of our platform from Oracle to Cassandra.  \n\n  Stack: Spring Framework, Java 8, Hibernate, Oracle, Cassandra\n\u003C/code\u003E\u003C/pre\u003E\n- DevOps Engineer: \u003Ca href=\"http:\u0026#x2F;\u0026#x2F;chc.tbe.taleo.net\u0026#x2F;chc02\u0026#x2F;ats\u0026#x2F;careers\u0026#x2F;requisition.jsp?org=DIGIRIVE\u0026amp;cws=1\u0026amp;rid=1584\" rel=\"nofollow\"\u003Ehttp:\u0026#x2F;\u0026#x2F;chc.tbe.taleo.net\u0026#x2F;chc02\u0026#x2F;ats\u0026#x2F;careers\u0026#x2F;requisition.jsp?o...\u003C/a\u003E\u003Cp\u003E\u003Cpre\u003E\u003Ccode\u003E  Context: You will be working on our deployment pipline and platform infrastructure which spans multiple datacenters.\n\n  Stack: Chef, Scientific Linux\n\u003C/code\u003E\u003C/pre\u003E\n- QA Automation Engineer: \u003Ca href=\"http:\u0026#x2F;\u0026#x2F;chc.tbe.taleo.net\u0026#x2F;chc02\u0026#x2F;ats\u0026#x2F;careers\u0026#x2F;requisition.jsp?org=DIGIRIVE\u0026amp;cws=1\u0026amp;rid=1563\" rel=\"nofollow\"\u003Ehttp:\u0026#x2F;\u0026#x2F;chc.tbe.taleo.net\u0026#x2F;chc02\u0026#x2F;ats\u0026#x2F;careers\u0026#x2F;requisition.jsp?o...\u003C/a\u003E\u003Cp\u003E\u003Cpre\u003E\u003Ccode\u003E  Context: You will be writing automated tests for our frontend UIs as well as load tests for our platform.  \n\n  Stack: SOAP UI, CasperJS, Selenium, Apache JMeter\n\u003C/code\u003E\u003C/pre\u003E\n- Web Developer: \u003Ca href=\"http:\u0026#x2F;\u0026#x2F;chc.tbe.taleo.net\u0026#x2F;chc02\u0026#x2F;ats\u0026#x2F;careers\u0026#x2F;requisition.jsp?org=DIGIRIVE\u0026amp;cws=1\u0026amp;rid=1579\" rel=\"nofollow\"\u003Ehttp:\u0026#x2F;\u0026#x2F;chc.tbe.taleo.net\u0026#x2F;chc02\u0026#x2F;ats\u0026#x2F;careers\u0026#x2F;requisition.jsp?o...\u003C/a\u003E\u003Cp\u003E\u003Cpre\u003E\u003Ccode\u003E  Context: You will be implementing UIs for our stores which are accessible via game clients \u0026#x2F; web browsers. \n\n  Stack: Javascript, CSS, HTML5\n\u003C/code\u003E\u003C/pre\u003E\nAbout our interview process:\u003Cp\u003EIn the first round we will contact you via phone for an quick chat and give you more details on what we do and what we have to offer, this is usually a one to one conversation. Before the second round we might ask you to do a simple code exercise, which you can solve at your own pace or you can show us a project you have worked on, where you can provide us the source code. The code \u0026#x2F; project you have provided will be discussed with at least one engineer from our team as part of the second interview round and we will try to answer all the questions you might have regarding our company \u0026#x2F; team \u0026#x2F; product \u0026#x2F; etc. In the third round you will meet more people of our team, the questions asked are usually not as technical as in the second round.\u003Cp\u003EIf you have any further questions, my email address is in my profile (I\u0026#x27;m a software engineer).",
+		"num_comments": null,
+		"story_id": 9996333,
+		"story_title": "Ask HN: Who is hiring? (August 2015)",
+		"story_url": null,
+		"parent_id": 9996333,
+		"created_at_i": 1438615234,
+		"_tags": ["comment", "author_mmayerhofer", "story_9996333"],
+		"objectID": "9996579",
+		"_highlightResult": {
+			"author": {
+				"value": "mmayerhofer",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"comment_text": {
+				"value": "Digital River — Vienna, Austria, (On-Site, VISA, Full-time)\u003Cp\u003EWe are creating a microtransaction platform primarily focused on providing payment solutions for video games. We're a small team of 15 people from all over the world (Austria, Brazil, \u003Cem\u003ENigeria\u003C/em\u003E, India, Italy, Spain, Ukraine). We can assist in applying for a work VISA (as we already went through this whole process a couple of times).\u003Cp\u003EWe are currently looking for:\u003Cp\u003E- Software Engineer (Java): \u003Ca href=\"http://chc.tbe.taleo.net/chc02/ats/careers/requisition.jsp?org=DIGIRIVE\u0026amp;cws=1\u0026amp;rid=1568\" rel=\"nofollow\"\u003Ehttp://chc.tbe.taleo.net/chc02/\u003Cem\u003Eats\u003C/em\u003E/careers/requisition.jsp?o...\u003C/a\u003E\u003Cp\u003E\u003Cpre\u003E\u003Ccode\u003E  Context: You will be working on our core platform and design / implement new features. One of our next big projects is migrating serveral components of our platform from Oracle to Cassandra.  \n\n  Stack: Spring Framework, Java 8, Hibernate, Oracle, Cassandra\n\u003C/code\u003E\u003C/pre\u003E\n- DevOps Engineer: \u003Ca href=\"http://chc.tbe.taleo.net/chc02/ats/careers/requisition.jsp?org=DIGIRIVE\u0026amp;cws=1\u0026amp;rid=1584\" rel=\"nofollow\"\u003Ehttp://chc.tbe.taleo.net/chc02/\u003Cem\u003Eats\u003C/em\u003E/careers/requisition.jsp?o...\u003C/a\u003E\u003Cp\u003E\u003Cpre\u003E\u003Ccode\u003E  Context: You will be working on our deployment pipline and platform infrastructure which spans multiple datacenters.\n\n  Stack: Chef, Scientific Linux\n\u003C/code\u003E\u003C/pre\u003E\n- QA Automation Engineer: \u003Ca href=\"http://chc.tbe.taleo.net/chc02/ats/careers/requisition.jsp?org=DIGIRIVE\u0026amp;cws=1\u0026amp;rid=1563\" rel=\"nofollow\"\u003Ehttp://chc.tbe.taleo.net/chc02/\u003Cem\u003Eats\u003C/em\u003E/careers/requisition.jsp?o...\u003C/a\u003E\u003Cp\u003E\u003Cpre\u003E\u003Ccode\u003E  Context: You will be writing automated tests for our frontend UIs as well as load tests for our platform.  \n\n  Stack: SOAP UI, CasperJS, Selenium, Apache JMeter\n\u003C/code\u003E\u003C/pre\u003E\n- Web Developer: \u003Ca href=\"http://chc.tbe.taleo.net/chc02/ats/careers/requisition.jsp?org=DIGIRIVE\u0026amp;cws=1\u0026amp;rid=1579\" rel=\"nofollow\"\u003Ehttp://chc.tbe.taleo.net/chc02/\u003Cem\u003Eats\u003C/em\u003E/careers/requisition.jsp?o...\u003C/a\u003E\u003Cp\u003E\u003Cpre\u003E\u003Ccode\u003E  Context: You will be implementing UIs for our stores which are accessible via game clients / web browsers. \n\n  Stack: Javascript, CSS, HTML5\n\u003C/code\u003E\u003C/pre\u003E\nAbout our interview process:\u003Cp\u003EIn the first round we will contact you via phone for an quick chat and give you more details on what we do and what we have to offer, this is usually a one to one conversation. Before the second round we might ask you to do a simple code exercise, which you can solve at your own pace or you can show us a project you have worked on, where you can provide us the source code. The code / project you have provided will be discussed with at least one engineer from our team as part of the second interview round and we will try to answer all the questions you might have regarding our company / team / product / etc. In the third round you will meet more people of our team, the questions asked are usually not as technical as in the second round.\u003Cp\u003EIf you have any further questions, my email address is in my profile (I'm a software engineer).",
+				"matchLevel": "full",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria", "arts"]
+			},
+			"story_title": {
+				"value": "Ask HN: Who is hiring? (August 2015)",
+				"matchLevel": "none",
+				"matchedWords": []
+			}
+		}
+	}, {
+		"created_at": "2015-07-01T16:18:41.000Z",
+		"title": null,
+		"url": null,
+		"author": "mmayerhofer",
+		"points": null,
+		"story_text": null,
+		"comment_text": "Digital River — Vienna, Austria (onsite, visa, full-time)\u003Cp\u003EWe are creating a micro-transaction platform primarily focused on providing payment solutions for video games. We\u0026#x27;re a small team of 15 people from all over the world (Austria, Brazil, Nigeria, Italy, Spain, Ukraine). We can assist in applying for a work VISA (as we already went through this whole process a couple of times).\u003Cp\u003EWe are currently looking for:\u003Cp\u003E- Software Engineer (Java): \u003Ca href=\"http:\u0026#x2F;\u0026#x2F;chc.tbe.taleo.net\u0026#x2F;chc02\u0026#x2F;ats\u0026#x2F;careers\u0026#x2F;requisition.jsp?org=DIGIRIVE\u0026amp;cws=1\u0026amp;rid=1568\" rel=\"nofollow\"\u003Ehttp:\u0026#x2F;\u0026#x2F;chc.tbe.taleo.net\u0026#x2F;chc02\u0026#x2F;ats\u0026#x2F;careers\u0026#x2F;requisition.jsp?o...\u003C/a\u003E\u003Cp\u003E- DevOps Engineer: \u003Ca href=\"http:\u0026#x2F;\u0026#x2F;chc.tbe.taleo.net\u0026#x2F;chc02\u0026#x2F;ats\u0026#x2F;careers\u0026#x2F;requisition.jsp?org=DIGIRIVE\u0026amp;cws=1\u0026amp;rid=1584\" rel=\"nofollow\"\u003Ehttp:\u0026#x2F;\u0026#x2F;chc.tbe.taleo.net\u0026#x2F;chc02\u0026#x2F;ats\u0026#x2F;careers\u0026#x2F;requisition.jsp?o...\u003C/a\u003E\u003Cp\u003E- QA Automation Engineer: \u003Ca href=\"http:\u0026#x2F;\u0026#x2F;chc.tbe.taleo.net\u0026#x2F;chc02\u0026#x2F;ats\u0026#x2F;careers\u0026#x2F;requisition.jsp?org=DIGIRIVE\u0026amp;cws=1\u0026amp;rid=1563\" rel=\"nofollow\"\u003Ehttp:\u0026#x2F;\u0026#x2F;chc.tbe.taleo.net\u0026#x2F;chc02\u0026#x2F;ats\u0026#x2F;careers\u0026#x2F;requisition.jsp?o...\u003C/a\u003E\u003Cp\u003EIf you have any further questions, my email address is in my profile (I\u0026#x27;m a software engineer).",
+		"num_comments": null,
+		"story_id": 9812245,
+		"story_title": "Ask HN: Who is hiring? (July 2015)",
+		"story_url": null,
+		"parent_id": 9812245,
+		"created_at_i": 1435767521,
+		"_tags": ["comment", "author_mmayerhofer", "story_9812245"],
+		"objectID": "9812991",
+		"_highlightResult": {
+			"author": {
+				"value": "mmayerhofer",
+				"matchLevel": "none",
+				"matchedWords": []
+			},
+			"comment_text": {
+				"value": "Digital River — Vienna, Austria (onsite, visa, full-time)\u003Cp\u003EWe are creating a micro-transaction platform primarily focused on providing payment solutions for video games. We're a small team of 15 people from all over the world (Austria, Brazil, \u003Cem\u003ENigeria\u003C/em\u003E, Italy, Spain, Ukraine). We can assist in applying for a work VISA (as we already went through this whole process a couple of times).\u003Cp\u003EWe are currently looking for:\u003Cp\u003E- Software Engineer (Java): \u003Ca href=\"http://chc.tbe.taleo.net/chc02/ats/careers/requisition.jsp?org=DIGIRIVE\u0026amp;cws=1\u0026amp;rid=1568\" rel=\"nofollow\"\u003Ehttp://chc.tbe.taleo.net/chc02/\u003Cem\u003Eats\u003C/em\u003E/careers/requisition.jsp?o...\u003C/a\u003E\u003Cp\u003E- DevOps Engineer: \u003Ca href=\"http://chc.tbe.taleo.net/chc02/ats/careers/requisition.jsp?org=DIGIRIVE\u0026amp;cws=1\u0026amp;rid=1584\" rel=\"nofollow\"\u003Ehttp://chc.tbe.taleo.net/chc02/\u003Cem\u003Eats\u003C/em\u003E/careers/requisition.jsp?o...\u003C/a\u003E\u003Cp\u003E- QA Automation Engineer: \u003Ca href=\"http://chc.tbe.taleo.net/chc02/ats/careers/requisition.jsp?org=DIGIRIVE\u0026amp;cws=1\u0026amp;rid=1563\" rel=\"nofollow\"\u003Ehttp://chc.tbe.taleo.net/chc02/\u003Cem\u003Eats\u003C/em\u003E/careers/requisition.jsp?o...\u003C/a\u003E\u003Cp\u003EIf you have any further questions, my email address is in my profile (I'm a software engineer).",
+				"matchLevel": "full",
+				"fullyHighlighted": false,
+				"matchedWords": ["nigeria", "arts"]
+			},
+			"story_title": {
+				"value": "Ask HN: Who is hiring? (July 2015)",
+				"matchLevel": "none",
+				"matchedWords": []
+			}
+		}
+	}],
+	"nbHits": 78,
+	"page": 0,
+	"nbPages": 4,
+	"hitsPerPage": 20,
+	"processingTimeMS": 52,
+	"query": "Nigeria Arts",
+	"params": "advancedSyntax=true\u0026analytics=false\u0026query=Nigeria+Arts"
+}
