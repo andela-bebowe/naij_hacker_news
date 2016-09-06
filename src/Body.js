@@ -3,7 +3,6 @@ import NewsItem from './NewsItem.js'
 
 class Body extends React.Component {
   render() {
-    console.log(this.props);
     let newsData = this.props.newsData.hits;
 
     return (
