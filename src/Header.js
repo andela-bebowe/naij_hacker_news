@@ -5,10 +5,8 @@ import Category from './Category.js'
 class Header extends React.Component {
   componentDidMount() {
     /* global $ */
-    $( document ).ready(function(){
-      $(".button-collapse").sideNav({
-        closeOnClick: true
-      });
+    $(".button-collapse").sideNav({
+      closeOnClick: true
     });
   }
   render() {
