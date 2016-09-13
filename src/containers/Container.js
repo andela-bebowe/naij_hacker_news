@@ -1,10 +1,10 @@
 import React from 'react';
-import Body from './Body.js';
-import data from './data/data.json'
-import sportsData from './data/sportsData.json'
-import artsData from './data/artsData.json'
-import politicsData from './data/politicsData.json'
-import techData from './data/techData.json'
+import Body from '../components/Body.js';
+import data from '../data/data.json'
+import sportsData from '../data/sportsData.json'
+import artsData from '../data/artsData.json'
+import politicsData from '../data/politicsData.json'
+import techData from '../data/techData.json'
 
 class Container extends React.Component {
   constructor(props) { 

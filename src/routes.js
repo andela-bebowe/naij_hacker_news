@@ -1,7 +1,7 @@
 import React from 'react';
 import { Route, IndexRoute } from 'react-router';
-import Container from './Container.js';
-import App from './App.js';
+import Container from './containers/Container.js';
+import App from './components/App.js';
 
 // The container component should grab the param from its props (from router) and send it to the body, to be displayed
 
