@@ -16,7 +16,7 @@ function receivePosts(category, posts) {
     type: RECEIVE_POSTS,
     category,
     posts,
-    receivedAt: Time.now()
+    receivedAt: Date.now()
   }
 }
 
@@ -28,7 +28,7 @@ export function selectCategory(category) {
 }
 
 function fetchPosts(query) {
-  let req_query = "Africa, Nigeria ", query
+  let req_query = "Africa, Nigeria " + query
   return dispatch => {
     dispatch(requestPosts(query))
     return fetch(`http://hn.algolia.com/api/v1/search_by_date?query=${req_query}`)
@@ -45,7 +45,7 @@ function shouldFetchPosts(state, category) {
   if (posts.isFetching) {
     return false
   }
-  else if (posts.receivedAt < (Time.now() - 3600) {
+  else if (posts.receivedAt < (Date.now() - 3600)) {
     return true
   }
 }
